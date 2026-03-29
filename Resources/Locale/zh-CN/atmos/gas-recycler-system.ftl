@@ -1,0 +1,3 @@
+gas-recycler-reacting = 正在[color=green]转化[/color]废气。
+gas-recycler-low-pressure = 输入压力[color=darkred]过低[/color]。
+gas-recycler-low-temperature = 输入温度[color=darkred]过低[/color]。
