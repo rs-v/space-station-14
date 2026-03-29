@@ -1,0 +1,14 @@
+admin-solutions-window-title = 溶液编辑器 - {$targetName}
+admin-solutions-window-solution-label = 目标溶液：
+admin-solutions-window-solution-button = 溶液
+admin-solutions-window-solution-button-tooltip = 在ViewVariables中打开对应的服务器端溶液实例。用于调试预测问题。
+admin-solutions-window-vv-button = VV
+admin-solutions-window-vv-button-tooltip = 在ViewVariables中打开对应的溶液实体。
+admin-solutions-window-add-new-button = 添加新试剂
+admin-solutions-window-volume-label = 体积 {$currentVolume}/{$maxVolume}u
+admin-solutions-window-capacity-label = 容量（u）：
+admin-solutions-window-specific-heat-label = 比热：{$specificHeat} J/(K*u)
+admin-solutions-window-heat-capacity-label = 热容：{$heatCapacity} J/K
+admin-solutions-window-temperature-label = 温度（K）：
+admin-solutions-window-thermal-energy-label = 热能（J）：
+admin-solutions-window-thermals = 热力学

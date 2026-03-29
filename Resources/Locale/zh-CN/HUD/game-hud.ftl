@@ -1,0 +1,9 @@
+game-hud-open-escape-menu-button-tooltip = 打开退出菜单。
+game-hud-open-guide-menu-button-tooltip = 打开指南菜单。
+game-hud-open-character-menu-button-tooltip = 打开角色菜单。
+game-hud-open-emotes-menu-button-tooltip= 打开表情菜单。
+game-hud-open-inventory-menu-button-tooltip = 打开物品栏菜单。
+game-hud-open-crafting-menu-button-tooltip = 打开合成菜单。
+game-hud-open-actions-menu-button-tooltip = 打开动作菜单。
+game-hud-open-admin-menu-button-tooltip = 打开管理菜单。
+game-hud-open-sandbox-menu-button-tooltip = 打开沙盒菜单。
