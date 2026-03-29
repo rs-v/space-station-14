@@ -1,0 +1,14 @@
+advertisement-happyhonk-1 = 嗡！嗡！今天为什么不点一份快乐嗡嗡套餐呢？
+advertisement-happyhonk-2 = 小丑值得一个拥抱，见到他们要表示感谢。
+advertisement-happyhonk-3 = 如果你找到金色嗡嗡，向神祈祷吧，你真是个幸运儿。
+advertisement-happyhonk-4 = 快乐嗡嗡：是餐食，是划算，有个塑料玩具让你尖叫。
+advertisement-happyhonk-5 = 什么东西黑白相间却是红色的？默剧演员，她因钝器头部外伤而死。
+advertisement-happyhonk-6 = 逮捕你需要多少名安保人员？三个，一个打死你，一个上铐，一个把你的尸体扔到维修通道。
+advertisement-happyhonk-7 = 快乐嗡嗡对放入快乐嗡嗡餐盒内食品的质量不负责任。
+advertisement-happyhonk-8 = 为何不点我们的限量版默剧演员快乐嗡嗡套餐？
+advertisement-happyhonk-9 = 快乐嗡嗡是嗡嗡公司™的注册商标，远优于Robust Nukie Food公司。
+advertisement-happyhonk-10 = 我们的快乐嗡嗡套餐一定会给你一个大惊喜！
+thankyou-happyhonk-1 = 嗡！
+thankyou-happyhonk-2 = 嗡嗡！
+thankyou-happyhonk-3 = 去分享快乐！嗡！
+thankyou-happyhonk-4 = 去绊倒别人！嗡！

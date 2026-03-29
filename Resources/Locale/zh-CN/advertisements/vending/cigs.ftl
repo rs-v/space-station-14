@@ -1,0 +1,15 @@
+advertisement-cigs-1 = 太空烟的味道正如香烟应有的味道。
+advertisement-cigs-2 = 我宁愿用工具箱也不换牌子。
+advertisement-cigs-3 = 抽！
+advertisement-cigs-4 = 不要相信那些报道——今天就抽！
+advertisement-cigs-5 = 可能对你没有坏处！
+advertisement-cigs-6 = 不要相信那些科学家！
+advertisement-cigs-7 = 对你有好处！
+advertisement-cigs-8 = 别戒，买更多！
+advertisement-cigs-9 = 尼古丁天堂。
+advertisement-cigs-10 = 自2150年以来最好的香烟。
+advertisement-cigs-11 = 获奖香烟。
+advertisement-cigs-12 = 帮你缓解工作压力！
+thankyou-cigs-1 = 拿到了，现在抽它！
+thankyou-cigs-2 = 你可能不会后悔的！
+thankyou-cigs-3 = 你很快就会上瘾的！

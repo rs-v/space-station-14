@@ -1,0 +1,10 @@
+advertisement-ammo-1 = 自由站：一站式购齐所有武器装备！
+advertisement-ammo-2 = 今天就成为爱国者，拿起一把枪！
+advertisement-ammo-3 = 优质武器，价格实惠！
+advertisement-ammo-4 = 宁死不屈！
+advertisement-ammo-5 = 漂浮如宇航员，刺痛如子弹！
+advertisement-ammo-6 = 今天就行使你的武装权利！
+advertisement-ammo-7 = 枪不杀人，但你能！
+advertisement-ammo-8 = 有枪的时候谁需要责任？
+advertisement-ammo-9 = 杀人是一件有趣的事！
+advertisement-ammo-10 = 去大杀四方吧！

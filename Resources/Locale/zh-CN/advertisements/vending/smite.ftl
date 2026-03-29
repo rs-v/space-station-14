@@ -1,0 +1,12 @@
+advertisement-smite-1 = SMITE！消灭你的口渴！
+advertisement-smite-2 = 柠檬和酸橙的太古爆炸！
+advertisement-smite-3 = 已售出超过100万杯！
+advertisement-smite-4 = SMITE！掷2d8获取口味。
+advertisement-smite-5 = SMITE！让文件工作完成！
+advertisement-smite-6 = 清洁工在针对你！
+advertisement-smite-7 = SMITE！不会让你喝醉。
+advertisement-smite-8 = 柠檬酸橙时间到了！
+thankyou-smite-1 = 制裁是对的！
+thankyou-smite-2 = 你肯定想要柠檬酸橙！
+thankyou-smite-3 = 办公室不知道等着他们的是什么。
+thankyou-smite-4 = 驱逐你的口渴。

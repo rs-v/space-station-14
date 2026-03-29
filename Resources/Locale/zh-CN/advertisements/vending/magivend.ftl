@@ -1,0 +1,11 @@
+advertisement-magivend-1 = 用MagiVend正确施展法术！
+advertisement-magivend-2 = 成为你自己的胡迪尼！使用MagiVend！
+advertisement-magivend-3 = FJKLFJSD
+advertisement-magivend-4 = AJKFLBJAKL
+advertisement-magivend-5 = >MFW
+advertisement-magivend-6 = 嗡！
+advertisement-magivend-7 = EI NATH
+advertisement-magivend-8 = 摧毁空间站！
+advertisement-magivend-9 = 扭曲时空的硬件！
+advertisement-magivend-10 = 1234个卢尼哈哈！
+advertisement-magivend-11 = NAR'SIE，升起！！！

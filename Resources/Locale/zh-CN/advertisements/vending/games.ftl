@@ -1,0 +1,14 @@
+advertisement-goodcleanfun-1 = 逃进奇幻世界！
+advertisement-goodcleanfun-2 = 喂养你的赌瘾！
+advertisement-goodcleanfun-3 = 破坏你的友谊！
+advertisement-goodcleanfun-4 = 掷骰子定主动权！
+advertisement-goodcleanfun-5 = 精灵与矮人！
+advertisement-goodcleanfun-6 = 偏执的电脑！
+advertisement-goodcleanfun-7 = 绝对不是撒旦崇拜！
+advertisement-goodcleanfun-8 = 永远的欢乐时光！
+advertisement-goodcleanfun-9 = 地穴与鲤鱼！
+advertisement-goodcleanfun-10 = 和朋友一起玩！
+thankyou-goodcleanfun-1 = 玩得开心！
+thankyou-goodcleanfun-2 = 现在你玩上瘾了！
+thankyou-goodcleanfun-3 = 去大显身手吧！
+thankyou-goodcleanfun-4 = 开始制作你的角色卡！

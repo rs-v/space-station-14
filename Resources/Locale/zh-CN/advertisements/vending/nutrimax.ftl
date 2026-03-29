@@ -1,0 +1,9 @@
+advertisement-nutrimax-1 = 我们喜欢植物！
+advertisement-nutrimax-2 = 你不想要一些吗？
+advertisement-nutrimax-3 = 史上最绿的拇指。
+advertisement-nutrimax-4 = 我们喜欢大植物。
+advertisement-nutrimax-5 = 松软的土壤……
+advertisement-nutrimax-6 = 现在附赠水桶！
+advertisement-nutrimax-7 = 植物越大越好！
+thankyou-nutrimax-1 = 去种植吧！
+thankyou-nutrimax-2 = 去折腾土壤吧！

@@ -1,0 +1,13 @@
+advertisement-chefvend-1 = 保证至少六成的蛋不破碎！
+advertisement-chefvend-2 = 米饭，米饭，宝贝。
+advertisement-chefvend-3 = 涂上黄油！
+advertisement-chefvend-4 = 你值得你的盐吗？我们值得。
+advertisement-chefvend-5 = 嗯，肉。
+advertisement-chefvend-6 = 驾驭面粉的力量。
+advertisement-chefvend-7 = 用我们银河著名、获奖无数的烧烤酱向顾客展示谁是最好的厨师。
+advertisement-chefvend-8 = 我喜欢吃些新鲜的生鸡蛋。
+advertisement-chefvend-9 = 享用一些好的生鸡蛋！
+thankyou-chefvend-1 = 开始烹饪吧！
+thankyou-chefvend-2 = 感谢信任我们的优质食材！
+thankyou-chefvend-3 = 这应该能满足他们的需求！
+thankyou-chefvend-4 = 去做汉堡吧！

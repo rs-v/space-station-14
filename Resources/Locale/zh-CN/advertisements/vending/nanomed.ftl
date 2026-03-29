@@ -1,0 +1,9 @@
+advertisement-nanomed-1 = 去拯救一些生命！
+advertisement-nanomed-2 = 医疗室最好的东西。
+advertisement-nanomed-3 = 只有最精良的工具。
+advertisement-nanomed-4 = 天然化学品！
+advertisement-nanomed-5 = 这些东西救人命。
+advertisement-nanomed-6 = 你不想要一些吗？
+advertisement-nanomed-7 = 叮！
+advertisement-nanomed-8 = 确保不要给人过量！
+advertisement-nanomed-9 = 去给人过量！
