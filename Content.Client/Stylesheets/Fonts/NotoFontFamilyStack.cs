@@ -40,6 +40,12 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
     /// </summary>
     private string[] _extras = new[] { "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf" };
 
+    /// <summary>
+    ///     CJK (Chinese/Japanese/Korean) fallback fonts for bold and regular kinds.
+    /// </summary>
+    private const string _fontCjkRegular = "/Fonts/NotoSansSC/NotoSansSC-Regular.otf";
+    private const string _fontCjkBold = "/Fonts/NotoSansSC/NotoSansSC-Bold.otf";
+
     public HashSet<FontKind> AvailableKinds = [FontKind.Regular, FontKind.Bold, FontKind.Italic, FontKind.BoldItalic];
 
     /// <summary>
@@ -71,6 +77,9 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
             string.Format(_fontSymbols, kindStr, simpleKindStr, boldOrRegularStr),
         };
         fontList.AddRange(_extras);
+        // Add CJK fallback: use bold variant for bold/bolditalic kinds, regular otherwise
+        var cjkFont = (kind == FontKind.Bold || kind == FontKind.BoldItalic) ? _fontCjkBold : _fontCjkRegular;
+        fontList.Add(cjkFont);
         return fontList.ToArray();
     }
 
