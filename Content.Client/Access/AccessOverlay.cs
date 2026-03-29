@@ -22,7 +22,8 @@ public sealed class AccessOverlay : Overlay
     {
         _entityManager = entityManager;
         _transformSystem = transformSystem;
-        _font = resourceCache.GetFont(TextFontPath, TextFontSize);
+        _font = resourceCache.GetFont(
+            new[] { TextFontPath, "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, TextFontSize);
     }
 
     protected override void Draw(in OverlayDrawArgs args)
