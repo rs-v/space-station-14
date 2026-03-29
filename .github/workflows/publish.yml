@@ -46,18 +46,20 @@ jobs:
     - name: Package client
       run: dotnet run --project Content.Packaging client --no-wipe-release
 
-    - name: Publish version
-      run: Tools/publish_multi_request.py
-      env:
-        PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
-        GITHUB_REPOSITORY: ${{ vars.GITHUB_REPOSITORY }}
+    - name: Upload release artifacts
+      id: upload-artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: release
+        path: release/
 
-    - name: Publish changelog (Discord)
-      continue-on-error: true
-      run: Tools/actions_changelogs_since_last_run.py
+    - name: Publish version
+      run: Tools/publish_github_artifact.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        DISCORD_WEBHOOK_URL: ${{ secrets.CHANGELOG_DISCORD_WEBHOOK }}
+        PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
+        ARTIFACT_ID: ${{ steps.upload-artifacts.outputs.artifact-id }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
 
     - name: Publish changelog (RSS)
       continue-on-error: true
