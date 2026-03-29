@@ -1,0 +1,1 @@
+scoopable-component-popup = 你将{$scooped}舀入{THE($beaker)}中。
