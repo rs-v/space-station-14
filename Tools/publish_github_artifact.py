@@ -5,7 +5,7 @@ import os
 import subprocess
 
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
-PUBLISH_TOKEN = os.environ["PUBLISH_TOKEN"]
+PUBLISH_TOKEN = os.environ.get("PUBLISH_TOKEN")
 ARTIFACT_ID = os.environ["ARTIFACT_ID"]
 GITHUB_REPOSITORY = os.environ["GITHUB_REPOSITORY"]
 VERSION = os.environ['GITHUB_SHA']
@@ -18,6 +18,10 @@ ROBUST_CDN_URL = "https://wizards.cdn.spacestation14.com/"
 FORK_ID = "wizards"
 
 def main():
+    if not PUBLISH_TOKEN:
+        print("PUBLISH_TOKEN is not set, skipping publish.")
+        return
+
     print("Fetching artifact URL from API...")
     artifact_url = get_artifact_url()
     print(f"Artifact URL is {artifact_url}, publishing to Robust.Cdn")
