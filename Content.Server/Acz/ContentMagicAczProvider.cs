@@ -18,6 +18,10 @@ public sealed class ContentMagicAczProvider : IMagicAczProvider
 
     public async Task Package(AssetPass pass, IPackageLogger logger, CancellationToken cancel)
     {
+#if FULL_RELEASE
+        throw new InvalidOperationException("Magic ACZ is not available in release builds. Ensure the server was packaged correctly with client assets included (Hybrid ACZ).");
+#endif
+
         var contentDir = DefaultMagicAczProvider.FindContentRootPath(_deps);
 
         await ClientPackaging.WriteResources(contentDir, pass, logger, cancel);
