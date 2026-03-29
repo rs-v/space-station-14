@@ -1,0 +1,14 @@
+admin-player-actions-reason = 原因
+admin-player-actions-bans = 封禁列表
+admin-player-actions-notes = 备注
+admin-player-actions-kick = 踢出
+admin-player-actions-ban = 封禁
+admin-player-actions-ahelp = 管理员求助
+admin-player-actions-respawn = 重生
+admin-player-actions-spawn = 在此处生成
+admin-player-spawn-failed = 无法找到有效坐标
+admin-player-actions-player-panel = 打开玩家面板
+
+admin-player-actions-clone = 克隆
+admin-player-actions-follow = 跟随
+admin-player-actions-confirm = 你确定吗？

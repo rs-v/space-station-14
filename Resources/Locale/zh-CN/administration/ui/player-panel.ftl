@@ -1,0 +1,25 @@
+player-panel-title = {$player}的信息
+player-panel-username = 用户名：{$player}
+player-panel-whitelisted = 已白名单：
+player-panel-bans = 总封禁次数：{$totalBans}
+player-panel-rolebans = 总职位封禁次数：{$totalRoleBans}
+player-panel-notes = 总备注数：{$totalNotes}
+player-panel-playtime = 总游戏时间：{$days}天:{$hours}时:{$minutes}分
+player-panel-shared-connections = 共享连接数：{$sharedConnections}
+
+player-panel-copy-username = 复制
+player-panel-show-notes = 备注
+player-panel-show-bans = 显示封禁
+player-panel-help = 管理员求助
+player-panel-freeze-and-mute = 冻结并禁言
+player-panel-freeze = 冻结
+player-panel-unfreeze = 解冻
+player-panel-kick = 踢出
+player-panel-ban = 封禁
+player-panel-logs = 日志
+player-panel-delete = 删除
+player-panel-rejuvenate = 恢复
+player-panel-false = 否
+player-panel-true = 是
+player-panel-follow = 跟随
+player-panel-camera = 摄像机
