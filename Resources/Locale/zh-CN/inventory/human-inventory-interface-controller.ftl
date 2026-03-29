@@ -1,0 +1,1 @@
+human-inventory-window-title = 你的物品栏
