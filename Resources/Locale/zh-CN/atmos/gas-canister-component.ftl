@@ -17,4 +17,4 @@ gas-canister-window-release-pressure-label = 释放压力：
 gas-canister-window-valve-label = 阀门：
 gas-canister-window-valve-closed-text = 已关闭
 gas-canister-window-valve-open-text = 已开启
-gas-canister-window-pressure-format-text = {$pressure}千帕
+gas-canister-window-pressure-format-text = {$pressure} 千帕
