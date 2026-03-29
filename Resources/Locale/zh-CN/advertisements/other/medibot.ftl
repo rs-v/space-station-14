@@ -1,0 +1,17 @@
+advertisement-medibot-1 = 这是什么医疗室？人都死得像苍蝇一样。
+advertisement-medibot-2 = 早知道我该去做整形外科的。
+advertisement-medibot-3 = 总有一个陷阱，而我是最厉害的。
+advertisement-medibot-4 = 一天一个苹果，把我挡在门外。
+advertisement-medibot-5 = 我不一样！
+advertisement-medibot-6 = 去你的。
+advertisement-medibot-7 = 我们为什么还在这里？只是为了受苦吗？
+advertisement-medibot-8 = 我……我以前从未失去过病人。不是今天，我是说。
+advertisement-medibot-9 = 注射Lexorin。
+advertisement-medibot-10 = 祝你有美好的一天！
+advertisement-medibot-11 = 希望你不需要再回来！
+advertisement-medibot-12 = 记得刷牙。
+advertisement-medibot-13 = 我希望我有手。
+advertisement-medibot-14 = 我来帮忙！
+advertisement-medibot-15 = 向医生要一根棒棒糖！
+advertisement-medibot-16 = 早日康复！
+advertisement-medibot-17 = 一天一个苹果，医生远离我！

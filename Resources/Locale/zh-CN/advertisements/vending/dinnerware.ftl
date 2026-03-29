@@ -1,0 +1,10 @@
+advertisement-dinnerware-1 = 嗯，食物用品！
+advertisement-dinnerware-2 = 食物及食物配件。
+advertisement-dinnerware-3 = 来拿你的盘子！
+advertisement-dinnerware-4 = 你喜欢叉子吗？
+advertisement-dinnerware-5 = 我喜欢叉子。
+advertisement-dinnerware-6 = 哇，餐具。
+advertisement-dinnerware-7 = 其实你不太需要这些……
+advertisement-dinnerware-8 = 如果你想要就拿！
+advertisement-dinnerware-9 = 我相当确定烧杯是必需品。
+advertisement-dinnerware-10 = 为什么杯子有这么多种？！

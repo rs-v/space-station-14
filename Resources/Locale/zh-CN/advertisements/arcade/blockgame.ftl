@@ -1,0 +1,26 @@
+advertisement-block-game-1 = 法律上完全合规！
+advertisement-block-game-2 = 什么鬼是T旋？
+advertisement-block-game-3 = 这些方块可不会自己消除！
+advertisement-block-game-4 = 哔嘟嘟嘟！
+advertisement-block-game-5 = 来玩个游戏吧！
+advertisement-block-game-6 = 整整6种颜色的游戏体验！
+advertisement-block-game-7 = 火爆的8位像素动作！
+advertisement-block-game-8 = 方块，方块，方块！
+advertisement-block-game-9 = 你能登上最高分榜吗？
+advertisement-block-game-10 = 纳米创森方块游戏，做到了俄罗斯方块做不到的！
+advertisement-block-game-11 = 现在搭载爆炸处理技术！
+advertisement-block-game-12 = 我们的律师随时待命！
+advertisement-block-game-13 = 哈利路亚，方块雨下起来了！
+
+thankyou-block-game-1 = 下次再来玩！
+thankyou-block-game-2 = 玩得不错！
+thankyou-block-game-3 = 再来一局？
+thankyou-block-game-4 = 这就走了？
+thankyou-block-game-5 = 方块会想你的。
+thankyou-block-game-6 = 感谢游玩！
+thankyou-block-game-7 = 欢迎再来！
+thankyou-block-game-8 = 哔嘟嘟！
+thankyou-block-game-9 = 总有时间再来一局！
+thankyou-block-game-10 = 别轻易放弃！
+thankyou-block-game-11 = 方块永远等着你！
+thankyou-block-game-12 = 方块期待你的归来！
