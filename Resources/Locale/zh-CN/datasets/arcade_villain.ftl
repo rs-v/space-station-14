@@ -1,0 +1,40 @@
+# Verbs
+arcade-villain-verbs-fight-1 = 歼灭
+arcade-villain-verbs-fight-2 = 击败
+arcade-villain-verbs-fight-3 = 消灭
+arcade-villain-verbs-fight-4 = 碾压
+arcade-villain-verbs-fight-5 = 秒杀
+arcade-villain-verbs-fight-6 = 痛揍
+arcade-villain-verbs-fight-7 = 俘获
+arcade-villain-verbs-fight-8 = 拯救
+arcade-villain-verbs-fight-9 = 阻止
+arcade-villain-verbs-fight-10 = 重击
+
+# Enemy names
+arcade-villain-names-enemy-first-1 = 公爵
+arcade-villain-names-enemy-first-2 = 农夫
+arcade-villain-names-enemy-first-3 = 将军
+arcade-villain-names-enemy-first-4 = 领主
+arcade-villain-names-enemy-first-5 = 教授
+arcade-villain-names-enemy-first-6 = 自动
+arcade-villain-names-enemy-first-7 = 古巴
+arcade-villain-names-enemy-first-8 = 恐惧之王
+arcade-villain-names-enemy-first-9 = 邪恶
+arcade-villain-names-enemy-first-10 = 伟大
+arcade-villain-names-enemy-first-11 = 太空
+
+arcade-villain-names-enemy-last-1 = Crushulon
+arcade-villain-names-enemy-last-2 = ERP人
+arcade-villain-names-enemy-last-3 = 幽魂
+arcade-villain-names-enemy-last-4 = 破坏者
+arcade-villain-names-enemy-last-5 = 杰夫
+arcade-villain-names-enemy-last-6 = 蜥蜴人
+arcade-villain-names-enemy-last-7 = 瓜形怪
+arcade-villain-names-enemy-last-8 = 杀戮机器
+arcade-villain-names-enemy-last-9 = Pete怪
+arcade-villain-names-enemy-last-10 = 毁灭者
+arcade-villain-names-enemy-last-11 = 巫师
+arcade-villain-names-enemy-last-12 = Uhangoid
+arcade-villain-names-enemy-last-13 = 独角兽
+arcade-villain-names-enemy-last-14 = Vhakoid
+arcade-villain-names-enemy-last-15 = 史莱姆
