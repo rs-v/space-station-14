@@ -1,0 +1,1 @@
+attach-to-grid-verb-get-data-text = 附加到网格
