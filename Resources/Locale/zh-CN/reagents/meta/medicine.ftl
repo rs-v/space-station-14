@@ -20,26 +20,26 @@ reagent-name-doxarubixadone = 多柔比唑酮
 reagent-desc-doxarubixadone = 一种低温舱化学物质。治疗由危险气体和化学物质引起的细胞损伤。
 
 reagent-name-dermaline = 德玛林
-reagent-desc-dermaline = 一种高级化学物质，治疗烧伤比kelotane更有效。
+reagent-desc-dermaline = 一种高级化学物质，治疗烧伤比克洛坦更有效。
 
 reagent-name-dexalin = 脱氧林
-reagent-desc-dexalin = 用于治疗轻度缺氧和失血。是dexalin plus的必需试剂。
+reagent-desc-dexalin = 用于治疗轻度缺氧和失血。是脱氧林加强版的必需试剂。
 
 reagent-name-dexalin-plus = 脱氧林加强版
-reagent-name-dexalin-plus-saline = dexalin plus & 生理盐水
+reagent-name-dexalin-plus-saline = 脱氧林加强版 & 生理盐水
 reagent-desc-dexalin-plus = 用于治疗极端缺氧和失血。可从血液中清除心碎毒素。
 
 reagent-name-epinephrine = 肾上腺素
 reagent-desc-epinephrine = 一种有效的稳定化学物质，用于在危急期间修补轻微损伤的同时防止危重人员死于窒息。以更多肾上腺素为代价从血液中清除心碎毒素，但可能增加组胺。有助于减少眩晕时间。通常以急救注射笔的形式出现。
 
 reagent-name-hyronalin = 海洛纳林
-reagent-desc-hyronalin = 一种弱放射性损伤治疗药物。arithrazine和phalanximine的前体。可能导致呕吐。
+reagent-desc-hyronalin = 一种弱放射性损伤治疗药物。阿里思嗪和法朗克西明的前体。可能导致呕吐。
 
 reagent-name-ipecac = 吐根
 reagent-desc-ipecac = 一种快速催吐剂。用于阻止未代谢的毒素，或大规模催吐。
 
 reagent-name-inaprovaline = 伊纳普伐林
-reagent-desc-inaprovaline = inaprovaline是一种突触刺激剂和心脏刺激剂，常用于治疗危重状态下的窒息伤害并减少出血。用于许多高级药物中。
+reagent-desc-inaprovaline = 伊纳普伐林是一种突触刺激剂和心脏刺激剂，常用于治疗危重状态下的窒息伤害并减少出血。用于许多高级药物中。
 
 reagent-name-kelotane = 克洛坦
 reagent-desc-kelotane = 治疗烧伤。过量大大降低身体保水能力。
@@ -60,7 +60,7 @@ reagent-name-ambuzol = 安布唑
 reagent-desc-ambuzol = 一种高度工程化的物质，能够阻止僵尸感染的进展。
 
 reagent-name-ambuzol-plus = 安布唑加强版
-reagent-desc-ambuzol-plus = 进一步用omnizine工程化，为活人接种对抗感染的疫苗。
+reagent-desc-ambuzol-plus = 进一步用全能嗪工程化，为活人接种对抗感染的疫苗。
 
 reagent-name-pulped-banana-peel = 捣碎的香蕉皮
 reagent-desc-pulped-banana-peel = 捣碎的香蕉皮对止血有一定效果。
@@ -78,7 +78,7 @@ reagent-name-tranexamic-acid = 氨甲环酸
 reagent-desc-tranexamic-acid = 一种用于防止大量出血的止血药物。过量时会导致大量出血。常见于急救注射笔中的小剂量。
 
 reagent-name-tricordrazine = 三科德拉嗪
-reagent-desc-tricordrazine = 一种广谱兴奋剂，最初来自cordrazine。只要用户没有严重受伤，就能治疗所有基本生命值类型的轻微损伤。最好作为其他化学物质的添加剂使用。
+reagent-desc-tricordrazine = 一种广谱兴奋剂，最初来自科德拉嗪。只要用户没有严重受伤，就能治疗所有基本生命值类型的轻微损伤。最好作为其他化学物质的添加剂使用。
 
 reagent-name-lipozine = 脂泊嗪
 reagent-desc-lipozine = 一种加速新陈代谢的化学物质，导致用户饥饿更快。
