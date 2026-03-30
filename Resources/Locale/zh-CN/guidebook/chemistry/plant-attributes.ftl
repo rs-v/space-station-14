@@ -1,0 +1,10 @@
+plant-attribute-growth = 生长年龄
+plant-attribute-water = 含水量
+plant-attribute-potency = 效力
+plant-attribute-weeds = 杂草含量
+plant-attribute-toxins = 毒素含量
+plant-attribute-nutrition = 营养含量
+plant-attribute-mutation-level = 突变等级
+plant-attribute-pests = 害虫含量
+plant-attribute-mutation-mod = 突变修正值
+plant-attribute-health = 健康度
