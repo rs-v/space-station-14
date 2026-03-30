@@ -1,0 +1,15 @@
+construction-category-all = 全部
+construction-category-furniture = 家具
+construction-category-storage = 储物
+construction-category-tools = 工具
+construction-category-materials = 材料
+construction-category-structures = 建筑
+construction-category-machines = 机器
+construction-category-weapons = 武器
+construction-category-tiles = 地砖
+construction-category-utilities = 设施
+construction-category-misc = 杂项
+construction-category-clothing = 服装
+construction-category-favorites = 收藏
+construction-add-favorite-button = 添加至收藏
+construction-remove-from-favorite-button = 从收藏中移除
