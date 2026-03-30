@@ -1,0 +1,9 @@
+carp-rift-warning = 一道裂缝正在{$location}造成异常巨大的能量波动。不惜一切代价阻止它！
+carp-rift-duplicate = 不能同时存在2个正在充能的裂缝！
+carp-rift-examine = 它已充能[color=yellow]{$percentage}%[/color]！
+carp-rift-max = 你已达到裂缝的最大数量
+carp-rift-anchor = 裂缝需要稳定的表面才能生成。
+carp-rift-proximity = 距离附近的裂缝太近！需要至少{$proximity}米的距离。
+carp-rift-space-proximity = 距离太空太近！需要至少{$proximity}米的距离。
+carp-rift-weakened = 你在虚弱状态下无法召唤更多裂缝。
+carp-rift-destroyed = 一道裂缝被摧毁了！你暂时进入虚弱状态。

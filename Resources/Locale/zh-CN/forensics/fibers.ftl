@@ -1,0 +1,30 @@
+forensic-fibers = {LOC($material)}纤维
+forensic-fibers-colored = {LOC($color)}{LOC($material)}纤维
+
+fibers-insulative = 绝缘
+fibers-insulative-frayed = 磨损绝缘
+fibers-synthetic = 合成
+fibers-leather = 皮革
+fibers-durathread = 耐用线
+fibers-latex = 乳胶
+fibers-nitrile = 丁腈
+fibers-nanomachines = 绝缘纳米机械
+fibers-chameleon = 全息变色龙
+fibers-rubber = 橡胶
+
+fibers-purple = 紫色
+fibers-red = 红色
+fibers-black = 黑色
+fibers-blue = 蓝色
+fibers-teal = 青绿色
+fibers-brown = 棕色
+fibers-light-brown = 浅棕色
+fibers-grey = 灰色
+fibers-green = 绿色
+fibers-orange = 橙色
+fibers-white = 白色
+fibers-yellow = 黄色
+fibers-regal-blue = 皇家蓝
+fibers-olive = 橄榄色
+fibers-silver = 银色
+fibers-gold = 金色
