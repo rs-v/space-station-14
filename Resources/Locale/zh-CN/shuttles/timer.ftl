@@ -1,0 +1,11 @@
+shuttle-timer-eta = 预计到达时间
+shuttle-timer-etd = 预计出发时间
+shuttle-timer-shuttle-time = 飞船时间
+shuttle-timer-source-time = 出发地时间
+shuttle-timer-dest-time = 目的地时间
+shuttle-timer-shuttle-map = 飞船地图
+shuttle-timer-source-map = 出发地图
+shuttle-timer-dest-map = 目的地图
+shuttle-timer-docked = 已停靠
+shuttle-timer-bye = 再见！
+shuttle-timer-kill = 终止
