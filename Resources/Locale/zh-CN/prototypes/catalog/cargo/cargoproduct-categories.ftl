@@ -1,0 +1,16 @@
+cargoproduct-category-name-armory = 军械
+cargoproduct-category-name-atmospherics = 大气
+cargoproduct-category-name-cargo = 货运
+cargoproduct-category-name-circuitboards = 电路板
+cargoproduct-category-name-emergency = 紧急
+cargoproduct-category-name-engineering = 工程
+cargoproduct-category-name-food = 食物
+cargoproduct-category-name-fun = 娱乐
+cargoproduct-category-name-hydroponics = 水培
+cargoproduct-category-name-livestock = 牲畜
+cargoproduct-category-name-materials = 材料
+cargoproduct-category-name-medical = 医疗
+cargoproduct-category-name-science = 科学
+cargoproduct-category-name-security = 安保
+cargoproduct-category-name-service = 服务
+cargoproduct-category-name-shuttle = 班车

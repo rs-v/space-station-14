@@ -1,0 +1,3 @@
+﻿gift-packin-contains = 这份礼物里似乎装着一个{INDEFINITE($name)}{$name}。
+christmas-tree-got-gift = 挖了一会儿之后，你找到了一份写着你名字的礼物！
+christmas-tree-no-gift = 树下没有给你的礼物……

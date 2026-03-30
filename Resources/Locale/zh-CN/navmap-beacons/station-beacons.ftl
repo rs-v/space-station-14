@@ -1,0 +1,100 @@
+station-beacon-general = 综合
+
+station-beacon-command = 指挥
+station-beacon-bridge = 舰桥
+station-beacon-vault = 金库
+station-beacon-gateway = 传送门
+station-beacon-captain = 船长
+station-beacon-hop = 人事主管
+
+station-beacon-security = 安保
+station-beacon-brig = 禁闭室
+station-beacon-brig-med = 禁闭室医疗
+station-beacon-warden = 典狱长
+station-beacon-hos = 安保主管
+station-beacon-armory = 军械库
+station-beacon-perma-brig = 永久监禁
+station-beacon-detective = 侦探
+station-beacon-courtroom = 法庭
+station-beacon-law = 法律事务所
+station-beacon-security-checkpoint = 检查站
+
+station-beacon-medical = 医疗
+station-beacon-medbay = 医疗舱
+station-beacon-chemistry = 化学
+station-beacon-cryonics = 冷冻舱
+station-beacon-cmo = 医疗主任
+station-beacon-morgue = 太平间
+station-beacon-surgery = 手术室
+station-beacon-psychology = 心理
+station-beacon-clinic = 诊所
+
+station-beacon-science = 科研
+station-beacon-research-and-development = 研究
+station-beacon-research-server = 服务器
+station-beacon-research-director = 研究主任
+station-beacon-robotics = 机器人
+station-beacon-artifact-lab = 文物实验室
+station-beacon-anomaly-gen = 异常发生器
+
+station-beacon-supply = 供给
+station-beacon-cargo = 货运
+station-beacon-cargo-bay = 货仓
+station-beacon-qm = 物资主管
+station-beacon-salvage = 打捞
+
+station-beacon-engineering = 工程
+station-beacon-ce = 首席工程师
+station-beacon-ame = AME
+station-beacon-solars = 太阳能板
+station-beacon-solars-N = 太阳能板 北
+station-beacon-solars-NE = 太阳能板 东北
+station-beacon-solars-E = 太阳能板 东
+station-beacon-solars-SE = 太阳能板 东南
+station-beacon-solars-S = 太阳能板 南
+station-beacon-solars-SW = 太阳能板 西南
+station-beacon-solars-W = 太阳能板 西
+station-beacon-solars-NW = 太阳能板 西北
+station-beacon-gravgen = 重力
+station-beacon-pa = PA 控制室
+station-beacon-smes = SMES
+station-beacon-telecoms = 电信
+station-beacon-atmos = 大气
+station-beacon-teg = TEG
+station-beacon-tech-vault = 技术金库
+station-beacon-anchor = 锚点
+
+station-beacon-service = 服务
+station-beacon-kitchen = 厨房
+station-beacon-bar = 酒吧
+station-beacon-botany = 植物学
+station-beacon-janitor = 清洁工
+
+station-beacon-ai = AI
+station-beacon-ai-sat = AI 卫星
+station-beacon-ai-core = AI 核心
+station-beacon-ai-upload = AI 上传
+station-beacon-ai-power = AI 电力
+
+station-beacon-arrivals = 到达区
+station-beacon-evac = 撤离区
+station-beacon-docking-arm = 对接臂
+station-beacon-eva-storage = EVA 储藏室
+station-beacon-chapel = 礼拜堂
+station-beacon-library = 图书馆
+station-beacon-reporter = 记者室
+station-beacon-dorms = 宿舍
+station-beacon-theater = 剧院
+station-beacon-tools = 工具间
+station-beacon-disposals = 废物处理
+station-beacon-cryosleep = 冷冻休眠
+station-beacon-escape-pod = 逃生舱
+station-beacon-escape-pod-N = 逃生舱 北
+station-beacon-escape-pod-NE = 逃生舱 东北
+station-beacon-escape-pod-E = 逃生舱 东
+station-beacon-escape-pod-SE = 逃生舱 东南
+station-beacon-escape-pod-S = 逃生舱 南
+station-beacon-escape-pod-SW = 逃生舱 西南
+station-beacon-escape-pod-W = 逃生舱 西
+station-beacon-escape-pod-NW = 逃生舱 西北
+station-beacon-vox = 沃克斯休息室

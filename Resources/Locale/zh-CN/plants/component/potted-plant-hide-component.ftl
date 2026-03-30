@@ -1,0 +1,1 @@
+potted-plant-hide-component-interact-hand-got-no-item-message = 你在根部翻找了一番。

@@ -1,0 +1,11 @@
+metabolizer-type-animal = 动物
+metabolizer-type-bloodsucker = 嗜血者
+metabolizer-type-dragon = 龙
+metabolizer-type-human = 人类
+metabolizer-type-slime = 史莱姆
+metabolizer-type-vox = 沃克斯
+metabolizer-type-rat = 老鼠
+metabolizer-type-plant = 植物
+metabolizer-type-dwarf = 矮人
+metabolizer-type-moth = 飞蛾
+metabolizer-type-arachnid = 蛛形纲

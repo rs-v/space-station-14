@@ -1,0 +1,1 @@
+gamemap-could-not-use-map-error = 由于地图 {$oldMap} 不再符合条件，加载失败！改为选择 {$newMap}。
