@@ -1,0 +1,11 @@
+cmd-motd-desc = 打印或设置每日消息。
+cmd-motd-help = motd [ message... ]
+cmd-get-motd-desc = 打印每日消息。
+cmd-get-motd-help = get-motd
+cmd-set-motd-desc = 设置或清除每日消息。
+cmd-set-motd-help = set-motd [ message... ]
+cmd-set-motd-hint-head = [ message... ]
+cmd-set-motd-hint-cont = [ ...message... ]
+cmd-set-motd-cleared-motd-message = 已清除每日消息。
+cmd-set-motd-set-motd-message = 已将每日消息设置为"{$motd}"。
+motd-wrap-message = 每日消息：{$motd}
