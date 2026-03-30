@@ -1,0 +1,16 @@
+﻿entity-effect-status-effect-Stun = 眩晕
+entity-effect-status-effect-KnockedDown = 击倒
+entity-effect-status-effect-Jitter = 颤抖
+entity-effect-status-effect-TemporaryBlindness = 暂时失明
+entity-effect-status-effect-SeeingRainbows = 幻觉
+entity-effect-status-effect-Muted = 无法说话
+entity-effect-status-effect-Stutter = 口吃
+entity-effect-status-effect-ForcedSleep = 失去意识
+entity-effect-status-effect-Drunk = 醉酒
+entity-effect-status-effect-PressureImmunity = 气压免疫
+entity-effect-status-effect-Pacified = 战斗镇定
+entity-effect-status-effect-RatvarianLanguage = 拉特瓦尔语言模式
+entity-effect-status-effect-StaminaModifier = 体力修正
+entity-effect-status-effect-RadiationProtection = 辐射防护
+entity-effect-status-effect-Drowsiness = 困倦
+entity-effect-status-effect-Adrenaline = 肾上腺素
