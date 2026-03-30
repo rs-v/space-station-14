@@ -1,0 +1,43 @@
+wires-panel-component-on-examine-open = [color=lightgray]维护面板[/color]是[color=red]打开[/color]的。
+wires-panel-component-on-examine-closed = [color=lightgray]维护面板[/color]是[color=darkgreen]关闭[/color]的。
+
+# wire colors
+
+wire-name-color-red = 红色
+wire-name-color-blue = 蓝色
+wire-name-color-green = 绿色
+wire-name-color-orange = 橙色
+wire-name-color-brown = 棕色
+wire-name-color-gold = 金色
+wire-name-color-gray = 灰色
+wire-name-color-cyan = 青色
+wire-name-color-navy = 深蓝色
+wire-name-color-purple = 紫色
+wire-name-color-pink = 粉色
+wire-name-color-fuchsia = 品红色
+
+# letter names
+wire-letter-name-alpha = Alpha
+wire-letter-name-beta = Beta
+wire-letter-name-gamma = Gamma
+wire-letter-name-delta = Delta
+wire-letter-name-epsilon = Epsilon
+wire-letter-name-zeta = Zeta
+wire-letter-name-eta = Eta
+wire-letter-name-theta = Theta
+wire-letter-name-iota = Iota
+wire-letter-name-kappa = Kappa
+wire-letter-name-lambda = Lambda
+wire-letter-name-mu = Mu
+wire-letter-name-nu = Nu
+wire-letter-name-xi = Xi
+wire-letter-name-omicron = Omicron
+wire-letter-name-pi = Pi
+wire-letter-name-rho = Rho
+wire-letter-name-sigma = Sigma
+wire-letter-name-tau = Tau
+wire-letter-name-upsilon = Upsilon
+wire-letter-name-phi = Phi
+wire-letter-name-chi = Chi
+wire-letter-name-psi = Psi
+wire-letter-name-omega = Omega
