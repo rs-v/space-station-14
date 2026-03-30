@@ -1,0 +1,3 @@
+### 代谢冰霜油时出现的消息。
+
+frost-oil-effect-light-cold = 你感到喉咙里有一丝轻微的寒意...
