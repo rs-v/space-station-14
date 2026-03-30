@@ -66,7 +66,7 @@ barsign-prototype-description-the-birdcage = 呱呱！
 
 ## Zocalo
 barsign-prototype-name-zocalo = 索卡洛
-barsign-prototype-description-zocalo = Anteriormente ubicado en Spessmerica.
+barsign-prototype-description-zocalo = 前身位于斯佩斯梅里卡。
 
 ## LV426
 barsign-prototype-name-lv426 = LV-426
