@@ -1,0 +1,9 @@
+decal-placer-window-title = 贴花放置器
+decal-placer-window-use-color = 自定义颜色
+decal-placer-window-rotation = 旋转
+decal-placer-window-zindex = 绘制深度
+decal-placer-window-enable-auto = 使用自动设置
+decal-placer-window-enable-snap = 对齐至格子
+decal-placer-window-enable-cleanable = 可清洁
+decal-placer-window-palette = 调色板
+palette-color-picker-window-title = 调色板
