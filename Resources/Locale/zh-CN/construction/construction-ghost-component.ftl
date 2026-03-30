@@ -1,0 +1,1 @@
+construction-ghost-examine-message = 正在建造：[color=cyan]{$name}[/color]
