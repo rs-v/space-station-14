@@ -1,0 +1,1 @@
+station-event-unknown-shuttle-incoming = 注意！发现一艘不明太空穿梭机正在接近您所在扇区。
