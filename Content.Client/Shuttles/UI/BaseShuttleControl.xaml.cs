@@ -49,7 +49,7 @@ public partial class BaseShuttleControl : MapGridControl
         RobustXamlLoader.Load(this);
         Maps = EntManager.System<SharedMapSystem>();
         Font = IoCManager.Resolve<IResourceCache>().GetFont(
-            new[] { "/Fonts/NotoSans/NotoSans-Regular.ttf", "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, 12);
+            new[] { "/Fonts/NotoSansSC/NotoSansSC-Regular.otf", "/Fonts/NotoSans/NotoSans-Regular.ttf" }, 12);
 
         _drawJob = new GridDrawJob()
         {
