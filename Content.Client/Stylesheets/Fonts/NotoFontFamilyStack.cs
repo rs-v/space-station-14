@@ -71,15 +71,15 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
         var boldOrRegularStr = kind.RegularOr(FontKind.Bold).AsFileName();
 
         var kindStr = kind.AsFileName();
-        // Add CJK font first for better Chinese character support
-        var cjkFont = (kind == FontKind.Bold || kind == FontKind.BoldItalic) ? _fontCjkBold : _fontCjkRegular;
         var fontList = new List<string>()
         {
-            cjkFont,
             string.Format(_fontPrimary, kindStr, simpleKindStr, boldOrRegularStr),
             string.Format(_fontSymbols, kindStr, simpleKindStr, boldOrRegularStr),
         };
         fontList.AddRange(_extras);
+        // Add CJK fallback: use bold variant for bold/bolditalic kinds, regular otherwise
+        var cjkFont = (kind == FontKind.Bold || kind == FontKind.BoldItalic) ? _fontCjkBold : _fontCjkRegular;
+        fontList.Add(cjkFont);
         return fontList.ToArray();
     }
 

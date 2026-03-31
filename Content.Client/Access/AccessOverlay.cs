@@ -23,7 +23,7 @@ public sealed class AccessOverlay : Overlay
         _entityManager = entityManager;
         _transformSystem = transformSystem;
         _font = resourceCache.GetFont(
-            new[] { "/Fonts/NotoSansSC/NotoSansSC-Regular.otf", TextFontPath }, TextFontSize);
+            new[] { TextFontPath, "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, TextFontSize);
     }
 
     protected override void Draw(in OverlayDrawArgs args)

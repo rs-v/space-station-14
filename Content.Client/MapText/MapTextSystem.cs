@@ -73,11 +73,11 @@ public sealed class MapTextSystem : SharedMapTextSystem
 
             if(_prototypeManager.TryIndex<FontPrototype>(SharedMapTextComponent.DefaultFont, out var @default))
                 component.CachedFont = _resourceCache.GetFont(
-                    new[] { "/Fonts/NotoSansSC/NotoSansSC-Regular.otf", @default.Path.ToString() }, 14);
+                    new[] { @default.Path.ToString(), "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, 14);
             return;
         }
 
         component.CachedFont = _resourceCache.GetFont(
-            new[] { "/Fonts/NotoSansSC/NotoSansSC-Regular.otf", fontPrototype.Path.ToString() }, component.FontSize);
+            new[] { fontPrototype.Path.ToString(), "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, component.FontSize);
     }
 }

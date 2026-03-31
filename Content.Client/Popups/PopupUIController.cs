@@ -28,11 +28,11 @@ public sealed class PopupUIController : UIController, IOnStateEntered<GameplaySt
         var cache = IoCManager.Resolve<IResourceCache>();
 
         _smallFont = cache.GetFont(
-            new[] { "/Fonts/NotoSansSC/NotoSansSC-Regular.otf", "/Fonts/NotoSans/NotoSans-Italic.ttf" }, 10);
+            new[] { "/Fonts/NotoSans/NotoSans-Italic.ttf", "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, 10);
         _mediumFont = cache.GetFont(
-            new[] { "/Fonts/NotoSansSC/NotoSansSC-Regular.otf", "/Fonts/NotoSans/NotoSans-Italic.ttf" }, 12);
+            new[] { "/Fonts/NotoSans/NotoSans-Italic.ttf", "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, 12);
         _largeFont = cache.GetFont(
-            new[] { "/Fonts/NotoSansSC/NotoSansSC-Bold.otf", "/Fonts/NotoSans/NotoSans-BoldItalic.ttf" }, 14);
+            new[] { "/Fonts/NotoSans/NotoSans-BoldItalic.ttf", "/Fonts/NotoSansSC/NotoSansSC-Bold.otf" }, 14);
     }
 
     public void OnStateEntered(GameplayState state)
