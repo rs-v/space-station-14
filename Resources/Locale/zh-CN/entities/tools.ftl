@@ -333,3 +333,176 @@ ent-Emag =
 
 ent-HandHeldMassScanner = 手持质量扫描仪
     .desc = 一台手持质量扫描仪。
+
+## access_configurator.yml
+
+ent-AccessConfiguratorXenoborg = 异种赛博格门禁配置器
+    .desc = 一个经过改造的门禁配置器，专供异种赛博格使用。
+
+## blueprint.yml
+
+ent-BlueprintFulton = 富尔顿蓝图
+    .desc = 一份印有富尔顿回收装置结构图的蓝图。可插入自动车床使用。
+
+ent-BlueprintSeismicCharge = 地震炸药蓝图
+    .desc = 一份印有地震炸药结构图的蓝图。可插入自动车床使用。
+
+ent-BlueprintDoubleEmergencyTank = 双联应急气罐蓝图
+    .desc = 一份印有双联应急气罐结构图的蓝图。可插入自动车床使用。
+
+## bucket.yml (additional entries)
+
+ent-BorgBucket = 内置储液罐
+    .desc = 清洁赛博格的内置储液罐，可容纳整整一桶水的量。
+
+## cowtools.yml
+
+ent-Moodriver = 哞丝刀
+    .desc = 旋转使用。哞！
+
+ent-Wronch = 哞扳手
+    .desc = 哞扳手。哞！
+
+ent-Cowbar = 牛撬棍
+    .desc = 用牛劲解决你的问题。哞！
+
+ent-Mooltitool = 哞用工具
+    .desc = 可通过电线和机器复制、储存并发送电脉冲与电信号的简陋工具。哞！
+
+ent-Cowelder = 牛焊接工具
+    .desc = 燃料充足时可熔化一切——记得佩戴护目镜！哞！
+
+ent-Milkalyzer = 奶析仪
+    .desc = 报告当前气体浓度的手持环境扫描仪。哞！
+
+ent-CowToolbox = 牛工具箱
+    .desc = 一个形状奇怪的箱子，里面装着……工具？
+
+ent-CowToolboxFilled = 牛工具箱
+
+## decoys.yml
+
+ent-BalloonOperative = 特工气球
+    .desc = 仔细一看，这个辛迪加特工其实是个气球。
+
+ent-BalloonAgent = 勤务兵气球
+    .desc = 仔细一看，这个辛迪加勤务兵其实是个气球。
+
+ent-BalloonElite = 精英特工气球
+    .desc = 仔细一看，这个辛迪加精英特工其实是个气球。
+
+ent-BalloonJuggernaut = 重甲战士气球
+    .desc = 仔细一看，这个辛迪加重甲战士其实是个气球。
+
+ent-BalloonCommander = 指挥官气球
+    .desc = 仔细一看，这个辛迪加指挥官其实是个气球。
+
+## fulton.yml
+
+ent-FultonBeacon = 富尔顿信标
+    .desc = 用于接收富尔顿回收装置的信标。
+
+ent-Fulton = 富尔顿回收装置
+    .desc = 用于提取容器、物品，或强制将人员招募至你的行动基地。
+
+ent-Fulton1 = 富尔顿回收装置
+
+ent-FultonEffect = 富尔顿效果
+
+## glowstick.yml
+
+ent-LightBehaviourTest1 = 光脉冲测试
+
+ent-LightBehaviourTest2 = 颜色循环测试
+
+ent-LightBehaviourTest3 = 多行为光照测试
+
+ent-LightBehaviourTest4 = 光照淡入测试
+
+ent-LightBehaviourTest5 = 光脉冲半径测试
+
+ent-LightBehaviourTest6 = 光照随机半径测试
+
+## jammer.yml
+
+ent-XenoborgRadioJammer = 异种赛博格无线电干扰器
+
+## jetpacks.yml
+
+ent-ActionToggleJetpack = 切换喷气背包
+    .desc = 切换喷气背包，使你可以在空间站外自由移动。
+
+ent-JetpackXenoborg = 异种赛博格喷气背包
+
+## lighters.yml
+
+ent-Lighter = 基础打火机
+    .desc = 一款简单的塑料香烟打火机。
+
+ent-CheapLighter = 廉价打火机
+    .desc = 一款危险的廉价塑料打火机，小心别烧到拇指！
+
+ent-FlippoLighter = Flippo打火机
+    .desc = 一款坚固的金属打火机，相当耐用。
+
+ent-FlippoEngravedLighter = Flippo雕刻版打火机
+    .desc = 一款坚固的金色打火机，相当耐用。雕刻图案在战术上毫无优势。
+
+ent-SyndicateFlippo = 血红色Flippo打火机
+    .desc = 打火机中的"合理"之选。不含铜。
+
+ent-DiscountDanLighter = 折扣丹打火机
+    .desc = 有史以来最差劲的打火机，打火灼伤在所难免，切勿在点燃时加注燃料。
+
+ent-CybersunFlippo = 赛博太阳Flippo打火机
+    .desc = 一款时尚的黑色搭配洋红色Flippo打火机，印有赛博太阳工业的标志与图案。
+
+ent-InterdyneFlippo = 因特丹Flippo打火机
+    .desc = 一款深蓝色Flippo打火机，饰有因特丹制药的徽标。
+
+ent-NanotrasenFlippo = 纳米崔森Flippo打火机
+    .desc = 一款海军蓝豪华Flippo，通常作为薪资加薪的替代品发放给忠诚的部门主管。
+
+ent-CentCommFlippo = 镀金中央指挥部Flippo打火机
+    .desc = 一款精美的翡翠镶嵌镀金Flippo，内置蓝空动力喷嘴。
+
+ent-SpiderclanFlippo = 蜘蛛族打火机
+    .desc = 一款高科技喷射式打火机，经专门工程设计可在深空中正常使用。以微型微聚变电池供能。
+
+ent-WaffleCoFlippo = 华夫饼公司Flippo打火机
+    .desc = 一款由华夫饼公司大批量生产的坚固打火机。推上拨轮时，华夫饼公司的标志会旋转。
+
+ent-HonkCoFlippo = Honk公司Flippo打火机
+    .desc = 一款由Honk公司出品的滑溜搞笑打火机，藏在真正的香蕉皮里。
+
+ent-DonkcoLighter = Donk公司Flippo打火机
+    .desc = 经验丰富的叛徒的首选Flippo。一款面包皮装饰的打火机。
+
+## matches.yml
+
+ent-GorlexMatchbox = Gorlex火柴盒
+    .desc = 一款仿照Gorlex劫掠者装备风格设计的气动火柴盒。内含24根火柴。
+
+ent-GorlexMatchstick = 火柴棒
+    .desc = 一根军用级火柴棒，用于点燃上等烟草制品。
+
+## pka_upgrade.yml
+
+ent-PKAUpgradeDamage = 原子动能加速器改装套件（伤害）
+
+ent-PKAUpgradeRange = 原子动能加速器改装套件（射程）
+
+ent-PKAUpgradeFireRate = 原子动能加速器改装套件（射速）
+
+## spray_painter.yml (additional entries)
+
+ent-SprayPainterBorg = 实验型喷漆枪
+    .desc = 一款可无限复制压缩涂料的实验型充能喷漆枪。
+
+## thief.yml
+
+ent-ToolboxThief = 不明盗窃工具箱
+    .desc = 你最爱的窃贼的装备都在这里。记好里面有什么。
+
+ent-SatchelThief = 不明盗窃背包
+    .desc = 你最爱的窃贼的装备都在这里。折叠收纳，便于携带。
