@@ -31,10 +31,10 @@ namespace Content.Client.Stylesheets
             (
                 new []
                 {
+                    "/Fonts/NotoSansSC/NotoSansSC-Regular.otf",
                     "/Fonts/NotoSans/NotoSans-Regular.ttf",
                     "/Fonts/NotoSans/NotoSansSymbols-Regular.ttf",
-                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf",
-                    "/Fonts/NotoSansSC/NotoSansSC-Regular.otf"
+                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf"
                 },
                 10
             );
@@ -42,10 +42,10 @@ namespace Content.Client.Stylesheets
             (
                 new []
                 {
+                    "/Fonts/NotoSansSC/NotoSansSC-Bold.otf",
                     "/Fonts/NotoSans/NotoSans-Bold.ttf",
                     "/Fonts/NotoSans/NotoSansSymbols-Regular.ttf",
-                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf",
-                    "/Fonts/NotoSansSC/NotoSansSC-Bold.otf"
+                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf"
                 },
                 16
             );
