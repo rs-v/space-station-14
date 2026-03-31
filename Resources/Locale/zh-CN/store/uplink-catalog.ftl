@@ -447,7 +447,7 @@ uplink-syndicate-stamp-name = 辛迪加橡皮图章
 uplink-syndicate-stamp-desc = 用于盖重要文件的橡皮图章。
 
 uplink-cat-ears-name = 猫耳
-uplink-cat-ears-desc = UwU
+uplink-cat-ears-desc = 喵~
 
 uplink-outlaw-hat-name = 亡命徒帽
 uplink-outlaw-hat-desc = 一顶让你看起来像是腰间别着一把刻有记号手枪的帽子，那把枪刻了二十个记号。

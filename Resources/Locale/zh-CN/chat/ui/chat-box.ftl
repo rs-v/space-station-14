@@ -37,6 +37,6 @@ hud-chatbox-highlights-button = 提交
 hud-chatbox-highlights-tooltip = 词语需要用换行符分隔，
                                  如果用 " 括起来，则只有在
                                  被空格或标点符号分隔时才会高亮。
-hud-chatbox-highlights-placeholder = @McHands
-                                     "Judge"
-                                     Medical
+hud-chatbox-highlights-placeholder = @小手手
+                                     "法官"
+                                     医疗
