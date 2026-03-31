@@ -41,7 +41,9 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
     private string[] _extras = new[] { "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf" };
 
     /// <summary>
-    ///     CJK (Chinese/Japanese/Korean) fallback fonts for bold and regular kinds.
+    ///     CJK (Chinese/Japanese/Korean) fallback fonts for all kinds.
+    ///     Note: NotoSansSC only has Regular and Bold variants, no Italic variants.
+    ///     Italic uses Regular, BoldItalic uses Bold.
     /// </summary>
     private const string _fontCjkRegular = "/Fonts/NotoSansSC/NotoSansSC-Regular.otf";
     private const string _fontCjkBold = "/Fonts/NotoSansSC/NotoSansSC-Bold.otf";
@@ -72,6 +74,7 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
 
         var kindStr = kind.AsFileName();
         // Add CJK font first for better Chinese character support
+        // Use Bold for Bold and BoldItalic, Regular for Regular and Italic
         var cjkFont = (kind == FontKind.Bold || kind == FontKind.BoldItalic) ? _fontCjkBold : _fontCjkRegular;
         var fontList = new List<string>()
         {
