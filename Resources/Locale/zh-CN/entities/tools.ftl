@@ -69,8 +69,8 @@ ent-RefuelingWelder = 自加注焊枪
 ent-BaseCrowbar = 撬棍
     .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
 
-ent-Crowbar = { ent-BaseCrowbar }
-    .desc = { ent-BaseCrowbar.desc }
+ent-Crowbar = 撬棍
+    .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
 
 ent-CrowbarRed =
     .suffix = 红色
@@ -95,8 +95,8 @@ ent-ToolboxMechanical = 机械工具箱
 ent-ToolboxElectrical = 电气工具箱
     .desc = 一个通常装有电气设备的工具箱。
 
-ent-ToolboxElectricalTurret = { ent-ToolboxElectrical }
-    .desc = { ent-ToolboxElectrical.desc }
+ent-ToolboxElectricalTurret = 电气工具箱
+    .desc = 一个通常装有电气设备的工具箱。
 
 ent-ToolboxArtistic = 艺术工具箱
     .desc = 一个通常装有艺术用品的工具箱。
