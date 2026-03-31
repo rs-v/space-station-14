@@ -1,7 +1,7 @@
 reagent-name-e-z-nutrient = EZ营养液
 reagent-desc-e-z-nutrient = 给你的植物一些EZ营养！戴奥娜非常喜欢这个。
 
-reagent-name-left4-zed = left-4-zed
+reagent-name-left4-zed = 变异素Z-4
 reagent-desc-left4-zed = 一种致突变化合物的混合物，提供营养、损害并影响植物的基因组。
 
 reagent-name-pest-killer = 杀虫剂
@@ -22,5 +22,5 @@ reagent-desc-ammonia = 一种有效的肥料，为你的植物提供一些营养
 reagent-name-diethylamine = 二乙胺
 reagent-desc-diethylamine = 一种非常强效的肥料，用营养滋养植物，消灭害虫，有时甚至可以加速生长。
 
-reagent-name-sedin = sedin
+reagent-name-sedin = 复种素
 reagent-desc-sedin = 一种改良版二乙胺，可以以效力为代价恢复植物种子。

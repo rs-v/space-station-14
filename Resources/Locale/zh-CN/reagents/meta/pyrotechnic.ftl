@@ -4,7 +4,7 @@ reagent-desc-thermite = 一种点燃后会变得极热的混合物。
 reagent-name-napalm = 凝固汽油
 reagent-desc-napalm = 只是有点易燃而已。
 
-reagent-name-phlogiston = phlogiston
+reagent-name-phlogiston = 燃素
 reagent-desc-phlogiston = 使你着火并让你自燃。
 
 reagent-name-chlorine-trifluoride = 三氟化氯
