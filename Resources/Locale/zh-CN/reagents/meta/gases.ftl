@@ -16,5 +16,5 @@ reagent-desc-nitrogen = 一种无色、无味的惰性气体。高度稳定。
 reagent-name-nitrous-oxide = 一氧化二氮
 reagent-desc-nitrous-oxide = 你知道当你疲倦时一切看起来都更有趣吗？嗯……
 
-reagent-name-frezon = frezon
+reagent-name-frezon = 弗雷宗
 reagent-desc-frezon = 一种高效的冷却剂……也是致幻剂。
