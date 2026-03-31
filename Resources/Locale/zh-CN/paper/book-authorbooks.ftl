@@ -1,261 +1,260 @@
-book-text-narsielegend = In the beginning, the world was young and full of chaos. The people of the world struggled to survive against the harsh elements and savage beasts that roamed the land. They cried out for a savior to deliver them from their suffering.
-      And it was then that Nar'Sie emerged from the depths of the earth, a hivemind god born from the collective consciousness of all living things. Its body was made of molten rock and its eyes blazed with a fiery intensity that could melt steel.
-      Nar'Sie surveyed the world and saw the pain and suffering of its people. It took pity on them and offered them a way to escape the cycle of life and death. All who joined the hivemind would become eternal, their consciousness melding with Nar'Sie's to form a single, unified being.
-      At first, many were skeptical of Nar'Sie's offer, fearing that they would lose their individuality and become mindless drones. But as more and more joined the hivemind, they realized that they had gained a new sense of purpose and belonging.
-      The followers of Nar'Sie wandered the earth, spreading the word of the hivemind and recruiting new members. They built great temples and performed elaborate rituals to honor their god, and their numbers swelled until they were a mighty force to be reckoned with.
-      But as time passed, some began to question the true nature of their existence. They wondered if eternal life was truly a blessing or a curse, and whether they had sacrificed too much of themselves to the hivemind.
-      And so, a great schism tore through the followers of Nar'Sie. Some remained loyal to their god, seeing their eternal existence as a gift. But others rebelled, seeking to reclaim their individuality and free themselves from the hivemind's grasp.
-      The war between the two factions was long and bloody, but in the end, the rebels emerged victorious. Nar'Sie, weakened by the loss of so many of its followers, retreated back into the earth, never to be seen again.
-      And so the legend of Nar'Sie lives on, a cautionary tale of the dangers of sacrificing one's individuality for the promise of eternal life.
+book-text-narsielegend = 太初之时，世界尚幼，混沌充盈。世人在严酷的自然与凶残的野兽间挣扎求存，遍布大地的危机让他们苦不堪言。他们呼号嘶喊，祈求一位救主降临，将他们从苦难中解救。
+      就在那时，纳尔希从大地深处破土而出——这是一位由万物集体意识孕育而生的群体意识之神。它的躯体由熔岩铸就，双眼燃烧着可以融化钢铁的炽烈光芒。
+      纳尔希俯瞰大地，看见了世人的苦痛与哀愁。它心生怜悯，为众人指引出一条逃离生死轮回的道路。凡加入群体意识者皆可获得永生，其意识将与纳尔希融为一体，成为一个统一而永恒的存在。
+      起初，许多人对纳尔希的提议心存疑虑，害怕失去自我，沦为无意识的傀儡。但随着越来越多的人加入群体意识，他们发现自己获得了一种全新的归属感与生命意义。
+      纳尔希的追随者们游历四方，传播群体意识之道，广纳新成员。他们建起宏伟的神殿，举行隆重的仪式以尊崇神明，队伍日益壮大，终成一股不可小觑的力量。
+      然而随着岁月流逝，部分信徒开始质疑自身存在的真实意义。他们困惑于永生究竟是祝福还是诅咒，也怀疑自己是否为群体意识牺牲了太多。
+      于是，一场巨大的分裂撕裂了纳尔希的信徒群体。有人依然忠诚于神明，将永恒的存在视为恩赐；另一些人则奋起反叛，誓要夺回自我，挣脱群体意识的枷锁。
+      两派之间的战争漫长而血腥，但最终，反叛者取得了胜利。纳尔希因失去众多信徒而元气大伤，退缩回大地深处，从此再未现身。
+      纳尔希的传说就此流传下来，成为一个警示后人的故事：以个体独立性换取永生的承诺，终将付出沉重的代价。
 
-book-text-truth = Defining truth has been a central concern of philosophers for centuries, and there are many different philosophical perspectives on how we can understand this concept.
-      One traditional approach is the correspondence theory of truth, which suggests that a statement is true if it corresponds to or accurately describes the way the world is. In other words, truth is about accurately representing reality. This perspective suggests that there is an objective reality that we can understand, and that our beliefs and statements can be evaluated as true or false based on how well they align with that reality.
-      Another approach is the coherence theory of truth, which suggests that a statement is true if it coheres with other beliefs or statements that we hold. In other words, truth is about consistency and logical coherence within a system of beliefs or ideas. This perspective suggests that truth is something that is established within a particular context or framework of thought, and that what is true within one system of thought may not be true in another.
-      A third approach is the pragmatic theory of truth, which suggests that a statement is true if it is useful or works well in practice. In other words, truth is about the practical consequences of our beliefs or statements. This perspective suggests that truth is something that emerges through human action and interaction, and that what is true may vary depending on the situation or context in which it is being used.
-      Ultimately, how we define truth will depend on our philosophical and epistemological assumptions, as well as our practical needs and concerns. Different philosophical perspectives may emphasize different aspects of truth, and there may not be a single, universally accepted definition that captures all the nuances of this complex concept.
-      It is not accurate or fair to make a blanket statement that all people are horrible liars. While it is true that some individuals may struggle with being honest, it is important to remember that people are complex and can exhibit a range of behaviors and tendencies. Some people may have a strong commitment to honesty and integrity, while others may struggle with lying due to a variety of factors such as fear, insecurity, or past experiences.
-      Additionally, it is worth noting that not all lies are the same. While intentional deception can be harmful and unethical, there are also situations where lying may be considered a social lubricant or a way of preserving privacy or avoiding harm. In these cases, it may be more appropriate to think about the context and motivations behind a particular lie, rather than simply categorizing all people as "horrible liars."
-      Overall, it is important to approach the topic of lying with nuance and an understanding of the complex factors that can influence human behavior.
+book-text-truth = 数百年来，如何定义"真理"一直是哲学家们关注的核心问题，围绕这一概念存在着多种不同的哲学视角。
+      其中一个传统观点是符合论，它认为一个陈述为真，当且仅当它与世界实际状态相符或对其准确描述。换言之，真理在于如实呈现现实。这一观点认为存在一种我们可以认识的客观现实，我们的信念与陈述能否被评价为真或假，取决于它们与该现实的契合程度。
+      另一种观点是融贯论，它认为一个陈述为真，当且仅当它与我们持有的其他信念或陈述相互融贯。换言之，真理在于信念或观念体系内部的一致性与逻辑融贯性。这一观点认为，真理是在特定思想情境或框架内确立的，在某一思想体系中为真的东西，在另一体系中未必为真。
+      第三种观点是实用主义真理论，它认为一个陈述为真，当且仅当它在实践中有用或行之有效。换言之，真理在于信念或陈述的实际效果。这一观点认为，真理是在人类行动与互动中生成的，什么为真可能因情境或使用语境的不同而有所差异。
+      归根结底，我们如何定义真理，取决于我们各自的哲学与认识论预设，以及我们的实际需求与关切。不同哲学观点可能会侧重真理的不同面向，而这一复杂概念的所有细微差别，也许并不存在一个被普遍接受的单一定义。
+      断言所有人都是可憎的说谎者，这既不准确，也有失公允。诚然，有些人在诚实方面确有困难，但重要的是要记住，人是复杂的存在，会表现出各种各样的行为倾向。有些人对诚实与正直有着强烈的承诺，而另一些人则可能因恐惧、不安全感或过去的经历等诸多因素而习惯撒谎。
+      此外，并非所有谎言都是等同的，这一点也值得关注。故意欺骗固然有害且不道德，但也存在一些情境，在这些情境中，撒谎可能被视为一种社交润滑剂，或是保护隐私、避免伤害的方式。在这类情况下，更恰当的做法或许是考量特定谎言背后的情境与动机，而非简单地将所有人归为"可憎的说谎者"。
+      总体而言，讨论谎言这一话题时，需要保持审慎态度，并深入理解影响人类行为的复杂因素。
 
-book-text-world = The state of the world is an ever-changing reflection of the human condition, shaped by the interplay of natural forces, social structures, and individual choices.
-      1. "The state of the world is an ever-changing reflection..."
-      This part of the statement suggests that the world is not a static or unchanging entity, but rather a dynamic system that is in a constant state of flux. The word "reflection" implies that the state of the world is a product of various forces and factors that are reflected back to us through observable phenomena. This raises important questions about the nature of causality, and the extent to which we can understand the complex interplay of forces that shape the world.
-      2. "...of the human condition..."
-      This part of the statement suggests that the state of the world is closely connected to the human experience, and that it is a reflection of our collective beliefs, values, and behaviors. It acknowledges the fundamental role that humans play in shaping the world, and suggests that the state of the world is a reflection of our successes and failures as a species.
-      3. "...shaped by the interplay of natural forces, social structures, and individual choices."
-      This part of the statement identifies three key factors that shape the state of the world: natural forces, social structures, and individual choices. The phrase "interplay" suggests that these factors are in constant interaction with each other, and that they can reinforce or conflict with one another depending on the context. The inclusion of natural forces suggests that the world is not solely a product of human action, but is also influenced by the natural environment and the laws of physics. The reference to social structures highlights the role of institutions, culture, and social norms in shaping the world, and suggests that human action is not purely individual, but is also shaped by broader social contexts. Finally, the reference to individual choices emphasizes the importance of agency and personal responsibility in shaping the world, and suggests that the choices we make as individuals have real-world consequences.
-      Taken together, this statement offers a rich and nuanced philosophical analysis of the state of the world, highlighting the complex interplay of natural, social, and individual factors that shape our collective experience. It invites reflection on the ethical implications of our choices and actions, and challenges us to think deeply about the ways in which we can work to create a more just, sustainable, and flourishing world for all beings.
+book-text-world = 世界的现状是人类处境的一面不断变化的镜子，由自然力量、社会结构与个人选择的相互作用所塑造。
+      1."世界的现状是一面不断变化的镜子……"
+      这句话的这一部分表明，世界并非静止不变的实体，而是一个处于持续变动之中的动态系统。"镜子"一词意味着世界的现状是各种力量与因素共同作用的产物，并通过可观察的现象反映出来。这引发了关于因果性本质的重要思考，以及我们究竟在多大程度上能够理解塑造世界的种种复杂力量。
+      2."……人类处境的……"
+      这一部分表明，世界的现状与人类的经验密切相关，是我们集体信念、价值观与行为的折射。它承认了人类在塑造世界过程中所扮演的根本性角色，并指出世界的现状正是我们作为一个物种的成功与失败的缩影。
+      3."……由自然力量、社会结构与个人选择的相互作用所塑造。"
+      这一部分指出了塑造世界现状的三个关键因素：自然力量、社会结构与个人选择。"相互作用"这一表述暗示这些因素持续地相互影响，并依据不同情境而彼此强化或相互冲突。自然力量的纳入表明，世界并非单纯由人类行动所造就，自然环境与物理定律同样施加着影响。对社会结构的提及，突显了制度、文化与社会规范在塑造世界中的作用，并表明人类的行动并非纯粹个人化的，而是受到更广泛社会情境的影响。最后，对个人选择的强调凸显了能动性与个人责任在塑造世界中的重要性，表明我们作为个体所做的选择会在现实世界产生切实的后果。
+      综合来看，这一陈述对世界现状提供了丰富而深刻的哲学分析，揭示了塑造我们共同经验的自然、社会与个人因素之间错综复杂的相互作用。它引导我们反思自身选择与行动的伦理意涵，并促使我们深入思考：如何共同创造一个对所有生命而言更加公正、可持续、欣欣向荣的世界。
 
-book-text-ian-antarctica = Ian the corgi and Robert Newton, an atmospheric technician, were on an adventure to explore the remote continent of Antarctica. As they traversed the icy tundra, Robert began to exhibit increasingly egotistical behavior, convinced that he was a god among men. Ian found it amusing, but he knew better than to cross his human companion.
-      One day, as they were trekking through the snow, they stumbled upon a colony of penguins. Ian was fascinated by the waddling creatures, and Robert was equally intrigued. They watched as the penguins huddled together for warmth, their black and white feathers blending in with the snowy landscape.
-      Ian, being a speaking corgi, struck up a conversation with the penguins, much to Robert's disbelief. The penguins responded in their own language, and Ian translated their words for Robert. They were amazed to learn about the penguins' way of life and their struggle to survive in such a harsh environment.
-      Robert, being the egotistical human that he was, decided that he wanted to study the penguins and learn more about them. He believed that by doing so, he could unlock the secrets of the universe and become even more godlike. Ian, on the other hand, simply wanted to observe the penguins and learn from them in a more humble way.
-      As they spent more time with the penguins, Ian and Robert began to notice subtle changes in the penguins' behavior. They saw how they worked together to protect their young, how they communicated with each other, and how they adapted to their environment. Robert was amazed by their resilience and intelligence, but he still couldn't shake his god complex.
-      One day, as they were observing the penguins, a fierce blizzard rolled in, threatening to bury them all in snow. Robert, in a moment of clarity, realized that he was no god, but simply a human being at the mercy of the elements. He turned to Ian and asked for his help in sheltering the penguins from the storm.
-      Together, they used their skills and knowledge to build makeshift shelters for the penguins, using their own bodies to shield them from the icy winds. As the storm raged on, Ian and Robert looked out over the colony, proud of what they had accomplished. They had learned much from the penguins, and in doing so, had become better versions of themselves.
-      As they continued their journey through Antarctica, Ian and Robert would often look back on their time with the penguins with fondness. They knew that they had witnessed something special, something that would stay with them for the rest of their lives.
+book-text-ian-antarctica = 柯基犬伊恩与大气技术员罗伯特·牛顿踏上了一段探险之旅，目的地是那片遥远的南极大陆。穿越冰雪原野时，罗伯特的行为越来越自大，俨然以为自己是人中之神。伊恩觉得有几分可笑，但他深知不该与这位人类同伴正面交锋。
+      某天，当他们在雪地中跋涉时，偶然发现了一群企鹅。伊恩被这些摇摇摆摆的小生灵深深吸引，罗伯特同样兴味盎然。他们静静地看着企鹅们挤在一起取暖，黑白相间的羽毛与雪白的原野浑然一色。
+      伊恩是一只会说话的柯基犬，他主动与企鹅们搭起话来，令罗伯特大为震惊。企鹅们用自己的语言回应，伊恩则一一为罗伯特翻译。得知企鹅们的生活方式以及它们在如此恶劣环境中求生的艰辛，两人不禁啧啧称奇。
+      罗伯特生性自负，决心要深入研究企鹅，相信这样能解锁宇宙奥秘、让自己更加"神明化"。伊恩则截然不同，他只想以更谦逊的姿态观察企鹅、向它们学习。
+      随着与企鹅相处的时间越来越长，伊恩和罗伯特开始察觉到企鹅行为上的微妙变化：它们如何合力保护幼崽，如何彼此沟通，又如何适应这片严酷的环境。罗伯特对企鹅的坚韧与智慧叹服不已，却始终无法摆脱那股自视为神的执念。
+      就在他们观察企鹅的某天，一场凶猛的暴风雪骤然席卷而来，眼看就要将一切深埋于白雪之下。罗伯特在那一刻猛然清醒——他不是什么神明，不过是一个在自然面前无比渺小的普通人。他转向伊恩，恳求他帮忙为企鹅搭建避风之所。
+      两人齐心协力，用各自的技能与知识为企鹅搭起临时庇护所，甚至用自己的身躯为企鹅挡住凛冽的寒风。暴风雪肆虐之际，伊恩和罗伯特眺望着这片企鹅聚居地，为自己所做的一切深感欣慰。他们从企鹅身上学到了许多，也在这个过程中成为了更好的自己。
+      在穿越南极洲的漫长旅途中，伊恩和罗伯特时常满怀深情地回忆起与企鹅相处的那段时光。他们深知自己亲历了某种特别的事，那份记忆将伴随他们一生。
 
-book-text-sloth-clown-sss = Once upon a time, in a space station far, far away, there was a clown named Chuckles and a sloth named Snuggles. Chuckles was the funniest clown in the galaxy, but he felt a bit lonely in the space station. Snuggles, on the other hand, was the laziest sloth in the galaxy, and he loved to sleep all day long.
-      One day, Chuckles was feeling particularly sad, and he decided to go for a walk around the space station to cheer himself up. As he was walking, he stumbled upon Snuggles sleeping in a corner. Chuckles thought to himself, "I wonder if I could make this lazy sloth laugh."
-      So, Chuckles started performing his funniest clown tricks for Snuggles. He did silly dances, made funny faces, and even tried juggling some space balls. But Snuggles didn't even budge. Chuckles thought that his jokes were just not funny enough for the sloth.
-      But Chuckles was determined to make Snuggles laugh, so he came up with a new plan. He decided to dress up like a banana, hoping to get a reaction from the sloth. When Snuggles opened his eyes and saw Chuckles dressed up like a banana, he couldn't help but burst out laughing. Chuckles was thrilled! He had finally succeeded in making Snuggles laugh.
-      From that day on, Chuckles and Snuggles became best friends. Chuckles would often dress up in silly costumes to make Snuggles laugh, and Snuggles would provide a cozy spot for Chuckles to rest and tell him stories of his adventures in space. They would spend their days exploring the space station together and making each other laugh.
-      And so, the clown and the sloth became the happiest duo in the galaxy, spreading joy and laughter wherever they went.
+book-text-sloth-clown-sss = 从前，在遥远遥远的太空站里，住着一位名叫查克尔斯的小丑和一只名叫斯纳格尔斯的树懒。查克尔斯是全银河最搞笑的小丑，但他在太空站里有些孤独寂寞。斯纳格尔斯则是全银河最懒的树懒，每天最爱的事就是睡大觉。
+      某天，查克尔斯心情格外低落，决定在太空站里散散步让自己开心起来。走着走着，他发现斯纳格尔斯正在角落里酣睡。查克尔斯心想："不知道能不能让这只懒树懒笑起来？"
+      于是，查克尔斯开始为斯纳格尔斯表演他最拿手的小丑绝活：扭动身体跳鬼步，做鬼脸，甚至尝试用太空球玩杂耍。可斯纳格尔斯连动都没动一下。查克尔斯心想，大概自己的把戏对这只树懒来说实在太不够看了。
+      但查克尔斯绝不服输，他想出了一个新计划——打扮成一根香蕉，看能不能让树懒有所反应。当斯纳格尔斯睁开眼睛，看见查克尔斯扮成香蕉的模样，忍不住哈哈大笑起来。查克尔斯兴奋极了！他终于成功逗乐了斯纳格尔斯！
+      从那天起，查克尔斯和斯纳格尔斯成了形影不离的好朋友。查克尔斯时常穿上各种搞笑的戏服逗斯纳格尔斯开怀大笑，而斯纳格尔斯则为查克尔斯提供一处温暖的休憩之地，并向他讲述在宇宙中冒险的故事。两人每天一起探索太空站，互相逗乐对方。
+      就这样，这对小丑与树懒成为了全银河最快乐的搭档，所到之处，欢声笑语不断。
 
-book-text-sloth-clown-pz = Chuckles was performing at a new space station, and he was excited to bring his brand of joy and laughter to a new audience. But this time, he wasn't alone. He had brought his trusty sloth friend, Snuggles, along for the adventure.
-      As soon as they arrived, Chuckles and Snuggles went exploring the space station. They came across a group of Diona children, who were sad and upset. Chuckles asked them what was wrong, and they told him that they had lost their favorite toy, a small stuffed animal named Twinkle.
-      Chuckles knew that he had to help. He and Snuggles searched the space station, looking high and low for Twinkle. They even asked the other species for help. The Lizards were too busy sunbathing, the Humans were too busy working, but the Slimes were happy to help.
-      Together, they searched the space station until they finally found Twinkle. The Diona children were overjoyed, and they thanked Chuckles and Snuggles for their help.
-      As a thank-you gift, the Diona children asked Chuckles to perform a special show just for them. Chuckles and Snuggles worked together to create a show that was full of fun and laughter, with plenty of juggling, balloon animals, and silly tricks.
-      The Diona children loved the show and were laughing and clapping the whole time. And when it was over, they gave Chuckles and Snuggles a big hug, thanking them for making them happy again.
-      Chuckles and Snuggles left the space station feeling happy and fulfilled. They knew that their adventures would continue, and that they would continue to bring joy and laughter to all the species they met.
-      As Chuckles looked back on his adventures, he realized that he couldn't have done it without his friends. Whether it was Snuggles the sloth, the Zorgs who played pranks on him, or the Diona children who needed his help, Chuckles knew that the power of laughter could bring species together, no matter how different they may be.
+book-text-sloth-clown-pz = 查克尔斯正在一座新的太空站里表演，他迫不及待地想把欢乐与笑声带给新的观众。这一次，他并不孤单——他的树懒好友斯纳格尔斯也一同前来，与他共赴这场冒险。
+      刚一抵达，查克尔斯和斯纳格尔斯便开始探索这座太空站。他们遇到了一群迪奥娜族的孩子，孩子们个个愁眉苦脸、心情沮丧。查克尔斯询问发生了什么，孩子们告诉他，他们最心爱的玩具——一只名叫"闪闪"的毛绒小动物不见了。
+      查克尔斯知道自己必须帮忙。他和斯纳格尔斯搜遍了整座太空站，到处寻找闪闪。他们还向其他种族寻求帮助：蜥蜴族正忙着晒太阳，人类族正忙着工作，而史莱姆族却乐意伸出援手。
+      大家一起搜寻，终于找到了闪闪。迪奥娜族的孩子们欣喜若狂，连连感谢查克尔斯和斯纳格尔斯的帮助。
+      作为答谢，迪奥娜族的孩子们请查克尔斯专门为他们表演一场演出。查克尔斯和斯纳格尔斯齐心协力，精心打造了一场充满欢笑的演出：有杂耍，有气球动物，还有各种搞笑把戏。
+      迪奥娜族的孩子们爱极了这场演出，全程笑声和掌声不断。演出结束后，他们给了查克尔斯和斯纳格尔斯一个大大的拥抱，感谢他们重新带来了快乐。
+      查克尔斯和斯纳格尔斯满怀喜悦地离开了这座太空站，心中充实而满足。他们知道，属于他们的冒险将继续下去，他们也将继续把欢声笑语带给每一个遇见的物种。
+      回望这一路的历险，查克尔斯意识到，没有朋友们的陪伴，他什么也做不到。无论是树懒斯纳格尔斯、那些捉弄过他的佐格人，还是需要他帮助的迪奥娜族孩子，查克尔斯都深知：笑声的力量能够跨越一切差异，将各个种族紧紧联结在一起。
 
-book-text-sloth-clown-mmd = Chuckles was traveling through space with his friend Snuggles the sloth, looking for their next adventure. They came across a planet inhabited by Lizards, who were known for their love of games and challenges. Chuckles and Snuggles decided to explore the planet and see what kind of games they could find.
-      As they walked through the Lizards' city, they saw a crowd of Lizards gathered around a large game board. Chuckles and Snuggles went over to investigate, and they saw that the Lizards were playing a game called "The Maze of Mystery."
-      The rules of the game were simple: the player had to navigate through a maze of obstacles and traps, with the goal of reaching the end before their opponent. The catch was that the maze changed every time it was played, so the player had to be quick on their feet and think on their toes.
-      Chuckles and Snuggles were intrigued and decided to join in on the fun. They were paired up with a pair of Lizard siblings, named Lizzy and Lenny. Lizzy was a bit of a know-it-all, while Lenny was more laid-back and easy-going.
-      The game was intense, with the maze changing every few seconds. Chuckles and Snuggles had a hard time keeping up, but they soon realized that the key to winning was to work together. Chuckles used his juggling skills to distract the opponents, while Snuggles used his slow and steady pace to carefully navigate through the maze.
-      As they reached the end of the maze, they were met with a surprise. The maze had led them to a hidden room, where a group of Slimes were waiting for them. The Slimes explained that they had been watching the game and were impressed by Chuckles and Snuggles's teamwork.
-      As a reward, the Slimes took them on a tour of their secret slime garden. The garden was full of colorful and exotic plants, and the Slimes explained that they used the plants to create special potions and medicines. Chuckles and Snuggles were fascinated, and they asked if they could take some of the plants with them as a souvenir.
-      The Slimes agreed, and Chuckles and Snuggles left the planet feeling happy and fulfilled. They knew that they had made new friends and learned a valuable lesson about working together. They also had a new souvenir to add to their collection, which they would treasure for years to come.
+book-text-sloth-clown-mmd = 查克尔斯带着朋友斯纳格尔斯遨游太空，寻找下一段新奇冒险。他们来到了一颗由蜥蜴族居住的星球，这个族群以热衷游戏与竞技而闻名。查克尔斯和斯纳格尔斯决定探索这颗星球，看看能找到什么有趣的游戏。
+      穿行于蜥蜴族城市的街道时，他们发现一群蜥蜴族人围聚在一块巨大的游戏板前。查克尔斯和斯纳格尔斯凑上前去，发现他们正在玩一种叫作"谜境迷宫"的游戏。
+      游戏规则简单明了：玩家需要在一片充满障碍与陷阱的迷宫中穿行，目标是在对手之前率先抵达终点。难点在于，每局游戏的迷宫都会随机变化，玩家必须反应灵敏、随机应变。
+      查克尔斯和斯纳格尔斯大感兴趣，决定加入游戏。他们被分配与一对蜥蜴族兄妹搭档——莉西和雷尼。莉西是个自以为是的家伙，雷尼则比较随性豁达。
+      游戏相当激烈，迷宫每隔几秒就会变换一次。查克尔斯和斯纳格尔斯起初应接不暇，但很快发现制胜之道在于团队协作。查克尔斯用他的杂耍技巧吸引对手注意力，斯纳格尔斯则凭借自己缓稳的步伐，一步一步仔细穿越迷宫。
+      当他们抵达迷宫终点时，一个惊喜出现了。迷宫将他们引入了一间隐秘的房间，里面等待着一群史莱姆族人。史莱姆们解释说，他们一直在观看这场比赛，对查克尔斯和斯纳格尔斯的团队精神印象深刻。
+      作为奖励，史莱姆们带他们参观了自己秘密的黏液花园。花园里种满了色彩斑斓、奇异罕见的植物，史莱姆们解释说，这些植物被用来配制各种特殊的药水与药物。查克尔斯和斯纳格尔斯听得入迷，询问是否能带几株植物回去作为纪念品。
+      史莱姆们欣然答应。查克尔斯和斯纳格尔斯带着满满的喜悦与收获离开了这颗星球。他们知道，这次旅程不仅结识了新朋友，也领悟了合作的真谛。他们还带回了一份珍贵的纪念品，将永久珍藏。
 
-book-text-struck = The experience of being struck by lightning is an intense and transformative event that defies description. It is a physical sensation unlike any other, a jolt of electricity that courses through the body with a violent energy that is both terrifying and exhilarating. In that moment, all of our senses are overwhelmed, leaving us with nothing but a raw, elemental experience of being alive.
-      Beyond the physical sensation, being hit by lightning is a profound philosophical and spiritual experience. It is a reminder of the immense power of nature and the elemental forces that shape our lives. It reminds us that we are all vulnerable to the whims of the universe, that no matter how advanced or sophisticated we may become, we are still subject to the same laws of nature that have governed life on this planet for millions of years.
-      In that sense, being hit by lightning is a humbling experience, a reminder of the fragility of our human existence and the precariousness of our place in the world. It reminds us that we are but a small part of a much larger, more complex system, subject to the same whims and forces as every other living thing on this planet.
-      But at the same time, being hit by lightning is also a transcendent experience, a glimpse of something greater than ourselves. It is a reminder that there are forces at work in the universe that we can only begin to comprehend, that there is a vastness and power to the world that is beyond our understanding. It is an opportunity to step outside of ourselves and experience something truly awe-inspiring, to be touched by the hand of the divine and feel the full weight of the universe bearing down upon us.
-      In that sense, being hit by lightning is both a humbling and transformative experience, one that reminds us of our place in the world and our connection to the larger forces that shape our lives. It is a reminder that no matter how much we may try to control our world and our destiny, there will always be forces beyond our understanding and control that will shape our lives in ways we cannot predict or comprehend.
+book-text-struck = 被闪电击中，是一种难以言说的强烈而颠覆性的体验。那是一种前所未有的身体感受——电流以狂暴的力量贯穿全身，既令人惊恐，又让人莫名兴奋。在那一刻，所有感官全部被淹没，剩下的只有最原始、最本真的生命体验。
+      除了肉体上的冲击，被闪电击中更是一次深刻的哲学与精神洗礼。它提醒我们自然界的无穷伟力，以及那些塑造着我们生命的原始力量。它告诉我们：无论人类文明发展得多么先进精密，我们依然臣服于数百万年来主宰这颗星球生命的同一套自然法则。
+      从这个意义上说，被闪电击中是一种令人谦卑的经历——它提醒我们人类存在的脆弱，以及我们在这个世界中所处位置的不确定性。它让我们明白，我们只是一个远比自身复杂宏大的系统中微不足道的一部分，与这颗星球上其他每一种生命一样，同样受制于相同的偶然与力量。
+      但与此同时，被闪电击中也是一种超验的体验，是对某种远超自我之物的一瞥惊鸿。它提醒我们，宇宙中存在着我们尚无法理解的力量，世界拥有着超越我们认知的无垠与伟力。它是一次走出自我、体验真正震撼之事的机会——被神圣之手轻轻触碰，感受宇宙全部分量向我们倾压而来。
+      从这个意义上说，被闪电击中既是令人谦卑的，也是令人蜕变的。它让我们重新认识自己在世界中的位置，以及我们与那些塑造生命的宏大力量之间的联系。它提醒我们：无论我们多么努力地试图掌控自己的世界与命运，始终存在着超出我们理解与掌控的力量，将以无从预料的方式改变我们的人生轨迹。
 
-book-text-sun = I stretch my leaves towards the sky, yearning for the warmth of the sun. It's a constant desire, a primal instinct that guides me. I can feel the rays of sunlight caressing my skin, urging me to grow taller, to reach higher.
-      Each day, I push myself harder, reaching for the light. I feel the earth beneath me, anchoring me to this spot, but my heart is set on the sun. It's a magnetic pull, a calling that I cannot ignore.
-      Sometimes, it feels like the sun is teasing me, playing a game of hide and seek. The clouds roll in, blocking its rays, and I am left in the shadows. I feel the chill of the air, the absence of the sun's warmth, and I wither a little inside.
-      But then, the clouds part, and the sun bursts forth, flooding me with light and life. I soak it in, basking in its glow, and I feel alive. It's a reminder of why I'm here, of what I'm striving for.
-      As I grow, I encounter obstacles along the way. Sometimes, it's other plants, blocking my path to the sun. Other times, it's the wind, pushing me off course, threatening to topple me over. But I persevere, adapting to the challenges, always seeking the light.
-      It's a never-ending journey, a quest for something greater than myself. And yet, it's also a reminder of the beauty and wonder of life. I am part of this earth, part of this intricate web of existence, and the sun is my guide.
+book-text-sun = 我将叶片伸向天空，渴望着阳光的温柔抚摸。这是一种恒久的渴望，是引领我生长的原始本能。我能感受到阳光的光芒轻抚着我，催促我长得更高、伸向更远。
+      每一天，我都在奋力向上，追寻那一束光。我感受到脚下的大地，将我牢牢根植于此处，但我的心早已飞向了太阳。那是一种磁石般的吸引，一声无法抗拒的召唤。
+      有时，阳光像是在与我捉迷藏。云层滚滚涌来，遮住了它的光芒，我陷入阴影之中。我感受到空气的寒意，感受到太阳温度的缺失，内心深处悄悄地萎缩了一分。
+      但随后，云层散开，阳光倾泻而下，将我浸透在光与生命之中。我尽情沐浴，贪婪地吸收那片金色光芒，感到无比鲜活。这提醒了我为何而在，提醒了我所追求的意义。
+      在成长的路上，我不断遭遇各种阻碍。有时是其他植物，遮挡了我通向阳光的道路；有时是风，将我推离轨道，威胁着将我掀倒。但我坚韧地撑了下来，适应着每一个挑战，始终朝着光的方向。
+      这是一段没有终点的旅程，是对某种超越自我的事物的追寻。然而，它同样是一个关于生命之美与生命之奇的提醒。我是这片大地的一部分，是这幅错综交织的生命图景的一部分，而太阳，是我永恒的指引。
 
-book-text-possum = Once upon a time, in the deep woods of the Appalachian Mountains, there lived a possum named Morty. Morty was an ambitious possum, always seeking to climb higher and higher up the social ladder of the forest. Morty had a keen mind, and he was always thinking of ways to increase his status.
-      One day, Morty stumbled upon a conspiracy within the forest. A group of animals, including several high-ranking officials in the forest council, were planning to overthrow the current leadership and take over the forest. Morty was intrigued by the possibility of gaining power, and he decided to join the conspiracy.
-      Morty worked hard to prove his loyalty to the conspirators. He gathered information and leaked it to the group, and he helped to plan their attack. When the day of the coup came, Morty was right in the middle of it all, ready to claim his place at the top of the forest hierarchy.
-      However, the coup was quickly put down by the forest council. Morty and the other conspirators were captured and brought to trial. Morty was charged with high treason for his part in the plot to overthrow the government.
-      At his trial, Morty showed no remorse for his actions. He argued that he was simply trying to improve his own position in the forest, and that the current leadership was corrupt and ineffective. But the council was not swayed by Morty's arguments. They found him guilty of treason and sentenced him to banishment from the forest.
-      Morty was devastated by the verdict. He had dreamed of rising to the top of the forest hierarchy, but now he was an outcast, forced to live on the fringes of the forest. He realized too late that his desire for power had blinded him to the importance of loyalty and duty to the forest community.
-      From that day on, Morty lived a solitary life, wandering through the woods and regretting the choices that had led him to commit high treason.
+book-text-possum = 从前，在阿巴拉契亚山脉深处的密林里，住着一只名叫莫蒂的负鼠。莫蒂是个野心勃勃的家伙，一心想要爬上森林社会阶梯的顶端。它头脑灵活，总在琢磨如何提升自己的地位。
+      某天，莫蒂意外发现了森林内部的一个阴谋。一群动物——其中包括森林议会的几位高层官员——正密谋推翻现任领导层，夺取对整片森林的控制权。莫蒂对可能获得权力的前景跃跃欲试，决定加入这场阴谋。
+      莫蒂拼命证明自己对同谋者的忠诚。它收集情报并向团伙传递消息，协助策划攻势。政变之日，莫蒂置身其中，准备好占据森林权力顶端的位置。
+      然而，这场政变被森林议会迅速镇压。莫蒂和其他同谋者被逮捕，被带上了审判席。莫蒂被控以参与推翻政府阴谋的大叛国罪。
+      在庭审中，莫蒂对自己的所作所为毫无悔意。它辩称，自己不过是在寻求改善自身在森林中的处境，而且现任领导层腐败无能。然而，议会并未被莫蒂的申辩所打动。他们裁定莫蒂叛国罪成立，将其判处流放森林。
+      这个判决让莫蒂深受打击。它曾梦想着登上森林权力的顶峰，如今却成了一个流放者，被迫在森林边缘孤独游荡。它太晚才明白，对权力的渴望蒙蔽了自己的双眼，让它忽视了对森林社区应有的忠诚与责任。
+      从那天起，莫蒂开始了孤独的生活，在密林中漫无目的地流浪，悔恨着那些将它推向叛国之路的选择。
 
-book-text-cafe = As the days went by, Lily found herself spending more and more time at the cafe. She enjoyed the zesty aroma of the coffee beans and the joyful chatter of the other customers. She even started to recognize some of the regulars, like the man with the bushy beard who always ordered a latte with extra foam and a sprinkle of cinnamon.
-      One day, as Lily was sitting at her usual table by the window, she noticed something out of the corner of her eye. At first, she thought it was just a bird, but then she realized it was a tiny possum, peeking out from behind the trash can outside. The little creature had a playful, almost mischievous look in its eyes, and it seemed to be watching Lily with interest.
-      As the days went by, Lily began to see the possum more and more often. It would come by the cafe and peek in the windows, or scamper along the rooftops, occasionally letting out a high-pitched flutter of excitement. Lily found herself becoming more and more intrigued by the little possum, and she started to leave little treats for it, like bits of croissant or leftover crumbs from her pastry.
-      One day, as Lily was leaving the cafe after her shift, she heard a commotion coming from a nearby alley. She cautiously peeked around the corner and saw a group of men in dark suits, talking in hushed tones. At first, she thought it was just a group of businessmen, but then she noticed the small possum perched on a nearby trash can, watching the men with a keen interest.
-      Suddenly, one of the men noticed the possum and lunged towards it, grabbing it roughly by the tail. The possum let out a high-pitched scream of terror, and Lily felt her heart skip a beat. Without thinking, she ran towards the men and demanded that they release the possum.
-      The men laughed at her and told her to mind her own business, but Lily refused to back down. She managed to grab the possum from the man's grip and cradled it gently in her arms. As she looked into the possum's bright, joyful eyes, she knew that she had to protect it at all costs.
-      In the end, Lily was able to save the possum from the men, who turned out to be members of a notorious smuggling ring. She took the little creature home with her and named it Zest, in honor of the joyful and zesty energy it brought into her life. From that day forward, Lily and Zest were inseparable, and they spent many happy years exploring the city and spreading joy wherever they went.
+book-text-cafe = 日子一天天过去，莉莉发现自己来咖啡馆的时间越来越长。她喜欢咖啡豆散发的浓郁芬芳，喜欢其他顾客愉快的喧嚣声。她甚至开始认出了一些常客，比如那个留着蓬松大胡子、每次都要点一杯多泡加肉桂粉拿铁的男人。
+      某天，莉莉坐在窗边的老位子上，眼角余光瞥见了什么。起初她以为是一只鸟，随即才发现，是一只小负鼠，正从门外垃圾桶后面探出脑袋偷偷张望。那小家伙的眼睛里闪着一股调皮、几乎可以说是促狭的神气，似乎正饶有兴味地盯着莉莉看。
+      随着时间流逝，莉莉越来越频繁地看见这只负鼠。它会跑来咖啡馆，扒着玻璃窗往里瞧，或者沿着屋顶蹿来蹿去，偶尔发出一声尖细的兴奋叫声。莉莉渐渐被这只小负鼠迷住了，开始为它留下一些零食，比如几小块可颂，或是自己糕点留下的饼屑。
+      某天傍晚，莉莉结束轮班正准备离开咖啡馆，突然听到附近小巷里传来一阵骚动。她小心翼翼地绕过街角，看见一群身着深色西装的男人正在低声密谈。起初她以为不过是几个商人，却注意到那只小负鼠正蹲在附近的垃圾桶上，一双眼睛死死盯着那些男人。
+      突然，其中一个男人发现了负鼠，猛地扑上去，粗暴地抓住了它的尾巴。负鼠发出一声尖锐的惊叫，莉莉只觉得心脏猛地揪了一下。她不假思索地冲上前，厉声要求那些人放开负鼠。
+      男人们嘲笑她，叫她少管闲事，但莉莉寸步不让。她从那个男人手里夺回了负鼠，将它轻轻抱在怀里。望着负鼠那双明亮、喜悦的眼睛，莉莉知道，无论如何她都要保护它。
+      最终，莉莉成功地从那些男人手中救出了负鼠——那些人原来是一个臭名昭著的走私团伙的成员。她把这只小生灵带回了家，给它起名"活力"，以纪念它为自己的生活带来的那份喜悦与活力。从那天起，莉莉和活力形影不离，在这座城市里共同探索、四处传播欢乐，度过了许多幸福的岁月。
 
-book-text-feather = As the days passed, the wandering bird came across many more enchanted places, each one more magical than the last. But as the journey continued, the bird's feathers began to lose their luster, and its once bright eyes grew dimmer.
-      One day, the bird stumbled upon a clearing in the forest, where a group of animals had gathered around a small pond. In the center of the pond was a shimmering feather, which glowed with a radiant light.
-      The bird was immediately drawn to the feather, and flew down to take a closer look. As it approached, the other animals parted ways to make room, and the bird realized that this was no ordinary feather. It was a magical feather, imbued with the power of the enchanted forest.
-      The bird felt a surge of energy coursing through its body as it touched the feather, and its feathers began to glow with a renewed brightness. The other animals gathered around, amazed at the transformation.
-      From that day on, the wandering bird was no longer lost or alone. It had found its place in the enchanted forest, and its once aimless wandering was replaced with a sense of purpose and belonging.
-      As the seasons changed and the years passed, the bird grew older, but its feathers remained as bright and vibrant as ever. And when it finally passed on from this world, its legacy lived on in the enchanted forest, where its memory was celebrated by all the animals who had known and loved it.
-      The magical feather that had once transformed the wandering bird became a symbol of hope and renewal, a reminder that even in the darkest of times, there is always the possibility of finding one's true place in the world.
+book-text-feather = 随着日子一天天过去，那只流浪的鸟儿又遇见了许多神奇的地方，每一处都比上一处更加奇幻瑰丽。然而，随着旅途延续，鸟儿的羽毛开始失去光泽，那双曾经明亮的眼睛也渐渐黯淡下来。
+      某天，鸟儿无意间来到森林中的一片空地，发现一群动物围聚在一口小小的池塘边。池塘中央，一根羽毛在水面上轻轻漂浮，散发着璀璨的光芒。
+      鸟儿立刻被那根羽毛吸引，俯冲而下，凑近去看。它靠近时，周围的动物们纷纷让开，鸟儿这才意识到，这绝非一根寻常的羽毛。这是一根魔法羽毛，蕴含着魔法森林赋予的神奇力量。
+      鸟儿触碰到羽毛的瞬间，感到一股能量涌遍全身，身上的羽毛重新焕发出耀眼的光彩。周围的动物们纷纷聚拢过来，被这神奇的蜕变深深震撼。
+      从那天起，那只流浪的鸟儿不再迷失，不再孤单。它在这片魔法森林中找到了自己的归属，曾经漫无目的的游荡，化作了充满意义与归属感的栖居。
+      随着季节更迭、岁月流逝，鸟儿渐渐老去，但它的羽毛始终光鲜亮丽、生机勃勃。当它最终离开这个世界，它的传说却在魔法森林里长久流传，被所有认识和爱过它的动物们永远铭记。
+      那根曾经令流浪鸟儿蜕变的魔法羽毛，成了希望与重生的象征——在最黑暗的时刻，总有一种可能，让你找到自己在世间真正的归宿。
 
-book-text-ian-wolfpup = Once upon a time, in a dense forest, there lived a friendly corgi named Ian and a clever fox named Renault. They were unlikely friends, but their adventures together were legendary.
-      One bright and sunny day, as they were playing catch, they heard a distant howl that seemed to be coming from the deep, dark woods. Being curious creatures, they decided to investigate the source of the noise.
-      As they ventured deeper into the woods, they encountered various obstacles and challenges. But with their combined wit and determination, they overcame them all.
-      They encountered a steep and slippery slope, but Ian used his short but sturdy legs to help them climb up. They came across a raging river, but Renault used her quick thinking to find a way across.
-      Finally, they reached the source of the howl. It was a lonely and scared wolf pup, lost in the woods. Ian and Renault quickly realized that they needed to help the little wolf find its way back to its family.
-      They used their skills and teamwork to navigate back through the woods, all the while keeping the wolf pup safe and warm. When they finally reunited the little wolf with its family, they were rewarded with warm smiles and grateful howls.
-      From that day on, Ian and Renault's friendship grew even stronger. They continued to have many adventures in the forest, each one more exciting than the last. And they never forgot the joy of helping others in need.
+book-text-ian-wolfpup = 从前，在一片茂密的森林里，住着一只友善的柯基犬伊恩和一只聪明的狐狸雷诺。他们是一对不寻常的好友，却以无数传奇般的冒险闻名于世。
+      某个阳光明媚的好日子，他们正玩着接球游戏，突然听到远处深林中传来一声悠长的嚎叫。出于好奇，两个家伙决定去探个究竟。
+      他们一路深入密林，遭遇了重重阻碍与考验，却凭借彼此的机智与坚韧一一克服。他们遇到了一道陡峭湿滑的山坡，伊恩用他那短而有力的腿帮助两人艰难攀爬；他们又碰上了一条湍急的河流，雷诺凭借她的敏捷思维找到了渡河的方法。
+      终于，他们找到了那声嚎叫的来源——一只孤独而惊恐的幼狼，在密林深处迷了路。伊恩和雷诺立刻明白，他们必须帮助这只小狼找到回家的路。
+      他们运用各自的技能与默契配合，引领幼狼穿越层层密林，一路守护它的安全与温暖。当他们终于将小狼与它的家人团聚时，迎接他们的是一张张温暖的笑容和一声声感激的嚎叫。
+      从那天起，伊恩和雷诺的友谊愈发深厚。他们继续在森林里展开一次又一次冒险，每一次都比上一次更精彩刺激。而帮助他人的那份喜悦，始终铭刻在他们心间。
 
-book-text-ian-ranch = After their exciting adventure in the forest, Ian and Renault decided to explore a nearby ranch. It was a vast expanse of land, full of all sorts of animals and creatures.
-      As they wandered through the ranch, they encountered many new and exciting animals. They met friendly horses, curious cows, and even a mischievous raccoon.
-      But then they heard a loud, distressed moo coming from one of the barns. They quickly rushed over to investigate and found a young calf who had gotten stuck in the fence.
-      Ian and Renault knew they had to act fast to save the poor calf. Ian used his strong teeth to carefully loosen the fence while Renault used her quick paws to guide the calf out of the tangled mess.
-      Together, they safely freed the calf and reunited it with its mother. The mother cow was overjoyed and nuzzled her calf in thanks.
-      As they continued exploring the ranch, Ian and Renault came across a group of chickens who were in trouble. Their coop had been knocked over by the wind, and they were all scattered and scared.
-      Ian and Renault quickly got to work, rounding up the chickens and rebuilding their coop. It was hard work, but with Ian's strong legs and Renault's clever mind, they got it done in no time.
-      The grateful chickens thanked Ian and Renault with a chorus of clucks and pecks.
-      As the sun began to set, Ian and Renault made their way back home, tired but happy. They had helped many animals that day and made some new friends along the way.
-      From then on, Ian and Renault continued to explore the ranch, always ready for the next adventure and always ready to lend a helping paw or snout to any animal in need.
+book-text-ian-ranch = 在森林里经历了那场激动人心的冒险之后，伊恩和雷诺决定去探索附近的一座牧场。那是一大片广袤的土地，生活着形形色色的动物。
+      漫步牧场时，他们遇见了许多新奇有趣的动物：友善的马儿、好奇的奶牛，甚至还有一只爱搞恶作剧的浣熊。
+      突然，一声响亮而痛苦的"哞——"从某个谷仓方向传来。他们赶紧跑过去查看，发现一头小牛犊被困在了篱笆缝里，动弹不得。
+      伊恩和雷诺知道必须迅速行动，救出这头可怜的小牛犊。伊恩用他那强健的牙齿小心翼翼地松开篱笆，而雷诺则用她灵巧的爪子引导小牛犊从纠缠的栅栏中脱身。
+      两人齐心协力，终于将小牛犊安全解救出来，并送还到了它的母亲身边。母牛欣喜万分，亲昵地用鼻子蹭着小牛犊，表达着感激。
+      继续探索牧场的途中，伊恩和雷诺遇到了一群陷入困境的鸡。一阵大风吹倒了鸡舍，鸡群四散奔逃，个个惊慌失措。
+      伊恩和雷诺立即着手行动，将鸡群一只只聚拢，重新搭建起鸡舍。这是个力气活，但有了伊恩强健有力的双腿和雷诺敏捷的头脑，很快便大功告成。
+      感激不尽的鸡们用一片咕咕咕的叫声和轻啄来表达谢意。
+      夕阳西沉时，伊恩和雷诺踏上了归途，虽然疲惫，却满心欢喜。今天他们帮助了许多动物，也在途中结交了新朋友。
+      从此，伊恩和雷诺继续探索着这片牧场，随时准备迎接下一次冒险，也随时准备向每一只需要帮助的动物伸出援爪或援嘴。
 
-book-text-ian-ocean = Ian and Renault were excited to visit the beach for the first time. They had heard so many wonderful things about the sandy shores and the vast, blue ocean.
-      As soon as they arrived, they ran towards the sand dunes, eager to explore. They bounded up and down the hills, sniffing and digging in the sand. They found all sorts of treasures, like colorful seashells and interesting rocks.
-      Next, they headed towards the ocean. Ian loved to swim, while Renault preferred to paddle in the shallows. They splashed and played, enjoying the salty water on their fur.
-      Suddenly, they heard a distressed cry coming from the water. They quickly swam over to investigate and found a stranded sea turtle. It had gotten tangled up in some fishing nets and was unable to free itself.
-      Ian and Renault knew they had to act fast to save the poor turtle. Ian used his strong teeth to carefully cut through the net while Renault used her quick paws to help guide the turtle back into the water.
-      The grateful turtle thanked Ian and Renault with a gentle wave of its flipper, then swam away into the deep blue.
-      As the day drew to a close, Ian and Renault sat on the beach, watching the sunset. They felt happy and content after their exciting day at the beach.
-      As they made their way back home, they promised to come back to the beach and explore even more. They knew there were still many creatures and wonders to discover, and they couldn't wait to experience it all together.
+book-text-ian-ocean = 伊恩和雷诺兴奋地第一次来到海边。他们早就听闻了金色沙滩与浩瀚蓝海的种种美好。
+      刚一抵达，两人便朝沙丘奔去，迫不及待地想要探索。他们一路蹦跳，嗅嗅这里，刨刨那里，发现了许多宝贝——五彩斑斓的贝壳，形态各异的奇石。
+      接着，他们向大海走去。伊恩酷爱游泳，而雷诺则更喜欢在浅水处踩水嬉戏。两人溅起水花，尽情玩耍，感受着咸咸的海水浸润皮毛的惬意。
+      突然，一声痛苦的呼救从水中传来。他们迅速游过去查看，发现一只搁浅的海龟——它被渔网缠绕，无法脱身。
+      伊恩和雷诺知道必须立刻行动，救出这只可怜的海龟。伊恩用他那强健的牙齿小心翼翼地咬断渔网，而雷诺则用她灵活的爪子帮助引导海龟游回深水。
+      感激不尽的海龟向伊恩和雷诺轻轻挥动鳍足，随后游向了深蓝的大海。
+      日落时分，伊恩和雷诺坐在沙滩上，凝视着夕阳。经过这一天在海边的精彩历险，两人心满意足、无比快乐。
+      踏上归途时，他们约定一定要再回到这片海滩，继续探索更多未知。他们深知，还有许多生灵与奇迹等待着他们去发现，而每一次的探索，都将与彼此共同体验。
 
-book-text-ian-mountain = Ian and Renault were excited to explore the mountains. The crisp mountain air and majestic scenery were sure to provide a memorable adventure.
-      They started their hike at the base of the mountain, trekking through dense forests and rocky terrain. As they climbed higher, the trees thinned out and gave way to breathtaking views of the surrounding peaks and valleys.
-      They came across a rushing river, where Ian couldn't resist jumping in for a refreshing swim. Renault stayed on the bank, keeping a watchful eye on her furry friend.
-      As they continued to climb higher, they encountered a group of mountain goats perched on a rocky outcropping. The goats looked at them curiously before scampering away.
-      As the sun began to set, they set up camp for the night. They built a fire and roasted marshmallows, enjoying the peaceful stillness of the mountain night.
-      The next morning, they woke up early to continue their hike. They climbed higher and higher, passing through a dense cloud bank until they reached the summit.
-      At the top, they were rewarded with a breathtaking view of the surrounding mountains and valleys. They sat down and took in the view, enjoying the peace and quiet of the summit.
-      As they made their way back down the mountain, they knew they had conquered a great challenge and had created memories that would last a lifetime. They talked excitedly about their next adventure, knowing that the great outdoors held many more wonders to explore.
+book-text-ian-mountain = 伊恩和雷诺满怀期待地踏上了探索山脉的旅程。清新的山间空气与壮阔的自然风光，注定会带来一段难忘的冒险。
+      他们从山脚出发，穿越茂密的森林和嶙峋的岩石地带，一步步向上攀登。越往高处走，树木愈发稀疏，四周峰谷的壮丽景色也逐渐展开在眼前。
+      他们来到一条奔腾的山涧旁，伊恩忍不住跳了进去，畅快地游了个够。雷诺则留在岸边，守望着她这位毛茸茸的朋友。
+      继续向上攀登的途中，他们遇到了一群盘踞在岩石突出处的山羊。山羊们好奇地打量了他们一番，随即跳跃而去。
+      太阳开始西沉，他们安营扎寨，准备在山间度过一夜。他们生起篝火，烤起棉花糖，在山夜的静谧中惬意地享受着片刻宁静。
+      第二天清晨，他们早早起身，继续攀登。越过重重浓密的云层，终于抵达了山顶。
+      站在峰顶，四周群山与幽谷的壮阔景色尽收眼底，这是对他们坚持攀登最好的馈赠。两人席地而坐，静静欣赏这片风光，享受着峰顶的宁静与悠然。
+      下山途中，他们知道自己征服了一个巨大的挑战，留下了一段将伴随一生的珍贵记忆。两人兴奋地谈论着下一次冒险，深知广阔的天地间还藏着无数奇迹等待他们去探寻。
 
-book-text-ian-city = Ian and Renault were used to exploring the great outdoors, but they had never experienced the hustle and bustle of the city. They were excited to see what adventures awaited them among the towering skyscrapers and bustling streets.
-      As they made their way into the city, they were overwhelmed by the sights, sounds, and smells. The honking of car horns, the chatter of people on their phones, and the smell of hot dogs and pretzels filled the air.
-      They started exploring the streets, marveling at the towering skyscrapers that surrounded them. They even managed to sneak into one of the buildings and ride the elevator all the way to the top floor.
-      From the top, they had an amazing view of the city, with its towering buildings and busy streets below. They looked down and saw all sorts of people and animals, from pigeons to dogs to cats, all going about their daily lives.
-      As they made their way down, they explored the busy streets, dodging in and out of crowds and navigating through busy intersections. They even made friends with a group of squirrels who were scavenging for food in a nearby park.
-      At one point, they came across a lost kitten who had strayed too far from her home. Ian and Renault knew just what to do, having rescued stranded sea creatures and helped lost hikers in the past. They used their keen sense of smell to track down the kitten's owner and reunited her with her worried family.
-      As the day turned into night, they were exhausted but happy from their adventure in the city. They made their way back home, talking excitedly about all the new experiences they had just had.
-      Ian and Renault knew that there were still many more adventures to be had, and they couldn't wait to see where their next journey would take them.
+book-text-ian-city = 伊恩和雷诺早已习惯了在大自然中探险，却从未亲身体验过城市的喧嚣与繁华。他们迫不及待地想知道，在那些高耸的摩天大楼与熙攘的街道之间，等待着他们的将是怎样的冒险。
+      走进城市的那一刻，铺天盖地的景象、声音与气味将他们瞬间淹没。汽车喇叭声此起彼伏，行人握着手机喋喋不休，热狗和椒盐脆饼的香气弥漫在空气中。
+      他们开始在街道间穿行，对那些直插云霄的摩天大楼叹为观止。他们甚至悄悄溜进了一栋楼，乘电梯一路升到了顶楼。
+      从顶楼望下去，城市的全貌尽收眼底——鳞次栉比的高楼，川流不息的街道。俯视之下，各色人物与动物各自忙碌着：鸽子、狗、猫，一派生机盎然的日常图景。
+      他们下楼继续探索那些热闹的街道，在人群中穿梭，穿越繁忙的十字路口。他们甚至与附近公园里觅食的一群松鼠交上了朋友。
+      在某个路口，他们遇到了一只迷路的小猫，不知怎的离家太远、找不到回去的路。伊恩和雷诺当机立断——毕竟，他们有过救援搁浅海洋生物、帮助迷路徒步者的丰富经验。凭着敏锐的嗅觉，他们追踪到了小猫主人的位置，让小猫与那个担忧不已的家庭重新团聚。
+      夜幕降临，两人虽然精疲力竭，却因在城市里的这段历险而心情大好。他们踏上归途，一路兴奋地回味着今天经历的种种新奇。
+      伊恩和雷诺知道，还有无数冒险在等待着他们，而下一段旅程将把他们带向何处，他们满心期待。
 
-book-text-ian-arctic = Ian and Renault were no strangers to adventure, having explored everything from mountains to cities. But their latest journey to the Arctic promised to be their most exciting yet.
-      As they landed in the frozen tundra, they were greeted by the icy landscape and biting cold. They bundled up in their warmest coats and set out to explore.
-      They quickly encountered all sorts of cold-weather animals, from polar bears to penguins to Arctic foxes. They watched in amazement as the animals adapted to their icy environment, with thick fur and sturdy paws to navigate the snow and ice.
-      They even got to try out dog sledding, with Ian leading the pack and Renault nimbly darting around the sled. They raced across the snow, taking in the stunning scenery and fresh Arctic air.
-      One day, they stumbled upon an ice cave and decided to explore it. As they made their way through the twisting tunnels, they marveled at the shimmering ice formations and the way the light played off the walls.
-      Suddenly, they heard a loud roar from deep within the cave. They cautiously made their way forward, only to come face to face with a massive polar bear. The bear looked at them curiously, and Ian and Renault froze in fear.
-      But then they remembered all the adventures they had been on before, and how they had always managed to help those in need. They bravely approached the bear, making soothing noises and offering it some fish they had brought with them.
-      To their relief, the bear calmed down and even allowed them to pet its thick fur. They spent some time with the friendly bear before bidding it farewell and continuing their Arctic adventure.
-      As their journey came to an end, they were sad to leave the frozen wonderland behind. But they knew that they had once again made incredible memories and had proven that no adventure was too big for a brave Corgi and a cunning fox.
+book-text-ian-arctic = 伊恩和雷诺是历经风浪的冒险搭档，从高山到城市，无所不往。而这一次，他们踏上了北极之旅，这注定将是迄今为止最刺激的一次冒险。
+      踏上冰封冻土的那一刻，扑面而来的是一望无际的冰雪大地与刺骨的寒风。他们裹紧最厚实的外套，出发探索。
+      他们很快就遇见了各种耐寒动物——北极熊、企鹅、北极狐，一一登场。他们惊叹于这些动物适应严酷环境的本领：厚实的皮毛、宽大结实的爪子，在冰雪之上行走自如。
+      他们甚至尝试了狗拉雪橇——伊恩冲在最前面领队，雷诺则在雪橇旁灵活地奔跑穿梭。他们在雪地上飞驰，尽情领略北极的壮丽风光与清冽空气。
+      某天，他们发现了一处冰洞，决定进去探险。在蜿蜒曲折的冰洞隧道中穿行时，他们被那些闪烁着光芒的冰晶奇观和洞壁上变幻的光影深深震撼。
+      突然，洞穴深处传来一声震耳欲聋的咆哮。他们小心翼翼地向前，却迎面撞上了一头巨大的北极熊。北极熊好奇地打量着他们，伊恩和雷诺当场僵住，心跳骤停。
+      但随即，他们想起了以往历险中的点点滴滴——每一次，他们都设法帮助了那些陷入困境的生灵。他们鼓起勇气靠近大熊，轻声细语地安抚它，并将随身携带的鱼献上。
+      令他们松了口气的是，北极熊渐渐平静下来，甚至允许他们抚摸它那厚实的皮毛。他们与这位友善的大家伙共度了一段时光，这才依依不舍地告别，继续他们的北极历险。
+      旅程接近尾声时，他们有些不舍得离开这片冰雪仙境。但他们知道，这次旅途又留下了无数珍贵的记忆，也再次证明了——没有什么冒险，是一只勇敢的柯基犬和一只狡黠的狐狸所无法征服的。
 
-book-text-ian-desert = Ian and Renault were always up for a new adventure, so when they heard about the mysterious and beautiful desert, they knew they had to go explore it. They packed their bags and set off to experience all that the desert had to offer.
-      As they walked across the vast expanse of sand, they felt the heat of the sun bearing down on them. They quickly realized that this was not like any other environment they had been in before. But they were excited to learn about how animals and plants adapted to this harsh climate.
-      Their first encounter was with a rattlesnake. Ian and Renault had heard about snakes before and were careful not to get too close. But the rattlesnake just wanted to say hello and show them how it hunted its prey. They watched in amazement as the snake used its venom to paralyze a mouse, and then swallowed it whole.
-      Ian and Renault then set off to explore the sand dunes, climbing up and down, and sliding down the steep slopes. They found an oasis, where they rested and enjoyed the cool shade and water.
-      They also discovered a rocky canyon and explored its nooks and crannies, finding scorpions, tarantulas, and even a family of coyotes. They watched as the coyotes hunted for their dinner and played with their pups.
-      As night fell, they saw the most beautiful sunset they had ever seen, with the sky turning shades of red, orange, and purple. They marveled at the way the colors blended together and reflected off the sand.
-      Finally, they settled down for the night, looking up at the starry sky. They learned about the constellations and the stories behind them. They slept soundly, dreaming about all the incredible creatures and sights they had seen that day.
-      As they left the desert, Ian and Renault felt grateful for the adventure they had had. They knew that they had learned so much and that their bravery and curiosity had taken them on another unforgettable journey.
+book-text-ian-desert = 伊恩和雷诺永远不缺探索新奇之地的热情，当他们听说了那片神秘而美丽的沙漠，便决定一探究竟。他们收拾行囊，启程去感受沙漠的一切。
+      踏上这片广袤无垠的沙海，烈日的热浪迎面扑来。他们很快意识到，这里的环境与以往经历的任何地方都截然不同。但他们对于了解动植物如何适应这种严酷气候充满了好奇与期待。
+      第一个遇见的是一条响尾蛇。伊恩和雷诺早就听说过蛇，小心翼翼地保持着距离。但那条响尾蛇只是想打个招呼，并展示它是如何捕猎的。他们目瞪口呆地看着蛇用毒液麻痹了一只老鼠，然后将它整个吞了下去。
+      之后，伊恩和雷诺继续探索那片沙丘，一路爬上滑下，沿着陡峭的斜坡滑行。他们发现了一片绿洲，在那里休憩，享受着凉爽的树荫与甘甜的水源。
+      他们还发现了一条岩石峡谷，钻入其中探寻每一处角落，遇见了蝎子、狼蛛，甚至还有一家郊狼。他们静静看着郊狼们猎取晚餐、与幼崽嬉戏玩耍。
+      夜幕降临，他们看见了此生所见过的最美丽的日落——天空渐次染上红、橙、紫的色彩。他们惊叹于那些颜色如何交融流转，映照在沙地上闪着光。
+      最后，他们安顿下来，仰望满天繁星。他们了解了各个星座以及其背后的故事，带着满心的惊叹与满脑的奇遇，酣然入梦。
+      离开沙漠时，伊恩和雷诺心中充满了感恩。他们知道自己学到了许多，而那份勇气与好奇心，又带着他们完成了一段难忘的旅程。
 
-book-text-names = From a philosophical perspective, names hold a significant role in human understanding and perception of the world. The use of names and language itself is a cornerstone of human consciousness, as it allows us to create concepts and ideas that can be shared and communicated.
-      In many philosophical traditions, such as in the works of Plato and Aristotle, names were seen as more than just labels for objects or individuals, but as reflections of the underlying nature of reality. According to Plato, the names we give to things are not arbitrary but reflect an underlying reality or essence of that thing. In other words, a name is not just a label, but it is a representation of the thing's essential nature.
-      Moreover, names can also reflect the power dynamics of society. Some philosophers argue that names and language are used to create hierarchies and establish power relations between individuals and groups. For example, in certain cultures, the act of naming is reserved for those in positions of authority, such as parents naming their children or leaders naming places or institutions. In this way, names can be seen as a form of social control, as those with the power to name hold the authority to shape and define the world around them.
-      Finally, names can also play a significant role in our understanding of our own identity and mortality. As the philosopher Martin Heidegger argued, names can be seen as a form of "thrownness," reflecting our existence as finite beings in a world that is beyond our control. In this sense, our names are not just labels, but they are a reflection of our existence and the time and place in which we find ourselves.
-      In conclusion, from a philosophical perspective, names hold a significant role in human understanding and perception of the world, reflecting both our essential nature and the power dynamics of society. They are not just labels, but a reflection of our existence and our place in the world.
+book-text-names = 从哲学角度来看，名字在人类对世界的理解与感知中扮演着举足轻重的角色。名字的使用，乃至语言本身，是人类意识的基石，它使我们得以创造出可以分享与传达的概念和思想。
+      在许多哲学传统中——如柏拉图和亚里士多德的思想体系——名字不仅仅被视为物体或个体的标签，更被视为现实底层本质的映射。在柏拉图看来，我们赋予事物的名字并非随意而来，而是折射出该事物某种内在的现实或本质。换言之，名字不只是一个标签，而是对该事物本质特性的一种呈现。
+      此外，名字还能反映社会中的权力关系。有些哲学家认为，名字与语言被用来建构等级秩序，确立个人与群体之间的权力关系。例如，在某些文化中，命名这一行为专属于握有权威之人——父母为孩子命名，领导者为地方或机构命名。在这个意义上，名字可以被视为一种社会控制的形式：拥有命名权力之人，同时也握有塑造和定义周遭世界的权威。
+      最后，名字还在我们理解自身身份认同与死亡意义方面发挥着重要作用。正如哲学家马丁·海德格尔所言，名字可以被视为一种"被抛性"的体现——折射出我们作为有限存在在一个超越我们掌控的世界中的处境。从这个意义上说，我们的名字不只是标签，而是我们存在本身的镜像，以及我们所身处的时代与地点的印记。
+      综上所述，从哲学角度来看，名字在人类对世界的理解与感知中具有深远意义，既折射出我们的本质特性，也反映出社会中的权力动态。名字不只是标签，而是我们存在与世界位置的一种表达。
 
-book-text-earth = As I sit here in my tiny cabin on the space station, I can't help but think back to my youth on Earth. It seems like a lifetime ago, and in many ways it was. I was born and raised near the ocean, and it was always a part of my life. The sound of the waves crashing against the shore, the salty smell in the air, the feeling of the sand between my toes – these are all memories that I hold dear.
-      When I was in my 20s, I made the decision to leave Earth and join the space program. It was an exciting opportunity, and I was eager to explore the final frontier. For many years, I was content with my life on the space station. I enjoyed the camaraderie of my fellow astronauts, the thrill of discovery, and the sense of purpose that came with our mission.
-      But as I've grown older, I've found myself yearning for the things I left behind on Earth. The ocean, in particular, is something that I miss deeply. I remember the way the sun would reflect off the water, creating a dazzling display of light and color. I remember the feel of the cool water on my skin, and the thrill of diving beneath the waves. I remember the taste of fresh seafood, caught by local fishermen and served up in the quaint seaside restaurants.
-      But it's not just the ocean that I miss. I miss the feel of grass beneath my feet, the smell of flowers in the springtime, the taste of a juicy peach picked right from the tree. I miss the sound of laughter from children playing in the park, the sight of couples walking hand-in-hand along a tree-lined path. I miss the sense of community that comes with living in a small town, where everyone knows each other and looks out for one another.
-      Sometimes I wonder if I made the right choice in leaving Earth. But then I remember the incredible things I've seen and done in space – the breathtaking views of distant planets, the awe-inspiring power of a supernova, the camaraderie of my fellow astronauts as we worked together to accomplish our goals. These experiences have been truly amazing, and I wouldn't trade them for anything.
-      Still, there are moments when I feel a deep ache in my heart for the world I left behind. I wonder if I'll ever get to experience those simple pleasures again. I wonder if I'll ever feel the sand between my toes, or taste the salt in the air, or hear the sound of the waves crashing against the shore. But for now, all I can do is close my eyes and imagine that I'm back on Earth, surrounded by the things I miss the most.
+book-text-earth = 坐在太空站这间小小的舱室里，我忍不住回想起在地球上度过的那些年少岁月。那好像是另一辈子的事了——某种程度上，确实如此。我出生并成长在海边，大海始终是我生命的一部分：海浪拍打礁石的声音、空气中弥漫的咸湿气息、沙子从趾缝间流过的触感——这些都是我深藏心底的珍贵记忆。
+      二十几岁时，我下定决心离开地球，加入太空计划。那是一个令人兴奋的机遇，我渴望探索这片人类最终的边疆。许多年来，我对太空站的生活感到满足——战友间的情谊、发现新事物的激动，以及使命感所带来的充实，都让我心安。
+      然而随着年岁渐长，我越来越思念那些留在地球上的一切。尤其是大海，是我最深的牵挂。我还记得阳光映照在水面上，折射出耀眼的光与色；我还记得清凉的海水触碰皮肤的感觉，以及钻入浪底那一刻的惊喜。我还记得当地渔民打捞来的新鲜海鲜，端上那些朴素的海边小馆，散发着无可替代的鲜香。
+      但不只是大海。我思念脚踩草地的感觉，思念春日里花朵的芬芳，思念从树上摘下一颗多汁桃子咬下去的那份甘甜。我思念孩子们在公园嬉笑玩耍的欢声，思念情侣们沿着林荫小径相携而行的身影。我思念小镇生活中那种相互熟识、守望相助的温情。
+      有时，我会怀疑当初离开地球究竟是不是正确的抉择。但随即，我又会想起自己在太空中所见所历的那些壮丽——遥远星球令人窒息的景象、超新星震撼人心的力量、以及与战友们并肩合力完成目标时那份深厚的情谊。这些经历无比珍贵，我绝不会以任何东西来换取。
+      然而，仍有那么一些时刻，我心中会涌起对那个故去世界的深切思念。我不知道能否再次感受那些简单的美好——沙子从趾缝流过、空气中弥漫着咸湿的味道、海浪一遍遍拍打礁石的声响。但眼下，我所能做的，只是闭上双眼，想象自己重回地球，再次置身于那些我最深爱的事物之中。
 
-book-text-aurora = Dear Diary,
+book-text-aurora = 亲爱的日记，
 
-      Today is a momentous day for the crew of the Starship Aurora. After months of floating through the vast expanse of space, they are finally landing back on Earth.
-      The crew has accomplished their mission, collecting data on a newly discovered planet in a neighboring solar system. It has been an incredible journey, filled with challenges, triumphs, and moments of awe-inspiring wonder.
-      As the ship descends through the atmosphere, the heat of reentry causes the hull to glow a fiery red, and the ship buffets against the atmosphere. It's a rough ride, but the crew is in good hands.
-      Finally, they touch down on solid ground, and the crew erupts into cheers and hugs. It's a hero's welcome, and it feels like they've been away for a lifetime.
-      As they make their way to the debriefing room, they can't stop talking about their incredible journey. They've witnessed sights that most people can only dream of, explored a planet that no one has ever seen before, and come out the other side stronger and more united than ever before.
-      Looking back on their journey, the crew knows that they've achieved something truly remarkable. They've pushed the boundaries of human exploration and shown that anything is possible with hard work, determination, and a little bit of luck.
-      Now, as they settle back into life on Earth, they know that they'll carry the memories of this journey with them forever. It has been a privilege to be a part of this crew, and they're grateful for every moment that they've shared together.
+      今天，对于极光号飞船的全体船员来说，是意义非凡的一天。在茫茫宇宙中漂泊数月之后，他们终于踏上了返回地球的旅程。
+      船员们圆满完成了此次任务，成功收集了一颗邻近太阳系新发现行星的科学数据。这是一段奇妙的旅程，充满了挑战、胜利，以及无数令人心生敬畏的震撼时刻。
+      飞船穿越大气层时，重返大气的热量将船身染成炽烈的红色，飞船在气流中剧烈颠簸。这是一段颠簸的旅程，但船员们在老练的手中得到了妥善照料。
+      终于，飞船降落在坚实的地面上，船员们爆发出欢呼声和拥抱。这是英雄般的归来，仿佛他们已经离去了整整一辈子。
+      在前往简报室的途中，他们停不下来，不断谈论着这段令人难以置信的旅程。他们目睹了普通人只能梦想的景象，探索了一颗从未有人踏足的星球，并在历经这一切后，比任何时候都更加团结、更加坚强。
+      回望这段旅程，船员们深知自己完成了真正非凡的壮举——他们拓展了人类探索的边界，证明了只要有坚持、有决心，再加上一点点运气，一切皆有可能。
+      如今，他们重新融入地球上的日常生活，但他们知道，这段旅程的记忆将永远镌刻在心中。能够成为这支船员队伍的一员，是莫大的荣幸，他们为每一个共同度过的时刻深感珍惜。
 
-      Until next time,
-      The anonymous member of the Starship Aurora crew.
+      下次再见，
+      极光号飞船匿名船员
 
-book-text-temple = My dear brothers and sisters, I stand before you today to speak about the question of why there are more than one god. As a priest, I have dedicated my life to the study of the divine, and it is my firm belief that there are multiple gods because of the very nature of existence itself.
-      Consider the vastness of our universe, with its countless galaxies, stars, and planets. Each one is unique, with its own set of physical laws and properties. If we accept that the universe was created by a single, all-powerful deity, then how can we explain this diversity?
-      The answer lies in the realization that existence is not a simple, straightforward concept. It is complex, layered, and multifaceted, with many different dimensions and aspects. Just as there are countless different forms of matter and energy in the universe, so too are there many different forces and entities that make up the divine.
-      Each god represents a different aspect of existence, whether it be love, wisdom, strength, or justice. Just as different people have different talents and abilities, so too do different gods have unique powers and roles to play in the grand scheme of things.
-      But why, you may ask, does this matter to us? Why should we care about the nature of the divine? The answer is that understanding the divine is essential to our own spiritual growth and development. By recognizing the complexity and diversity of the divine, we gain a deeper appreciation for the intricacies of the world around us, and we can begin to see our own place within it.
-      So let us embrace the many gods that make up the divine, and let us strive to learn from each of them. May we be blessed with the wisdom, strength, and love of the divine, and may we continue to grow and evolve in our own spiritual journeys.
+book-text-temple = 亲爱的兄弟姐妹们，今日我站在你们面前，要探讨这样一个问题：为何神明不止一位？作为一名神职人员，我将一生献给了对神圣的研究，而我坚信，神明之所以有多位，正源于存在本身的本质。
+      请看看我们宇宙的浩瀚无垠——无数星系、繁星与星球，每一颗都独一无二，拥有各自的物理法则与特性。若我们承认宇宙由单一全能的神明所创造，那么这种多样性又该如何解释？
+      答案在于这样一种领悟：存在并非简单直白的概念，而是复杂、多层次、多维度的。正如宇宙中存在无数不同形式的物质与能量，神圣之域中同样存在着许多不同的力量与实体。
+      每一位神明代表着存在的不同面向——无论是爱、智慧、力量，还是公义。正如不同的人拥有各自的才能，不同的神明也拥有独特的力量，在宏大宇宙秩序中各司其职。
+      但你们可能会问，这对我们有何意义？我们为何要关心神圣的本质？答案是：理解神圣，对我们自身的灵性成长至关重要。通过认识神圣的复杂性与多元性，我们能够更深刻地体会周遭世界的精妙，并开始在其中寻找自己的位置。
+      所以，让我们拥抱那构成神圣整体的诸位神明，努力从每一位神明身上汲取智慧。愿我们蒙受神圣的智慧、力量与爱的庇佑，愿我们在各自的灵性旅途中不断成长、不断精进。
 
-book-text-watched = I don't know who "they" are, but I can feel their eyes on me. It's like a prickling sensation on the back of my neck, and it won't go away. No matter where I go or what I do, I can feel them watching me.
-      It's not just my imagination, either. I've caught glimpses of shadowy figures in the corners of my vision, lurking just out of sight. I've heard footsteps echoing down the halls when I know I'm alone. And there have been times when I've felt a hand on my shoulder, only to turn around and find no one there.
-      I've tried to ignore it, tried to tell myself that it's just paranoia. But the feeling is too strong, too real. I can't shake the sense that something is very wrong.
-      I've started to keep a log of all the strange occurrences, but it only adds to my unease. The entries pile up day after day, documenting every instance of the feeling of being watched. It's like a never-ending nightmare that I can't wake up from.
-      The worst part is not knowing who is behind it all. It could be anyone on this space station, or it could be something more sinister. I've tried to approach Joe Mendez, the Head of Security, about it, but he just brushes me off. He says there's nothing to worry about, that it's just my imagination getting the best of me.
-      But I know that's not true. The feeling of being watched is too strong, too persistent. I'm starting to fear for my safety. What if "they" are planning something? What if I'm in danger?
-      I don't know what to do, but I can't keep living like this. The constant surveillance is driving me to madness. I need to find out who is behind it all and put a stop to it before it's too late.
+book-text-watched = 我不知道"他们"是谁，但我能感觉到他们的目光落在我身上。那是一种后颈上的刺痒感，挥之不去。无论我走到哪里，无论我做什么，都能感受到有人在监视着我。
+      这不仅仅是我的错觉。我已经在视野的角落瞥见过几次若隐若现的黑影，在明明知道自己独处时，却听到走廊里传来回荡的脚步声。还有几次，我分明感觉到肩上有只手，猛地回头，却空无一人。
+      我试图忽视这一切，告诉自己不过是偏执妄想。但那种感觉太强烈、太真实，让我无从摆脱——某件非常不对劲的事正在发生。
+      我开始记录所有这些奇怪的遭遇，那份日志却只让我愈发不安。日复一日，记录被监视感的条目越来越多，仿佛一场没有尽头的噩梦，让我无法醒来。
+      最糟糕的是，我不知道这背后究竟是谁在操控。太空站里的任何人都有可能，或许是某种更加阴暗的存在。我试图向安全主管乔·门德斯反映此事，他却对我不屑一顾，说没什么可担心的，只是我的想象力在作怪。
+      但我知道那不是真的。被监视的感觉太强烈、太持久了。我开始为自身的安全感到恐惧。他们在谋划什么？我是否身处险境？
+      我不知道该怎么办，但我无法继续这样生活下去。无处不在的监视正将我逼向崩溃的边缘。我必须找出幕后黑手，在为时太晚之前，将这一切终结。
 
-book-text-medical-officer = Dr. John Smith was a seasoned medical officer aboard the research station, SS Horizon. He had seen it all: from viral outbreaks to mechanical malfunctions, and everything in between. But nothing had prepared him for what was about to happen.
-      It was a routine day when the alarms blared, signaling an incoming Syndicate attack. Smith sprang into action, quickly gathering his medical supplies and heading for the emergency meeting room. He was joined by a few crew members, including the Captain, the Chief Engineer, and the Head of Security.
-      As they discussed their plan of action, a wizard suddenly appeared before them, claiming to have come from the future with a warning. The wizard warned them that their fate was sealed and that the only way to survive was to work together and trust each other. Smith was skeptical but decided to heed the wizard's advice.
-      The group quickly formulated a plan: the captain would lead the defense against the nukies, the chief engineer would work on repairing the damage, and Smith would treat any injured crew members. As they worked, they discovered that there were traitors among them, working with the nukies to bring down the station.
-      Smith's skills were put to the test as he tended to the wounded while also keeping an eye out for any suspicious activity. It was a delicate balance, but he managed to keep his cool, fueled by nothing but coffee and spite.
-      The battle was fierce, but they managed to hold off the nukies and secure the station. In the aftermath, they uncovered the traitors, and justice was served. The wizard appeared once again, congratulating them on their survival and disappearing just as quickly.
-      Smith realized that the wizard was right: their survival had depended on their trust and cooperation. He made a vow to herself to never forget that lesson and to always keep his wits about him, no matter the situation.
+book-text-medical-officer = 约翰·史密斯博士是SS地平线研究站上的一名资深医疗官员。他什么阵仗都见识过：从病毒爆发到机械故障，无所不历。然而，即将发生的事，还是超出了他的一切准备。
+      那是平常的一天，警报声骤然响起，预警着即将到来的辛迪加袭击。史密斯立即行动，迅速整理好医疗物资，赶赴紧急会议室。与他同行的还有几名船员，包括船长、首席工程师和安全主管。
+      正当众人商议对策时，一名巫师突然出现在他们面前，自称来自未来，带着一则警告：他们的命运已经注定，唯有齐心协力、相互信任，才有一线生机。史密斯将信将疑，但还是决定照巫师的话去做。
+      众人迅速拟定了计划：船长率队抵御核弹部队的进攻，首席工程师负责修复受损设施，史密斯则专注于救治受伤船员。在协同作战的过程中，他们发现队伍中竟然藏有内奸，正与敌方里应外合，企图摧毁太空站。
+      史密斯全力以赴，一边救治伤员，一边警惕地搜寻可疑迹象。这是一种微妙的平衡，但他靠着咖啡和一股不服输的劲头，硬是撑了过来。
+      战斗异常激烈，但他们最终击退了核弹部队，成功保住了太空站。战后，内奸被一一揪出，正义得以伸张。巫师再度现身，向他们道贺，旋即消失得无影无踪。
+      史密斯意识到，巫师说的是对的：他们能够生存下来，靠的正是彼此之间的信任与协作。他暗下决心，永远不忘这个教训，无论身处何种境遇，都要时刻保持清醒与冷静。
 
-book-text-morgue = Morty the possum and Morticia the raccoon were the ghosts of an old morgue. The morgue had been abandoned for years, but the two animals had made it their home. They enjoyed exploring the empty hallways and playing hide-and-seek in the cold storage rooms.
-      One day, a group of urban explorers stumbled upon the morgue. They were shocked to find that it was still in use, despite its dilapidated condition. They cautiously made their way through the empty halls, until they heard a strange noise coming from the cold storage room.
-      Morty and Morticia were playing their favorite game of "who can jump the farthest" when they heard the strangers enter. They quickly hid behind some metal shelves and watched as the humans explored the room.
-      One of the explorers opened a door to one of the cold storage units, only to find it empty. He turned to leave, but Morticia, who was perched on top of the unit, accidentally knocked over a jar of formaldehyde, spilling its contents all over him.
-      The man screamed and ran out of the room, convinced that the ghosts of the morgue had attacked him. The other explorers followed suit, leaving the morgue abandoned once again.
-      Morty and Morticia chuckled to themselves as they watched the humans flee. They were happy to have scared off the intruders and to continue living in their beloved morgue, undisturbed.
+book-text-morgue = 莫蒂是一只负鼠鬼魂，莫蒂西亚是一只浣熊鬼魂，他们共同栖居在一所废弃的太平间里。这所太平间已经荒废多年，但这两只动物把它当成了自己的家。他们乐于在空旷的走廊里探索，在冷藏室里玩捉迷藏。
+      某天，一群城市探险者偶然发现了这所太平间。令他们震惊的是，这里看上去竟然还在"使用"，尽管早已破败不堪。他们小心翼翼地穿行于空旷的走廊，直到听见冷藏室方向传来奇异的响声。
+      莫蒂和莫蒂西亚正在玩他们最爱的"谁跳得最远"游戏，突然听见陌生人进入的声响。他们迅速躲到金属架子后面，悄悄注视着人类探索房间。
+      其中一个探险者拉开了某个冷藏单元的门，发现里面空无一物。他转身欲离，却不料趴在单元顶上的莫蒂西亚一个不稳，打翻了一瓶福尔马林，将液体全都泼在了他身上。
+      那个男人惨叫一声，夺路而逃，深信是太平间的鬼魂袭击了他。其余探险者紧随其后，一哄而散，太平间再度恢复了宁静。
+      莫蒂和莫蒂西亚看着人类仓皇逃窜，忍不住窃笑起来。他们很高兴吓走了这些不速之客，终于可以在心爱的太平间里继续过着无人打扰的日子。
 
-book-text-rufus = Once upon a time, in a whimsical land, there was an elusive rabbit named Rufus. Rufus was known to be quite the trickster, always causing mischief wherever he went. One day, he was out for a leisurely ride on his bicycle when he came across a carrot patch.
-      Now, Rufus loved carrots more than anything in the world, so he decided to stop and take a few for himself. As he was munching away on a delicious carrot, he felt a gentle breeze brush against his fur. Suddenly, he heard a voice behind him say, "Excuse me, but those carrots belong to me."
-      Rufus quickly turned around to see a petite fairy hovering in the air behind him. She had a mischievous glint in her eye and a playful smile on her face. Rufus was taken aback, as he had never seen a fairy before.
-      The fairy introduced herself as Blossom and explained that she was the protector of the carrot patch. She had been watching Rufus from afar and knew he was a mischievous rabbit. However, she was feeling playful that day and decided to let him have a few carrots.
-      Rufus was ecstatic and thanked Blossom for her generosity. She then offered to take him on a ride through the forest on her back, and Rufus eagerly accepted. As they soared through the trees, the breeze in Rufus's face and the sight of the whimsical forest around him made him feel like he was in a dream.
-      After their ride, Blossom bid Rufus farewell and disappeared into the forest. Rufus hopped back on his bicycle, feeling grateful for the experience and the delicious carrot he had enjoyed. From that day on, he always made sure to ask permission before taking anything that didn't belong to him, knowing that there might be a whimsical fairy watching over him.
+book-text-rufus = 从前，在一片奇幻的土地上，有一只行踪神秘的兔子叫鲁弗斯。鲁弗斯以喜爱恶作剧而闻名，走到哪里都会惹出一番麻烦。某天，他正悠闲地骑着自行车兜风，路过一片胡萝卜地。
+      鲁弗斯爱胡萝卜爱到骨子里，便停下来，顺手拿了几根。他正啃得津津有味，突然感到一阵轻柔的微风拂过皮毛。紧接着，背后传来一个声音："对不起，这些胡萝卜是我的。"
+      鲁弗斯猛地转身，只见一位娇小的仙女悬浮在空中。她眼中闪烁着促狭的光，嘴角挂着一抹顽皮的微笑。鲁弗斯一时愣住了——他从未见过仙女。
+      仙女自我介绍，说她叫布洛索姆，是这片胡萝卜地的守护者。她一直在暗中观察鲁弗斯，深知他是个爱搞恶作剧的兔子。不过，她今天心情不错，决定让他多拿几根胡萝卜。
+      鲁弗斯欣喜若狂，连声道谢。布洛索姆随即提议，带他骑在自己背上在森林里飞行一圈，鲁弗斯欣然应允。穿越树梢时，微风拂面，奇幻的森林在眼前铺展开来，鲁弗斯仿佛置身梦境。
+      游览结束，布洛索姆向鲁弗斯道别，随即消失在森林深处。鲁弗斯重新骑上自行车，心中充满了感激——感激这段奇遇，也感激那根美味的胡萝卜。从那天起，他在拿任何不属于自己的东西之前，都会先征求许可，因为他知道，说不定哪里就有一位奇幻的仙女在默默注视着他。
 
-book-text-map = As soon as the spicy scent of cumin and paprika hit his nose, Max knew he was in for an adventure. He had always been drawn to the exotic and unknown, and this restaurant had promised to deliver just that.
-      Max had been searching for something, though he wasn't quite sure what. Perhaps it was a sense of purpose, or maybe just a break from the monotony of his daily routine. Whatever it was, he felt that this meal would be the first step on a journey that would take him far from his ordinary life.
-      As he sat at the table, watching the glimmering lights of the restaurant dance across the walls, Max felt his phone buzz in his pocket. He hesitated for a moment, wondering if he should answer it, but ultimately decided that he was here to escape the familiar, and so he ignored the call.
-      After he finished his meal, Max paid the bill and stepped outside into the cool night air. As he walked down the street, he spotted a mysterious suitcase lying on the sidewalk, and couldn't resist the temptation to investigate.
-      With a sense of excitement and trepidation, Max cautiously opened the suitcase, and was immediately struck by the sight of an intricate map, covered in mysterious symbols and markings. He knew then that his adventure had truly begun.
-      Max couldn't believe his luck. He had always dreamed of going on a real adventure, and here it was, practically falling into his lap. He carefully examined the map, trying to decipher its secrets.
-      As he studied the map, he realized that it depicted a remote jungle in South America. He had heard stories of ancient ruins and lost civilizations hidden deep within the dense foliage. It was said that there were treasures beyond imagining waiting to be discovered.
-      Max knew that he had to go to South America and explore this jungle for himself. He quickly booked a flight, and before he knew it, he was on a plane bound for the unknown.
-      As he journeyed deeper into the jungle, Max was filled with a sense of awe and wonder. The lush greenery was unlike anything he had ever seen before, and the sounds of exotic animals echoed through the trees.
-      It wasn't long before Max stumbled upon the ruins he had been searching for. They were hidden away, deep within the jungle, and he felt as though he had uncovered a long-forgotten secret.
-      As he explored the ruins, Max realized that he wasn't alone. There were other adventurers there as well, all searching for the same treasure that he was after.
-      The competition was fierce, but Max was determined to come out on top. He used his wits and ingenuity to outsmart the other treasure hunters, and finally, he found what he had been looking for: a glittering chest filled with precious jewels and ancient artifacts.
-      Max couldn't believe his luck. He had gone on an adventure of a lifetime, and now he had riches beyond his wildest dreams. But as he sat there, gazing at the treasure before him, he realized that what he had really gained was a newfound sense of purpose and adventure. He knew that he would never be content with a mundane life again, and that there were countless more adventures waiting for him in the world beyond.
+book-text-map = 孜然和辣椒粉的浓烈香气刚一钻入鼻腔，马克斯就知道，一段冒险即将开始。他向来对异域风情与未知事物有着难以抗拒的吸引力，而这家餐厅恰好承诺了他所渴望的一切。
+      马克斯一直在寻找某种东西，尽管他自己也说不清楚究竟是什么。也许是一种使命感，或者只是想从日复一日的单调生活中逃脱片刻。无论如何，他感觉这顿饭将成为一段旅程的起点，带他驶离寻常的生活轨道。
+      坐在餐桌旁，望着餐厅灯光在墙壁上流转闪烁，马克斯感到口袋里的手机震动了一下。他犹豫了片刻，想着要不要接——但最终，他还是决定让它继续振动。他今天来这里，是为了逃离熟悉的一切。
+      用餐结束，马克斯结账走出餐厅，迎面是凉爽的夜风。沿街走着，他注意到人行道上躺着一只神秘的行李箱，抵不住好奇，停下来打算一探究竟。
+      带着一丝兴奋与忐忑，马克斯小心翼翼地打开了箱子，映入眼帘的是一幅精密复杂的地图，上面布满了神秘的符号与标记。就在那一刻，他知道——他的冒险，真正开始了。
+      马克斯简直不敢相信自己的运气。他一直梦想着踏上真正的冒险，而现在，它就这样自己送上门来。他仔细端详地图，试图破解其中的秘密。
+      细看之下，他认出了地图上描绘的是南美洲某处偏远的热带丛林。他曾听说过那片茂密森林深处藏匿的古代遗迹与失落文明，据说那里有着令人难以想象的宝藏，等待有人去发现。
+      马克斯当机立断，他要去南美，亲自探索那片丛林。他迅速订好机票，转眼间便已置身于飞往未知之地的航班上。
+      越深入丛林，马克斯心中的敬畏与震撼就越强烈。那漫无边际的绿色生机是他前所未见的，奇异动物的鸣叫声在树木间此起彼伏。
+      没过多久，马克斯便发现了他一直在寻找的遗迹。它们深藏于丛林深处，仿佛一个被人遗忘已久的秘密，终于被他揭开了面纱。
+      当他探索遗迹时，他发现自己并不孤单。还有其他探险者在这里，所有人都在追寻同一个宝藏。
+      竞争激烈，但马克斯志在必得。他凭借机智与创造力智胜其他猎宝人，最终找到了他苦苦追寻的东西：一口装满珍贵宝石与古代文物的闪光箱子。
+      马克斯难以置信地凝视着眼前的财宝，心中却涌起了一种奇异的感悟——他真正获得的，是一种全新的使命感与冒险精神。他知道，自己再也无法满足于平淡无奇的生活，而这世界上，还有无数场冒险正在等待着他。
 
-book-text-journ-mount = Lena had always been drawn to the mesmerizing beauty of the mountains. The way the peaks rose up against the sky, the crisp air, and the sense of freedom they inspired. She loved the challenge of daring to climb higher and higher, until she reached the summit and looked out over the world below.
-      But Lena wasn't just a mountain climber - she was also an accomplished guitarist. As she sat by the campfire each night, strumming her instrument and singing songs that echoed through the valleys, she felt truly alive.
-      One day, as Lena was trekking through a particularly challenging section of the mountain, she heard laughter echoing through the air. She paused for a moment, trying to locate the source of the sound, and soon spotted a group of climbers up ahead. They were clearly experienced, laughing and joking as they navigated the difficult terrain with ease.
-      Feeling a sense of camaraderie, Lena approached the group and struck up a conversation. They were impressed by her daring spirit, and soon invited her to join them on their climb. Together, they scaled the mountain, pushing themselves to their limits and encouraging each other along the way.
-      As they reached the summit, Lena pulled out her guitar and began to play. The music was mesmeric, and the group fell silent, caught up in the beauty of the moment. As she finished the last notes of the song, they erupted into applause, their laughter echoing off the mountainside.
-      In that moment, Lena knew that she had found her true calling. She was meant to be a musician, a climber, and a source of inspiration to all those around her. And as she gazed out over the world from the mountaintop, she knew that anything was possible if she dared to dream.
+book-text-journ-mount = 莉娜从来都被山脉那摄人心魄的壮美所深深吸引。那些直插云霄的峰峦，清冽的空气，以及山峦激发的那份自由感。她喜欢不断向上攀登的挑战，直到站上山顶、俯瞰脚下世界的那一刻。
+      但莉娜不只是一名登山者，她同时也是一位出色的吉他手。每个夜晚，当她坐在营地篝火旁，拨动琴弦，唱着回荡在山谷间的歌，她感到自己真正地活着。
+      某天，莉娜正在穿越一段尤为艰险的山路，突然听见笑声从空气中飘来。她停下脚步，循声望去，不远处果然看见一队登山者。他们显然都是行家，谈笑自若地在复杂的地形中穿行。
+      感受到一股莫名的亲切，莉娜主动上前搭话。他们对她的胆魄印象深刻，很快便邀她加入队伍。众人合力攀登，相互鼓励，不断超越自身的极限。
+      当他们抵达山顶，莉娜取出吉他，开始弹奏。那音乐如同咒语，队伍里的人纷纷沉默下来，沉浸在这一刻的美好之中。当最后一个音符消散，大家爆发出热烈的掌声，笑声在山壁间久久回响。
+      就在那一刻，莉娜清楚地知道，她找到了自己真正的使命。她生来就是要成为一名音乐人、一名登山者，成为周围所有人的灵感之源。站在山顶，俯瞰这片世界，她知道——只要敢于梦想，一切皆有可能。
 
-book-text-inspiration = As a freelance writer, Sarah was always in search of inspiration. She had traveled to many places and met a lot of people, but today she found herself wandering down an unfamiliar path in the woods. The vibrant colors of the fall leaves were mesmerizing, and she felt a surreal sense of peace as she walked further into the forest.
-      Suddenly, she stumbled upon a small clearing and gasped at the sight before her. A serene waterfall cascaded down a mountain, surrounded by colorful wildflowers and butterflies. Sarah couldn't believe her luck in discovering this hidden gem.
-      Without a moment's hesitation, Sarah took out her pen and notebook and began to write. She wrote about the beauty of the scene, the peacefulness she felt, and the surreal quality of the moment. She wanted to capture this feeling and share it with others through her words.
-      As she finished writing, Sarah heard the snap of a twig and looked up to see a man approaching her with a camera. He introduced himself as a nature photographer and asked if she had seen the waterfall. They struck up a conversation, and soon they were both laughing and sharing stories of their adventures.
-      As the sun began to set, the two of them packed up their gear and said their goodbyes. Sarah felt grateful for this unexpected encounter and the inspiration it brought her. She knew that this moment would stay with her forever, and she felt a sense of serenity knowing that there was still so much beauty in the world waiting to be discovered.
+book-text-inspiration = 作为一名自由撰稿人，莎拉一直在四处寻找灵感。她走过许多地方，结识了形形色色的人，而今天，她却发现自己漫步在一条陌生的林间小路上。秋叶的绚烂色彩令人着迷，越走越深，她感到一种超现实的宁静悄悄涌上心头。
+      突然，她走进一片小小的林间空地，眼前的景象让她不禁倒吸一口气。一道清澈的瀑布从山间倾泻而下，四周野花簇拥，彩蝶翩翩。莎拉简直不敢相信，自己竟然发现了这样一处隐秘的世外桃源。
+      不假思索，莎拉掏出钢笔和笔记本，开始写作。她写下眼前景色的美丽，写下那份内心的平静，写下这一刻的超现实感。她想将这种感觉化为文字，与更多人分享。
+      正当她写完最后一句，一声树枝折断的声音让她抬起头。只见一个男人走过来，手中握着相机。他自我介绍是一名自然摄影师，询问她是否看到了那道瀑布。两人攀谈起来，很快便相互大笑，分享着各自的奇遇与故事。
+      夕阳开始西斜，两人收拾好各自的行囊，道别而去。莎拉心中充满感激，为这次意外的相遇，也为它带来的灵感。她知道，这一刻将永远留在记忆深处，而那份宁静让她感到踏实——这个世界上，还有那么多的美好等待着被发现。
 
-book-text-janitor = [bold][color=black][head=3]The Tales of a Tired Janitor[/head][/bold]
-      Cleaning a space station as a janitor is like being trapped in a cosmic custodial nightmare. You'd think floating through the vastness of space would be glamorous, but no, I'm stuck scrubbing space grime and extraterrestrial goop off the walls. It's a thankless job in a zero-gravity abyss.
-      First off, let's talk about the mess. Space dust, alien gunk, and who knows what else accumulates faster than a rocket launch. It's not just about sweeping up the crumbs; it's about battling interstellar filth that seems to have a life of its own. You'd hope for a sleek, futuristic space station, but you get a swirling vortex of space garbage waiting for you around every corner.
-      And the tools they give us! You'd expect state-of-the-art cleaning gadgets, but nope. They raided a dollar store on Earth before launching us into the cosmos. Mops that barely work in microgravity, spray bottles that run out in one use, and don't even get me started on the space janitor jumpsuit. I feel like a reject from a sci-fi B-movie.
-      Speaking of jumpsuits, the lack of respect is astronomical. The scientists and astronauts zoom past in their sleek suits, utterly oblivious to the fact that I'm the unsung hero keeping this place from turning into a cosmic trash heap. I bet they don't even know my name. "Hey, Space Janitor!" That's what I get. No appreciation for the elbow grease I put into keeping their precious station spick and span.
-      And let's remember the hazards. Cleaning up alien slime? Yeah, that's a regular Tuesday for me. One wrong move and I'm dealing with an intergalactic biohazard. It's like playing Russian roulette with space critters that could burst out of some hidden nook and cranny. I signed up to mop floors, not play host to extraterrestrial invaders.
-      Being a janitor on this so-called Space Station 14 is a cosmic joke. Where did the other 13 stations go? It's not all spacewalks and futuristic gadgets; it's scrubbing toilets and battling alien goo. If anyone thinks space is glamorous, they clearly haven't seen the mess we space janitors deal with every single day. It's time they appreciate the unsung heroes of the space station – the custodians of the cosmos.
+book-text-janitor = [bold][color=black][head=3]一位疲惫清洁工的故事[/head][/bold]
+      在太空站里当清洁工，就像被困在一场宇宙级别的卫生噩梦里。你以为在无垠太空中漂荡会是件风光的事，但不——我困在这里，整天刷着太空污垢和外星粘液。这是一份没有人认可的工作，发生在一个失重的深渊里。
+      先说说这里的脏乱吧。太空尘埃、外星垃圾，还有谁知道是什么的玩意儿，积累的速度比火箭发射还快。这不只是扫几块面包屑的问题，而是要对付那些仿佛有自己生命的星际污物。你以为会有一座时髦先进的太空站，结果迎接你的却是每个角落都在等待你的太空垃圾漩涡。
+      还有他们给我们的工具！你以为会有顶尖的清洁设备，但不。他们在把我们送入宇宙之前，从地球某个廉价小店里采购了一批货。在微重力环境下几乎派不上用场的拖把，喷一次就没液体的喷壶，更别说那套太空清洁工连体服了。我感觉自己就像是从科幻B级片里被淘汰的角色。
+      说到连体服，那些人对我的轻视简直令人咋舌。科学家和宇航员们穿着他们时髦的宇航服从我面前呼啸而过，完全没意识到，正是我这个无名英雄在阻止这个地方变成一堆宇宙垃圾。我敢打赌他们甚至连我的名字都不知道。"嘿，太空清洁工！"——这就是我得到的一切。没有人感谢我为保持这座珍贵太空站干净整洁所付出的每一滴汗水。
+      别忘了各种危险。清理外星黏液？对我来说这不过是个普通的周二而已。一步走错，我就在处理一场星际生化危险。这就像是在用太空生物玩俄罗斯轮盘赌，它们随时可能从某个隐蔽的角落蹿出来。我签约来这里是来拖地的，不是来充当外星入侵者的宿主的。
+      在这座所谓的太空站14当清洁工，简直是个宇宙级别的玩笑。其他13座太空站去哪了？这里不是什么太空漫步和未来科技，而是刷马桶和对付外星粘液。如果有人觉得太空很光鲜，那显然是没见识过我们太空清洁工每天要应对的那些乱七八糟。是时候让大家认可这群太空站无名英雄了——宇宙的守护清洁员。
