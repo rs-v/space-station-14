@@ -41,9 +41,7 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
     private string[] _extras = new[] { "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf" };
 
     /// <summary>
-    ///     CJK (Chinese/Japanese/Korean) fallback fonts for all kinds.
-    ///     Note: NotoSansSC only has Regular and Bold variants, no Italic variants.
-    ///     Italic uses Regular, BoldItalic uses Bold.
+    ///     CJK (Chinese/Japanese/Korean) fallback fonts for bold and regular kinds.
     /// </summary>
     private const string _fontCjkRegular = "/Fonts/NotoSansSC/NotoSansSC-Regular.otf";
     private const string _fontCjkBold = "/Fonts/NotoSansSC/NotoSansSC-Bold.otf";
@@ -69,17 +67,17 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
             }
         }
 
-        // Use Chinese fonts for all variants to ensure proper Chinese character rendering
-        // NotoSansSC only has Regular and Bold, so we map:
-        // Regular/Italic -> NotoSansSC-Regular.otf
-        // Bold/BoldItalic -> NotoSansSC-Bold.otf
-        var cjkFont = (kind == FontKind.Bold || kind == FontKind.BoldItalic) ? _fontCjkBold : _fontCjkRegular;
+        var simpleKindStr = kind.SimplifyCompound().AsFileName();
+        var boldOrRegularStr = kind.RegularOr(FontKind.Bold).AsFileName();
 
-        // Return only the Chinese font and symbols, no Latin font fallback
+        var kindStr = kind.AsFileName();
+        // Add CJK font first for better Chinese character support
+        var cjkFont = (kind == FontKind.Bold || kind == FontKind.BoldItalic) ? _fontCjkBold : _fontCjkRegular;
         var fontList = new List<string>()
         {
             cjkFont,
-            string.Format(_fontSymbols, "Regular", "Regular", "Regular"),
+            string.Format(_fontPrimary, kindStr, simpleKindStr, boldOrRegularStr),
+            string.Format(_fontSymbols, kindStr, simpleKindStr, boldOrRegularStr),
         };
         fontList.AddRange(_extras);
         return fontList.ToArray();
