@@ -1,5 +1,4 @@
-﻿using Content.Client.Resources;
-using Content.Shared.MapText;
+﻿using Content.Shared.MapText;
 using Robust.Client.Graphics;
 using Robust.Client.ResourceManagement;
 using Robust.Client.UserInterface;
@@ -72,12 +71,11 @@ public sealed class MapTextSystem : SharedMapTextSystem
             component.Color = Color.Red;
 
             if(_prototypeManager.TryIndex<FontPrototype>(SharedMapTextComponent.DefaultFont, out var @default))
-                component.CachedFont = _resourceCache.GetFont(
-                    new[] { @default.Path.ToString(), "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, 14);
+                component.CachedFont = new VectorFont(_resourceCache.GetResource<FontResource>(@default.Path), 14);
             return;
         }
 
-        component.CachedFont = _resourceCache.GetFont(
-            new[] { fontPrototype.Path.ToString(), "/Fonts/NotoSansSC/NotoSansSC-Regular.otf" }, component.FontSize);
+        var fontResource = _resourceCache.GetResource<FontResource>(fontPrototype.Path);
+        component.CachedFont = new VectorFont(fontResource, component.FontSize);
     }
 }

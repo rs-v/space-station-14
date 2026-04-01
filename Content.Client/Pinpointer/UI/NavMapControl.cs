@@ -1,4 +1,3 @@
-using Content.Client.Resources;
 using Content.Client.Stylesheets;
 using Content.Client.UserInterface.Controls;
 using Content.Shared.Input;
@@ -433,7 +432,7 @@ public partial class NavMapControl : MapGridControl
 
             // Calculate font size for current zoom level
             var fontSize = (int)Math.Round(1 / WorldRange * DefaultDisplayedRange * UIScale * _targetFontsize, 0);
-            var font = _cache.GetFont(new[] { "/Fonts/NotoSans/NotoSans-Bold.ttf", "/Fonts/NotoSansSC/NotoSansSC-Bold.otf" }, fontSize);
+            var font = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSans/NotoSans-Bold.ttf"), fontSize);
 
             foreach (var beacon in _navMap.Beacons.Values)
             {

@@ -45,11 +45,3 @@
 - type: font
   id: Emoji
   path: /Fonts/NotoEmoji.ttf
-
-- type: font
-  id: NotoSansSC
-  path: /Fonts/NotoSansSC/NotoSansSC-Regular.otf
-
-- type: font
-  id: NotoSansSCBold
-  path: /Fonts/NotoSansSC/NotoSansSC-Bold.otf
