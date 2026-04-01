@@ -34,8 +34,7 @@ namespace Content.Client.Stylesheets
                 {
                     "/Fonts/NotoSans/NotoSans-Regular.ttf",
                     "/Fonts/NotoSans/NotoSansSymbols-Regular.ttf",
-                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf",
-                    "/Fonts/NotoSansSC/NotoSansSC-Regular.otf"
+                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf"
                 },
                 12
             );
@@ -45,8 +44,7 @@ namespace Content.Client.Stylesheets
                 {
                     "/Fonts/NotoSans/NotoSans-Italic.ttf",
                     "/Fonts/NotoSans/NotoSansSymbols-Regular.ttf",
-                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf",
-                    "/Fonts/NotoSansSC/NotoSansSC-Regular.otf"
+                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf"
                 },
                 12
             );

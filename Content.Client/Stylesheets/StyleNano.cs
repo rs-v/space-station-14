@@ -25,9 +25,6 @@ namespace Content.Client.Stylesheets
         {
             var ds = display ? "Display" : "";
             var sv = variation.StartsWith("Bold", StringComparison.Ordinal) ? "Bold" : "Regular";
-            var cjk = sv == "Bold"
-                ? "/Fonts/NotoSansSC/NotoSansSC-Bold.otf"
-                : "/Fonts/NotoSansSC/NotoSansSC-Regular.otf";
             return resCache.GetFont
             (
                 // Ew, but ok
@@ -35,8 +32,7 @@ namespace Content.Client.Stylesheets
                 {
                     $"/Fonts/NotoSans{ds}/NotoSans{ds}-{variation}.ttf",
                     $"/Fonts/NotoSans/NotoSansSymbols-{sv}.ttf",
-                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf",
-                    cjk
+                    "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf"
                 },
                 size
             );
