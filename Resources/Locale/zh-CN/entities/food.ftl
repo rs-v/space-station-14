@@ -104,6 +104,123 @@ ent-RiceBushel = 稻捆
 ent-FoodSoybeans = 大豆
     .desc = 营养丰富的豆类，是豆腐和豆浆的原料。
 
+ent-MeatwheatBushel = 肉麦捆
+    .desc = 一捆血淋淋的麦穗，挤一挤能榨出勉强算是肉的东西。
+
+ent-Papercane = 纸甘蔗卷
+    .desc = 为什么我们要种纸？
+
+ent-FoodLaughinPeaPod = 笑豆荚
+    .desc = 小丑的最爱。
+
+ent-Log = 塔顶木蘑原木
+    .desc = 不太坏，挺好的！
+
+ent-SteelLog = 钢顶木蘑原木
+    .desc = 钢铁不长在树上！长在蘑菇上，当然。
+
+ent-TrashBakedBananaPeel = 烤香蕉皮
+
+ent-TrashMimanaPeel = 模拟香蕉皮
+
+ent-TrashBananiumPeel = 香蕉素皮
+
+ent-FoodLemoon = 月柠檬
+    .desc = 人们说月亮是由奶酪做成的，但月亮其实是由牛奶和月桂叶做成的！
+
+ent-FoodExtradimensionalOrange = 超维橙
+    .desc = 你几乎无法理解这个东西。
+
+ent-FoodMushroom = 鸡油菌
+    .desc = 鸡油菌：这些欢快的黄色小蘑菇看起来很好吃！
+
+ent-FoodPineappleSlice = 菠萝片
+    .desc = 嗯，热带风情。
+
+ent-FoodOnionSlice = 洋葱片
+    .desc = 没什么好哭的。
+
+ent-FoodOnionRedSlice = 红洋葱片
+    .desc = 尽管名叫红洋葱，颜色却是紫色的。
+
+ent-FoodChiliPepper = 辣椒
+    .desc = 辣辣的，最好别揉眼睛。
+
+ent-FoodChillyPepper = 寒椒
+    .desc = 又冰又辣。
+
+ent-FoodAloe = 芦荟
+    .desc = 一种气味芬芳、具有舒缓功效的植物。
+
+ent-FoodPoppy = 罂粟
+    .desc = 一种提取物常用于制药的花卉。
+
+ent-FoodLily = 百合
+    .desc = 一朵美丽的橙色花朵。
+
+ent-FoodLingzhi = 灵芝
+    .desc = 一种药效强劲的药用菌，别过量服用。
+
+ent-FoodAmbrosiaVulgaris = 普通神草
+    .desc = 一种药用植物，可能让你感觉有点怪。
+
+ent-FoodAmbrosiaDeus = 神域草
+    .desc = 一种极其稀有的药用植物，可能有些奇特的副作用。
+
+ent-FoodGalaxythistle = 星系蓟
+    .desc = 一种用作解毒剂的药用植物。
+
+ent-FoodGlasstle = 玻璃蓟
+    .desc = 一种易碎的晶体植物，布满尖刺。
+
+ent-FoodFlyAmanita = 毒蝇鹅膏
+    .desc = 一种看起来很好吃的蘑菇，就像卡通里看到的那种。
+
+ent-FoodGatfruit = 枪形果
+    .desc = 一种美味的枪形水果，有粗木茎。
+
+ent-FoodRealCapfruit = 帽果
+    .desc = 一种柔软光滑的枪形水果。
+
+ent-FoodFakeCapfruit = 帽果
+
+ent-FoodSpacemansTrumpet = 太空人的喇叭花
+    .desc = 一朵鲜艳的花，散发着淡淡的新割草气息。触摸花瓣后皮肤会在一段时间后染色，但其他表面似乎不受影响。
+
+ent-FoodKoibean = 锦鲤豆
+    .desc = 这些豆子有点腥。
+
+ent-FoodHolymelon = 圣瓜
+    .desc = 这个瓜里的水受到了某位特别喜欢西瓜的神明的祝福。
+
+ent-FoodHolymelonSlice = 圣瓜片
+    .desc = 金红色的多汁切片。
+
+ent-FoodBungo = 邦果
+    .desc = 普通的邦果。
+
+ent-FoodBungoPit = 邦果核
+
+ent-FoodPeaPod = 豌豆荚
+    .desc = 鸭子最喜欢的零食！
+
+ent-FoodWorldPeas = 世界豌豆串
+    .desc = 据说食用它能给任何人带来和平。
+
+ent-CottonBol = 棉花铃
+    .desc = 飞蛾族人最爱的零食，和他们一样蓬松柔软。
+
+ent-PyrottonBol = 焰棉铃
+    .desc = 这个大概会把你点着。
+
+ent-TrashCherryPit = 樱桃核
+
+ent-FoodAnomalyBerry = 异常浆果
+    .desc = 一种奇怪的蓝色果实，看起来哪里不对劲。
+
+ent-FoodBloonion = 飘洋葱球茎
+    .desc = 一个奇怪的漂浮球茎，没什么好哭的。
+
 ## burger.yml
 
 ent-FoodBreadBun = 面包胚
