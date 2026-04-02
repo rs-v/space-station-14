@@ -2,6 +2,7 @@
 
 ## walls.yml
 
+ent-BaseStructureWall = 基础墙体
 ent-WallBrick = 砖墙
 ent-WallClock = 时钟墙
 ent-WallClown = 香蕉素墙
@@ -84,3 +85,16 @@ ent-FenceWoodSmallGate = 小木围栏门
 ## railing.yml
 
 ent-BaseRailing = 栏杆
+
+## asteroid.yml
+
+ent-WallRockBasalt = 玄武岩
+ent-WallRockSnow = 积雪
+ent-WallRockSand = 砂岩
+ent-WallRockChromite = 铬铁矿
+ent-WallRockAndesite = 安山岩
+
+## inflatable_wall.yml
+
+ent-InflatableWall = 充气路障
+ent-InflatableDoor = 充气门

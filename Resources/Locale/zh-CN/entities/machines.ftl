@@ -194,6 +194,7 @@ ent-VendingMachineHappyHonk = Happy Honk Dispenser
 ent-VendingMachinePride = Pride-O-Mat
 ent-VendingMachineChemicals = ChemVend
 ent-VendingMachineChemicalsSyndicate = SyndieJuice
+ent-VendingMachineBoozeSyndicate = Bruise-O-Mat
 ent-VendingMachineWallMedicalCivilian = NanoMed急救贴
 ent-VendingMachineWallMedical = NanoMed
 
