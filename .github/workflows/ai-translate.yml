@@ -1,0 +1,66 @@
+name: AI 翻译实体文件 (Qwen via OpenRouter)
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: '要翻译的实体分类路径 (例如: Clothing/Back)，留空翻译所有分类'
+        required: false
+        default: ''
+      output:
+        description: '输出文件名 (例如: clothing-back.ftl)，留空时自动生成'
+        required: false
+        default: ''
+      limit:
+        description: '最多翻译多少个实体 (0=全部)'
+        required: false
+        default: '50'
+      model:
+        description: 'OpenRouter 模型 ID'
+        required: false
+        default: 'qwen/qwen3-235b-a22b'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install openai -q
+
+      - name: Run translation script
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.qwen }}
+        run: |
+          python3 scripts/translate_entities.py \
+            --api-key "$OPENROUTER_API_KEY" \
+            --model "${{ github.event.inputs.model }}" \
+            ${{ github.event.inputs.category != '' && format('--category "{0}"', github.event.inputs.category) || '' }} \
+            ${{ github.event.inputs.output != '' && format('--output "{0}"', github.event.inputs.output) || '' }} \
+            --limit ${{ github.event.inputs.limit }}
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet Resources/Locale/zh-CN/entities/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push translations
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Resources/Locale/zh-CN/entities/
+          git commit -m "locale(zh-CN): AI翻译实体文件 (${{ github.event.inputs.category || '批量' }}) [skip ci]"
+          git push
