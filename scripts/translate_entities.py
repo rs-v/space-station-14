@@ -137,40 +137,57 @@ def load_all_existing_ids() -> set[str]:
     return translated
 
 
-def translate_batch(client: OpenAI, model: str, entities: list[dict]) -> list[dict | None]:
-    """Translate a batch of entities using the LLM. Returns list of results."""
-    results = []
-    for entity in entities:
-        payload = {"name": entity["name"]}
-        if entity.get("description"):
-            payload["desc"] = entity["description"]
+BATCH_SYSTEM_PROMPT = f"""You are a professional game translator for Space Station 14, translating from English to Simplified Chinese (zh-CN).
 
-        prompt = f"Translate this SS14 entity to Chinese: {json.dumps(payload, ensure_ascii=False)}"
-        try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": prompt},
-                ],
-                max_tokens=300,
-                temperature=0.3,
-                extra_body={"thinking": {"type": "disabled"}},
-            )
-            content = response.choices[0].message.content.strip()
-            # Extract JSON from response
-            json_match = re.search(r'\{[^{}]+\}', content, re.DOTALL)
-            if json_match:
-                result = json.loads(json_match.group())
-                results.append(result)
-            else:
-                print(f"  WARNING: Could not parse response for {entity['id']}: {content[:100]}")
-                results.append(None)
-        except Exception as e:
-            print(f"  ERROR translating {entity['id']}: {e}")
-            results.append(None)
-        time.sleep(0.3)  # Rate limiting
-    return results
+{GAME_TERMS}
+
+Rules:
+1. Translate naturally and concisely. Keep the game's humorous tone where appropriate.
+2. You will receive a JSON array of objects, each with "id", "name", and optionally "desc".
+3. Output ONLY a JSON array with the same number of objects, each containing "id", "name" (translated), and optionally "desc" (translated).
+4. Do not add explanations or extra text outside the JSON array.
+5. Keep proper nouns and abbreviations as specified above.
+6. Descriptions should sound natural in Chinese game context.
+
+Example input: [{{"id": "SteelSheet", "name": "steel sheet", "desc": "A sheet of steel."}}]
+Example output: [{{"id": "SteelSheet", "name": "钢板", "desc": "一张钢板。"}}]
+"""
+
+
+def translate_batch(client: OpenAI, model: str, entities: list[dict]) -> list[dict | None]:
+    """Translate a batch of entities using the LLM. Returns list of results (same order as input)."""
+    payload = []
+    for entity in entities:
+        item = {"id": entity["id"], "name": entity["name"]}
+        if entity.get("description"):
+            item["desc"] = entity["description"]
+        payload.append(item)
+
+    prompt = f"Translate these SS14 entities to Chinese:\n{json.dumps(payload, ensure_ascii=False, indent=2)}"
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": BATCH_SYSTEM_PROMPT},
+                {"role": "user", "content": prompt},
+            ],
+            max_tokens=4000,
+            temperature=0.3,
+        )
+        content = response.choices[0].message.content.strip()
+        # Extract JSON array from response
+        json_match = re.search(r'\[.*\]', content, re.DOTALL)
+        if json_match:
+            result_list = json.loads(json_match.group())
+            # Build a map by id for safe lookup
+            result_map = {r["id"]: r for r in result_list if isinstance(r, dict) and "id" in r}
+            return [result_map.get(e["id"]) for e in entities]
+        else:
+            print(f"  WARNING: Could not parse batch response: {content[:200]}")
+            return [None] * len(entities)
+    except Exception as e:
+        print(f"  ERROR in batch translation: {e}")
+        return [None] * len(entities)
 
 
 def write_ftl_file(ftl_path: Path, category_name: str, file_groups: dict[str, list[tuple[str, str, str | None]]]):
@@ -275,29 +292,44 @@ def main():
         translated_groups = {}
         total_done = 0
 
+        BATCH_SIZE = 20
         for filename, entities in file_groups.items():
             print(f"  Translating {filename} ({len(entities)} entities)...")
             translated_entries = []
 
+            # Process in batches
+            batch_entities = []
             for entity in entities:
                 if args.limit and total_done >= args.limit:
                     break
-                results = translate_batch(client, args.model, [entity])
-                result = results[0]
-                if result and result.get("name"):
-                    name_zh = result["name"]
-                    desc_zh = result.get("desc")
-                    translated_entries.append((entity["id"], name_zh, desc_zh))
-                    existing_ids.add(entity["id"])
-                    total_done += 1
-                    print(f"    ✓ {entity['id']}: {entity['name']} → {name_zh}")
-                else:
-                    # Fall back to English
-                    translated_entries.append((entity["id"], entity["name"], entity.get("description")))
-                    total_done += 1
+                batch_entities.append(entity)
+                if len(batch_entities) >= BATCH_SIZE:
+                    results = translate_batch(client, args.model, batch_entities)
+                    for ent, result in zip(batch_entities, results):
+                        if result and result.get("name"):
+                            name_zh = result["name"]
+                            desc_zh = result.get("desc")
+                            translated_entries.append((ent["id"], name_zh, desc_zh))
+                            existing_ids.add(ent["id"])
+                            print(f"    ✓ {ent['id']}: {ent['name']} → {name_zh}")
+                        else:
+                            translated_entries.append((ent["id"], ent["name"], ent.get("description")))
+                    total_done += len(batch_entities)
+                    batch_entities = []
 
-                if args.limit and total_done >= args.limit:
-                    break
+            # Remaining entities in last batch
+            if batch_entities and not (args.limit and total_done >= args.limit):
+                results = translate_batch(client, args.model, batch_entities)
+                for ent, result in zip(batch_entities, results):
+                    if result and result.get("name"):
+                        name_zh = result["name"]
+                        desc_zh = result.get("desc")
+                        translated_entries.append((ent["id"], name_zh, desc_zh))
+                        existing_ids.add(ent["id"])
+                        print(f"    ✓ {ent['id']}: {ent['name']} → {name_zh}")
+                    else:
+                        translated_entries.append((ent["id"], ent["name"], ent.get("description")))
+                total_done += len(batch_entities)
 
             if translated_entries:
                 translated_groups[filename] = translated_entries
