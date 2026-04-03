@@ -155,6 +155,7 @@ def translate_batch(client: OpenAI, model: str, entities: list[dict]) -> list[di
                 ],
                 max_tokens=300,
                 temperature=0.3,
+                extra_body={"thinking": {"type": "disabled"}},
             )
             content = response.choices[0].message.content.strip()
             # Extract JSON from response
@@ -207,7 +208,7 @@ def collect_entities_for_category(category_dir: Path, existing_ids: set[str]) ->
 def main():
     parser = argparse.ArgumentParser(description="Translate SS14 entity files to zh-CN using Qwen via OpenRouter")
     parser.add_argument("--api-key", required=True, help="OpenRouter API key")
-    parser.add_argument("--model", default="qwen/qwen3-235b-a22b", help="Model to use")
+    parser.add_argument("--model", default="qwen/qwen3.6-plus:free", help="Model to use")
     parser.add_argument("--category", help="Specific prototype category to translate (e.g. 'Clothing/Back')")
     parser.add_argument("--output", help="Output .ftl filename (e.g. 'clothing-back.ftl')")
     parser.add_argument("--limit", type=int, default=0, help="Max entities to translate (0=all)")
