@@ -90,7 +90,9 @@ def parse_entity_file(filepath: Path) -> list[dict]:
                 entities.append(current)
             current = {}
         elif m := re.match(r"^  id: (.+)", line):
-            current["id"] = m.group(1).strip()
+            raw_id = m.group(1).strip()
+            # Strip inline YAML comments (e.g. "SomeId # comment")
+            current["id"] = re.sub(r"\s*#.*$", "", raw_id).strip()
         elif m := re.match(r"^  name: (.+)", line):
             current["name"] = m.group(1).strip().strip("\"'")
         elif m := re.match(r"^  description: (.+)", line):
@@ -132,8 +134,9 @@ def load_all_existing_ids() -> set[str]:
     for ftl_file in LOCALE_BASE.glob("*.ftl"):
         with open(ftl_file, encoding="utf-8") as f:
             for line in f:
-                if m := re.match(r"^ent-(\S+)\s*=", line):
-                    translated.add(m.group(1))
+                if m := re.match(r"^ent-(\S+)", line):
+                    # Strip inline comments from legacy FTL entries (e.g. "ent-Id # comment = value")
+                    translated.add(m.group(1).rstrip("#").strip())
     return translated
 
 
@@ -191,8 +194,14 @@ def translate_batch(client: OpenAI, model: str, entities: list[dict]) -> list[di
 
 
 def write_ftl_file(ftl_path: Path, category_name: str, file_groups: dict[str, list[tuple[str, str, str | None]]]):
-    """Write or append translated entries to a .ftl file."""
-    lines = [f"# {category_name}\n\n"]
+    """Append translated entries to a .ftl file (creates new file if it doesn't exist)."""
+    ftl_path.parent.mkdir(parents=True, exist_ok=True)
+    file_exists = ftl_path.exists()
+
+    lines = []
+    if not file_exists:
+        lines.append(f"# {category_name}\n\n")
+
     for filename, entries in file_groups.items():
         lines.append(f"## {filename}\n\n")
         for entity_id, name, desc in entries:
@@ -202,10 +211,9 @@ def write_ftl_file(ftl_path: Path, category_name: str, file_groups: dict[str, li
                     lines.append(f"    .desc = {desc}\n")
                 lines.append("\n")
 
-    ftl_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(ftl_path, "w", encoding="utf-8") as f:
+    with open(ftl_path, "a", encoding="utf-8") as f:
         f.writelines(lines)
-    print(f"  Written: {ftl_path}")
+    print(f"  {'Appended to' if file_exists else 'Written:'} {ftl_path}")
 
 
 def collect_entities_for_category(category_dir: Path, existing_ids: set[str]) -> dict[str, list[dict]]:
