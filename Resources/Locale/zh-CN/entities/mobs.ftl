@@ -1084,3 +1084,49 @@ ent-MobSkeletonBiker = 骷髅机车手
 
 ent-MobSkeletonCloset = 衣柜骷髅
 
+## human.yml
+
+ent-MobCivilian = 平民
+    .desc = 一堆可怜的秘密。
+
+ent-MobSalvager = 打捞员
+
+ent-MobSpirate = 幽灵海盗
+    .desc = 呀哈！
+
+ent-MobSyndicateFootsoldier = 辛迪加步兵
+
+ent-MobSyndicateFootsoldierPilot = 辛迪加穿梭机驾驶员
+
+ent-SalvageHumanCorpse = 身份不明的尸体
+    .desc = 我觉得他们死了。
+
+ent-MobCluwne = 人
+    .desc = 一个变形的倒霉蛋。
+
+## silicon.yml
+
+ent-MobFireBot = 灭火机器人
+    .desc = 一台小型灭火机器人。它看起来相当焦虑。
+
+ent-MobHonkBot = 哈克机器人
+    .desc = 令人毛骨悚然。
+
+ent-MobJonkBot = 琼克机器人
+    .desc = 令人毛骨悚然。
+
+ent-MobCleanBot = 清洁机器人
+    .desc = 自动化的悄然蔓延，如今正威胁着太空清洁工的饭碗。
+
+ent-MobMedibot = 医疗机器人
+    .desc = 虽无法替代医生，但聊胜于无。
+
+ent-MobMimeBot = 哑剧机器人
+    .desc = 何不向哑剧机器人友好地挥挥手呢？
+
+ent-MobSupplyBot = 补给机器人
+    .desc = 负责运送货物！
+
+ent-MobHugBot = 拥抱机器人
+    .desc = 哎呀，谁想要一个拥抱呀？
+
