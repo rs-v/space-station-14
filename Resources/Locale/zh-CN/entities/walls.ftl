@@ -98,3 +98,28 @@ ent-WallRockAndesite = 安山岩
 
 ent-InflatableWall = 充气路障
 ent-InflatableDoor = 充气门
+## asteroid.yml
+
+ent-AsteroidRock = 小行星岩石
+    .desc = 一块小行星岩石。
+
+ent-AsteroidRockMining = 小行星岩石
+    .desc = 一颗小行星。
+
+ent-IronRock = 铁矿岩
+    .desc = 一块小行星岩石。
+
+ent-IronRockMining = 铁矿岩
+    .desc = 一颗小行星。
+
+ent-IronSandstone = 铁砂岩
+
+ent-IronSandstoneMining = 铁砂岩
+
+ent-WallRock = 岩石
+
+## meteor.yml
+
+ent-MeteorRock = 陨石块
+    .desc = 陨石的残骸。
+

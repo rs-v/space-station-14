@@ -45,3 +45,92 @@ ent-WindoorAssemblySecureUranium = 安全铀风门组件
 
 ## Doors/Windoors/clockwork.yml
 ent-BaseClockworkWindoor = 发条风门
+## base_structureairlocks.yml
+
+ent-Airlock = 气闸
+    .desc = 它会打开，会关闭，偶尔还会把你夹扁。
+
+ent-AirlockGlass = 玻璃气闸
+
+## highsec.yml
+
+ent-HighSecDoor = 高级安保门
+    .desc = 把坏人挡在外面，把好人留在里面。
+
+## shuttle.yml
+
+ent-AirlockShuttle = 外部气闸
+    .desc = 用于连接两艘飞船的必要设备。
+
+ent-AirlockShuttleAssembly = 外部气闸组件
+    .desc = 用于连接两艘飞船的未完成结构。
+
+## firelock.yml
+
+ent-BaseFirelock = 防火闸
+    .desc = 使用撬棍撬开。
+
+ent-FirelockGlass = 玻璃防火闸
+
+ent-FirelockEdge = 防火闸
+
+## frame.yml
+
+ent-FirelockFrame = 防火闸框架
+    .desc = 这是一个防火闸框架。
+
+## secret_door.yml
+
+ent-BaseSecretDoor = 实心墙 # 无元数据
+    .desc = 将空气留在室内，把灰潮挡在门外。
+
+## blast_door.yml
+
+ent-BlastDoor = 防爆门
+    .desc = 这上面写着‘防爆大屌’。
+
+ent-BlastDoorFrame = 防爆门框
+    .desc = 这上面写着‘防爆大屌’。
+
+## shutters.yml
+
+ent-BaseShutter = 防护门
+    .desc = 想到这扇防护门后面可能藏着什么，就不禁让人不寒而栗。
+
+ent-ShuttersRadiation = 辐射防护门
+    .desc = 为什么他们要把这些防护门做成带辐射的？
+
+ent-ShuttersWindow = 窗户防护门
+    .desc = 观赏好友爆炸的绝佳(TM)位置！
+
+ent-ShuttersFrame = 防护门框架
+    .desc = 用于建造防护门的框架。
+
+## windoor.yml
+
+ent-Windoor = 窗门
+    .desc = 它既是窗户又是推拉门。哇哦！
+
+ent-WindoorSecure = 加固窗门
+    .desc = 它是一扇坚固的窗户和推拉门。哇哦！
+
+ent-WindoorClockwork = 发条窗门
+    .desc = 它是一扇坚固的窗户和推拉门。哇哦！
+
+ent-WindoorPlasma = 等离子窗门
+    .desc = 它是一扇粉色的窗户*兼*推拉门。太棒了！
+
+ent-WindoorSecurePlasma = 加固等离子窗门
+    .desc = 它是一扇坚固的紫色窗户*兼*推拉门。太壮观了！
+
+ent-WindoorUranium = 铀窗门
+    .desc = 它既是窗户又是推拉门。嗯？哦，它还是绿色的！
+
+ent-WindoorSecureUranium = 加固铀窗门
+    .desc = 它是一扇坚固的窗户和推拉门。这荧光绿简直太亮了，说不定尝起来像青柠！
+
+## turnstile.yml
+
+ent-TurnstileArrow = 闸机
+    .desc = 一种允许单向通行并防止尾随的机械门。
+
