@@ -200,3 +200,255 @@ ent-VendingMachineWallMedical = NanoMed
 
 ## Machines/wireless_surveillance_camera.yml
 ent-SurveillanceWirelessCameraBase = 无线摄像头
+## arcades.yml
+
+ent-ArcadeBase = 街机
+    .desc = 一台街机。
+
+ent-BlockGameArcade = NT方块游戏
+    .desc = 一台内置了某款似曾相识游戏的街机。
+
+## computers.yml
+
+ent-ComputerCargoOrders = 货物申请终端
+    .desc = 用于订购物资并审批请求。
+
+ent-ComputerCargoOrdersEngineering = 工程申请终端
+    .desc = 供工程部门订购物资使用。
+
+ent-ComputerCargoOrdersMedical = 医疗申请终端
+    .desc = 供医疗部门订购物资使用。
+
+ent-ComputerCargoOrdersScience = 科研申请终端
+    .desc = 供科研部门订购物资使用。
+
+ent-ComputerCargoOrdersSecurity = 安保申请终端
+    .desc = 供安保部门订购物资使用。
+
+ent-ComputerCargoOrdersService = 服务申请终端
+    .desc = 供服务部门订购物资使用。
+
+ent-ComputerCargoBounty = 货物悬赏终端
+    .desc = 用于管理当前生效的悬赏任务。
+
+ent-ComputerSalvageExpedition = 打捞远征终端
+    .desc = 用于接取打捞任务，前提是你够硬。
+
+ent-ComputerPalletConsole = 货物销售终端
+    .desc = 用于出售装载在货运托盘上的货物。
+
+ent-StationAiUploadComputer = AI上传终端
+    .desc = 用于更新空间站AI的法则。
+
+ent-StationAiFixerComputer = AI修复终端
+    .desc = 用于修复受损的人工智能。
+
+## frame.yml
+
+ent-MachineFrameDestroyed = 损毁的机器框架
+
+## techdiskterminal.yml
+
+ent-RareTechDiskTierWeights = 科技磁盘终端
+    .desc = 用于打印科技磁盘的终端。
+
+## biomass_reclaimer.yml
+
+ent-BiomassReclaimer = 生物质回收机
+    .desc = 从尸体中回收生物质。令人毛骨悚然。
+
+## chemistry_machines.yml
+
+ent-MachineElectrolysisUnit = 电解机
+    .desc = 医疗电击技术的最新成果。
+
+ent-MachineCentrifuge = 台式离心机
+    .desc = 转呀转呀转……
+
+## disease_diagnoser.yml
+
+ent-DiseaseDiagnoser = 疾病诊断仪 德尔塔极限型
+    .desc = 一台分析疾病样本的机器。
+
+ent-DiagnosisReportPaper = 疾病诊断报告
+    .desc = 一张令人不寒而栗的医疗收据。
+
+## vaccinator.yml
+
+ent-Vaccinator = 疫苗机
+    .desc = 一台制造疫苗的机器。
+
+## anomaly_equipment.yml
+
+ent-MachineAnomalyVessel = 异常容器
+    .desc = 一种能够捕获异常扫描数据并将其转化为研究资料的容器。
+
+ent-MachineAnomalyVesselExperimental = 实验型异常容器
+    .desc = 一种先进的异常容器，具备更高的研究潜力，但代价是稳定性较差，且会向周围环境释放低水平辐射。
+
+ent-MachineAPE = A.P.E.
+    .desc = 异常粒子发射器，能够发射不稳定粒子以与异常进行交互。
+
+ent-MachineAnomalyGenerator = 异常发生器
+    .desc = 伪科学技术的巅峰之作。
+
+## anomaly_sync.yml
+
+ent-MachineAnomalySynchronizer = 异常同步器
+    .desc = 一台精密装置，用于读取异常波的变化，并将其转化为能量信号。
+
+## artifact_analyzer.yml
+
+ent-MachineArtifactAnalyzer = artifact analyzer
+    .desc = A platform capable of performing analysis on various types of artifacts.
+
+ent-MachineArtifactCrusher = artifact crusher
+    .desc = Best not to let your fingers get stuck...
+
+## bombs.yml
+
+ent-BaseHardBomb = 硬炸弹
+    .desc = 只要不停说话，就不会有人爆炸。
+
+## chem_master.yml
+
+ent-ChemMaster = 化学大师 4000
+    .desc = 一台工业级化学处理机，附带药片与药瓶生产功能。
+
+## cloning_machine.yml
+
+ent-CloningPod = 克隆舱
+    .desc = 一台克隆舱。可靠性为50%。
+
+## crew_monitor_server.yml
+
+ent-CrewMonitoringServer = 船员监控服务器
+    .desc = 接收并转发空间站上所有已激活服装传感器的状态。
+
+## fatextractor.yml
+
+ent-FatExtractor = 脂肪提取器
+    .desc = 安全高效地从受试者体内提取多余脂肪。
+
+## flatpacker.yml
+
+ent-MachineFlatpacker = 平板打包机 1001
+    .desc = 一种工业设备，用于加快空间站内机器的组装速度。
+
+## gravity_generator.yml
+
+ent-GravityGenerator = 重力发生器
+    .desc = 就是它把你牢牢固定在地板上。
+
+ent-GravityGeneratorMini = 迷你重力发生器
+    .desc = 就是它把你牢牢固定在地板上，现在推出了迷你趣味装。
+
+## holopad.yml
+
+ent-HolopadLongRange = 远程全息板
+    .desc = 一种地面安装设备，用于向远处的同类设备投射全息影像。
+
+ent-HolopadUnlimitedRange = 量子纠缠全息板
+    .desc = 一种地面安装设备，可向极远距离的同类设备投射全息影像。
+
+ent-HolopadBluespace = 蓝空全息板
+    .desc = 一种实验性地面安装设备，可通过蓝空投射全息影像。
+
+## lathe.yml
+
+ent-BaseLathe = 车床
+
+ent-Autolathe = 自动车床
+    .desc = 使用金属和玻璃生产基础物品。能够处理蓝图以打印新配方。
+
+ent-AutolatheHyperConvection = 超对流自动车床
+    .desc = 一台高度实验性的自动车床，利用极端高温的力量，以较慢的速度但更低的成本制造物品。
+
+ent-Protolathe = 原型车床
+    .desc = 将原材料转化为高级物品。
+
+ent-ProtolatheHyperConvection = 超对流原型车床
+    .desc = 一台高度实验性的原型车床，利用极端高温的力量，以较慢的速度但更低的成本制造物品。
+
+ent-CircuitImprinter = 电路印刻机
+    .desc = 为机器打印电路板。
+
+ent-CircuitImprinterHyperConvection = 超对流电路印刻机
+    .desc = 一台高度实验性的电路印刻机，利用极端高温的力量，以较慢的速度但更低的成本制造物品。
+
+ent-ExosuitFabricator = 外骨骼制造机
+    .desc = 制造机器人部件及其他机械所需零件。
+
+ent-Biofabricator = 生物方块制造机
+    .desc = 使用生物质生产动物方块。
+
+ent-SecurityTechFab = 安保科技制造机
+    .desc = 打印供安保人员使用的装备。
+
+ent-AmmoTechFab = 弹药科技制造机
+    .desc = 打印任何预算吃紧的军队或军械库所需的最低限度弹药。毫无花哨可言。
+
+ent-MedicalTechFab = 医疗科技制造机
+    .desc = 打印供医疗部使用的装备。
+
+ent-Biogenerator = 生物发生器
+    .desc = 将植物转化为生物质，可用于制造实用物品。
+
+## mail_teleporter.yml
+
+ent-CargoMailTeleporter = 邮件传送机
+    .desc = 定期将邮件传送至站内，供全站派送。
+
+## medical_scanner.yml
+
+ent-MedicalScanner = 医疗扫描仪
+    .desc = 一台笨重的医疗扫描仪。
+
+## microwave.yml
+
+ent-KitchenMicrowave = 微波炉
+    .desc = 它简直是魔法。
+
+ent-SyndicateMicrowave = Donk Co. 微波炉
+    .desc = 技术如此先进，仅需2.5秒就能烤好咚咔口袋！
+
+## reagent_grinder.yml
+
+ent-KitchenReagentGrinder = reagent grinder
+    .desc = From BlenderTech. Will It Blend? Let's find out!
+
+## recycler.yml
+
+ent-Recycler = 回收机
+    .desc = 一台大型破碎机，用于低效回收小型物品。侧面带有指示灯。
+
+## research.yml
+
+ent-ResearchAndDevelopmentServer = 研发服务器
+    .desc = 收录了空间站科学家们的全部知识。摧毁它会让科学家们一夜回到石器时代。你肯定不想看到那种场面吧？
+
+ent-BaseResearchAndDevelopmentPointSource = 基础研发点数来源
+
+## salvage.yml
+
+ent-RandomAsteroidPool = 打捞定位器
+    .desc = 用于定位打捞物。
+
+## silo.yml
+
+ent-MachineMaterialSilo = 材料筒仓
+    .desc = 一台先进的机器，能够利用蓝空技术将材料传输至附近的机器。
+
+## vending_machines.yml
+
+ent-VendingMachine = 自动售货机
+    .desc = 只需加入资本主义！
+
+ent-VendingMachineWallmount = 自动售货机
+
+ent-VendingMachineTankDispenserEVA = 气罐分发机
+    .desc = 一台用于分发气罐的自动售货机。
+
+ent-VendingMachineTankDispenserEngineering = 气罐分发机
+    .desc = 一台用于分发气罐的自动售货机。此款带有工程部涂装。
+
