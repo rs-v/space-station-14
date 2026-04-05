@@ -243,30 +243,56 @@ ent-PottedPlantBase = 盆栽
     .desc = 装在花盆里的一小片自然。
 
 ent-PottedPlant0 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant1 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant2 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant3 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant4 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant5 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant6 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant7 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant8 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant10 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant11 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant12 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant13 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant14 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant15 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant16 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant17 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant18 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant19 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant20 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant21 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant22 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant23 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant24 = 盆栽
+    .desc = 装在花盆里的一小片自然。
 ent-PottedPlant26 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant28 = 塑料盆栽
 
 ent-PottedPlantBioluminscent = 荧光盆栽
     .desc = 它能发光！
@@ -277,7 +303,6 @@ ent-PottedPlantRD = 研究主任的盆栽
 
 ent-PottedPlant27 = 塑料盆栽
     .desc = 一棵看起来廉价劣质的假塑料树。非常适合那些“碰啥死啥”的植物杀手。
-ent-PottedPlant28 = 塑料盆栽
 
 ## rollerbeds.yml
 
