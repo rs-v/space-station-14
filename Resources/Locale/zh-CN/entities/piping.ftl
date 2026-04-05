@@ -15,6 +15,12 @@ ent-GasPipeSensor = 气管传感器
 
 ## Piping/Atmospherics/pipes.yml
 ent-GasPipeSansLayers = 气管
+ent-GasPipeHalf = 气管
+ent-GasPipeStraight = 气管
+ent-GasPipeBend = 气管
+ent-GasPipeTJunction = 气管
+ent-GasPipeFourway = 气管
+ent-GasPipeBroken = 损坏的气管
 ent-GasPipeManifold = 气管歧管
 
 ## Piping/Atmospherics/special.yml
@@ -112,11 +118,11 @@ ent-DisposalBend = 废料弯管
 
 ## portable.yml
 
-ent-PortableScrubber = portable scrubber
-    .desc = It scrubs, portably!
+ent-PortableScrubber = 便携式净化器
+    .desc = 便携式净化装置！
 
-ent-SpaceHeater = space heater
-    .desc = A bluespace technology device that alters local temperature. Commonly referred to as a "Space Heater".
+ent-SpaceHeater = 空间加热器
+    .desc = 一种利用蓝空技术改变局部温度的装置。通常被称为"空间加热器"。
 
 ## units.yml
 

@@ -48,6 +48,12 @@ ent-TegCirculator = 循环泵
 
 ## Power/apc.yml
 ent-BaseAPC = 区域电源控制器
+ent-APCConstructed = 区域电源控制器
+ent-APCBasic = 区域电源控制器
+ent-APCHighCapacity = 区域电源控制器
+ent-APCSuperCapacity = 区域电源控制器
+ent-APCHyperCapacity = 区域电源控制器
+ent-APCXenoborg = 异种赛博格区域电源控制器
 ent-APCFrame = 区域电源控制器框架
 
 ## Power/cable_terminal.yml
@@ -74,11 +80,11 @@ ent-DebugBatteryDischarger = 调试用电池放电器
 ent-DebugPowerReceiver = 调试用电力接收器
 ## particles.yml
 
-ent-ParticlesProjectile = particles
-    .desc = Accelerated particles.
+ent-ParticlesProjectile = 粒子
+    .desc = 加速粒子。
 
-ent-AntiParticlesProjectile = anti particles
-    .desc = Accelerated negative particles.
+ent-AntiParticlesProjectile = 反粒子
+    .desc = 加速的负粒子。
 
 ## energyball.yml
 
@@ -149,12 +155,12 @@ ent-SMESAdvanced = 高级SMES
 
 ## substation.yml
 
-ent-BaseSubstation = substation
-    .desc = Reduces the voltage of electricity put into it.
+ent-BaseSubstation = 变电站
+    .desc = 降低输入电压的装置。
 
-ent-BaseSubstationWall = wallmount substation
-    .desc = A substation designed for compact shuttles and spaces.
+ent-BaseSubstationWall = 壁挂变电站
+    .desc = 专为紧凑型穿梭机和空间设计的变电站。
 
-ent-BaseSubstationWallFrame = wallmount substation frame
-    .desc = A substation frame for construction.
+ent-BaseSubstationWallFrame = 壁挂变电站框架
+    .desc = 用于建造的变电站框架。
 

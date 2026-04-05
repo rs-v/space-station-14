@@ -30,6 +30,7 @@ ent-BaseBigBox = 纸板箱
 ent-ClosetTool = 工具橱
 ent-ClosetRadiationSuit = 防辐射服橱
 ent-ClosetEmergency = 应急橱
+    .desc = 一个用于存放应急呼吸面罩和氧气瓶的储物柜。
 ent-ClosetEmergencyN2 = 紧急氮气橱
 ent-ClosetFire = 消防安全橱
 ent-ClosetBomb = 拆弹橱
@@ -41,6 +42,7 @@ ent-ClosetBluespaceUnstable = 可疑橱
 
 ## Storage/Closets/wall_lockers.yml
 ent-ClosetWallEmergency = 应急壁橱
+    .desc = 一个用于存放应急呼吸面罩和氧气瓶的壁挂储物柜。
 ent-ClosetWallEmergencyN2 = 紧急氮气壁橱
 ent-ClosetWallFire = 消防安全壁橱
 ent-LockerWallEvacRepair = 紧急穿梭机应急壁橱

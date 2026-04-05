@@ -49,6 +49,7 @@ ent-ChemDispenserEmpty = 化学品分配器
 
 ## Dispensers/soda.yml
 ent-SodaDispenserEmpty = 苏打水分配器
+ent-SodaDispenser = 苏打水分配器
 
 ## Furniture/beds.yml
 ent-MedicalBed = 医疗床

@@ -159,7 +159,7 @@ ent-VendingMachineMedical = NanoMed Plus
 ent-VendingMachineNutri = NutriMax
 ent-VendingMachineSec = SecTech
 ent-VendingMachineSeedsUnlocked = MegaSeed Servitor
-ent-VendingMachineSnack = Getmore Chocolate Corp
+ent-VendingMachineSnack = 贪多巧克力公司
 ent-VendingMachineSustenance = Sustenance Vendor
 ent-VendingMachineSovietSoda = ВОДА
 ent-VendingMachineTheater = AutoDrobe
@@ -299,11 +299,11 @@ ent-MachineAnomalySynchronizer = 异常同步器
 
 ## artifact_analyzer.yml
 
-ent-MachineArtifactAnalyzer = artifact analyzer
-    .desc = A platform capable of performing analysis on various types of artifacts.
+ent-MachineArtifactAnalyzer = 神器分析仪
+    .desc = 一个能够对各种神器进行分析的平台。
 
-ent-MachineArtifactCrusher = artifact crusher
-    .desc = Best not to let your fingers get stuck...
+ent-MachineArtifactCrusher = 神器粉碎机
+    .desc = 最好别让手指卡进去……
 
 ## bombs.yml
 
@@ -414,8 +414,8 @@ ent-SyndicateMicrowave = Donk Co. 微波炉
 
 ## reagent_grinder.yml
 
-ent-KitchenReagentGrinder = reagent grinder
-    .desc = From BlenderTech. Will It Blend? Let's find out!
+ent-KitchenReagentGrinder = 试剂研磨机
+    .desc = 来自BlenderTech公司。能混吗？让我们来试试！
 
 ## recycler.yml
 

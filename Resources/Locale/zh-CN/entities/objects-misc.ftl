@@ -269,6 +269,14 @@ ent-TorsoBorg = 仿生人躯干
 ent-ToteBase = 电路板手提袋
     .desc = 用来装电路板的大号手提袋。
 
+ent-BoxCaptainCircuitboards = 舰桥电路板手提袋
+ent-BoxCECircuitboards = 工程电路板手提袋
+ent-BoxCMOCircuitboards = 医疗电路板手提袋
+ent-BoxHoPCircuitboards = 人事主任电路板手提袋
+ent-BoxHoSCircuitboards = 安保电路板手提袋
+ent-BoxQMCircuitboards = 货运电路板手提袋
+ent-BoxRDCircuitboards = 科研电路板手提袋
+
 ## brb_sign.yml
 
 ent-BrbSign = 暂离牌

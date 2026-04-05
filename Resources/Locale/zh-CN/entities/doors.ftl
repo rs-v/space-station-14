@@ -51,6 +51,7 @@ ent-Airlock = 气闸
     .desc = 它会打开，会关闭，偶尔还会把你夹扁。
 
 ent-AirlockGlass = 玻璃气闸
+    .desc = 它会打开，会关闭，偶尔还会把你夹扁。
 
 ## highsec.yml
 
@@ -106,6 +107,17 @@ ent-ShuttersWindow = 窗户防护门
 ent-ShuttersFrame = 防护门框架
     .desc = 用于建造防护门的框架。
 
+ent-ShuttersNormal = 防护门
+
+ent-ShuttersNormalOpen = 防护门
+    .suffix = 开启
+
+ent-ShuttersRadiationOpen = 辐射防护门
+    .suffix = 开启
+
+ent-ShuttersWindowOpen = 窗户防护门
+    .suffix = 开启
+
 ## windoor.yml
 
 ent-Windoor = 窗门
@@ -134,3 +146,217 @@ ent-WindoorSecureUranium = 加固铀窗门
 ent-TurnstileArrow = 闸机
     .desc = 一种允许单向通行并防止尾随的机械门。
 
+
+## Doors/Airlocks/access.yml
+
+ent-AirlockServiceLocked = 气闸
+ent-AirlockLawyerLocked = 气闸
+ent-AirlockTheatreLocked = 气闸
+ent-AirlockServiceTheatreLocked = 气闸
+ent-AirlockChapelLocked = 气闸
+ent-AirlockJanitorLocked = 气闸
+ent-AirlockKitchenLocked = 气闸
+ent-AirlockBarLocked = 气闸
+ent-AirlockBarKitchenLocked = 气闸
+ent-AirlockHydroponicsLocked = 气闸
+ent-AirlockExternalLocked = 气闸
+ent-AirlockExternalCargoLocked = 气闸
+ent-AirlockExternalEngineeringLocked = 气闸
+ent-AirlockExternalCommandLocked = 气闸
+ent-AirlockExternalAtmosphericsLocked = 气闸
+ent-AirlockExternalSyndicateLocked = 气闸
+ent-AirlockExternalNukeopLocked = 气闸
+ent-AirlockFreezerLocked = 气闸
+ent-AirlockFreezerKitchenHydroLocked = 气闸
+ent-AirlockFreezerHydroponicsLocked = 气闸
+ent-AirlockEngineeringLocked = 气闸
+ent-AirlockAtmosphericsLocked = 气闸
+ent-AirlockCargoLocked = 气闸
+ent-AirlockSalvageLocked = 气闸
+ent-AirlockMiningLocked = 气闸
+ent-AirlockMedicalLocked = 气闸
+ent-AirlockVirologyLocked = 气闸
+ent-AirlockChemistryLocked = 气闸
+ent-AirlockMedicalMorgueLocked = 气闸
+ent-AirlockScienceLocked = 气闸
+ent-AirlockMedicalScienceLocked = 气闸
+ent-AirlockCentralCommandLocked = 气闸
+ent-AirlockCommandLocked = 气闸
+ent-AirlockCaptainLocked = 气闸
+ent-AirlockChiefMedicalOfficerLocked = 气闸
+ent-AirlockChiefEngineerLocked = 气闸
+ent-AirlockHeadOfSecurityLocked = 气闸
+ent-AirlockResearchDirectorLocked = 气闸
+ent-AirlockHeadOfPersonnelLocked = 气闸
+ent-AirlockQuartermasterLocked = 气闸
+ent-AirlockSecurityLocked = 气闸
+ent-AirlockDetectiveLocked = 气闸
+ent-AirlockBrigLocked = 气闸
+ent-AirlockSecurityLawyerLocked = 气闸
+ent-AirlockArmoryLocked = 气闸
+ent-AirlockVaultLocked = 气闸
+ent-AirlockEVALocked = 气闸
+ent-AirlockSyndicateLocked = 气闸
+ent-AirlockSyndicateNukeopLocked = 气闸
+ent-AirlockXenoborgLocked = 气闸
+ent-AirlockExternalShuttleLocked = 气闸
+ent-AirlockExternalShuttleSyndicateLocked = 气闸
+ent-AirlockExternalShuttleNukeopLocked = 气闸
+ent-AirlockHatchSyndicateLocked = 气闸
+ent-AirlockHatchMaintenanceLocked = 气闸
+
+ent-AirlockExternalGlassCommandLocked = 玻璃气闸
+ent-AirlockServiceGlassLocked = 玻璃气闸
+ent-AirlockLawyerGlassLocked = 玻璃气闸
+ent-AirlockTheatreGlassLocked = 玻璃气闸
+ent-AirlockServiceTheatreGlassLocked = 玻璃气闸
+ent-AirlockBarGlassLocked = 玻璃气闸
+ent-AirlockBarKitchenGlassLocked = 玻璃气闸
+ent-AirlockExternalGlassLocked = 玻璃气闸
+ent-AirlockExternalGlassCargoLocked = 玻璃气闸
+ent-AirlockExternalGlassSyndicateLocked = 玻璃气闸
+ent-AirlockExternalGlassNukeopLocked = 玻璃气闸
+ent-AirlockExternalGlassEngineeringLocked = 玻璃气闸
+ent-AirlockExternalGlassAtmosphericsLocked = 玻璃气闸
+ent-AirlockKitchenGlassLocked = 玻璃气闸
+ent-AirlockJanitorGlassLocked = 玻璃气闸
+ent-AirlockHydroGlassLocked = 玻璃气闸
+ent-AirlockChapelGlassLocked = 玻璃气闸
+ent-AirlockChapelStandardGlassLocked = 玻璃气闸
+ent-AirlockEngineeringGlassLocked = 玻璃气闸
+ent-AirlockAtmosphericsGlassLocked = 玻璃气闸
+ent-AirlockCargoGlassLocked = 玻璃气闸
+ent-AirlockSalvageGlassLocked = 玻璃气闸
+ent-AirlockMiningGlassLocked = 玻璃气闸
+ent-AirlockChemistryGlassLocked = 玻璃气闸
+ent-AirlockMedicalMorgueGlassLocked = 玻璃气闸
+ent-AirlockMedicalGlassLocked = 玻璃气闸
+ent-AirlockVirologyGlassLocked = 玻璃气闸
+ent-AirlockScienceGlassLocked = 玻璃气闸
+ent-AirlockMedicalScienceGlassLocked = 玻璃气闸
+ent-AirlockCentralCommandGlassLocked = 玻璃气闸
+ent-AirlockCommandGlassLocked = 玻璃气闸
+ent-AirlockCaptainGlassLocked = 玻璃气闸
+ent-AirlockChiefMedicalOfficerGlassLocked = 玻璃气闸
+ent-AirlockChiefEngineerGlassLocked = 玻璃气闸
+ent-AirlockHeadOfSecurityGlassLocked = 玻璃气闸
+ent-AirlockResearchDirectorGlassLocked = 玻璃气闸
+ent-AirlockHeadOfPersonnelGlassLocked = 玻璃气闸
+ent-AirlockQuartermasterGlassLocked = 玻璃气闸
+ent-AirlockSecurityGlassLocked = 玻璃气闸
+ent-AirlockDetectiveGlassLocked = 玻璃气闸
+ent-AirlockBrigGlassLocked = 玻璃气闸
+ent-AirlockSecurityLawyerGlassLocked = 玻璃气闸
+ent-AirlockArmoryGlassLocked = 玻璃气闸
+ent-AirlockEVAGlassLocked = 玻璃气闸
+ent-AirlockSyndicateGlassLocked = 玻璃气闸
+ent-AirlockSyndicateNukeopGlassLocked = 玻璃气闸
+ent-AirlockMaintGlassLocked = 玻璃气闸
+ent-AirlockGlassShuttleXenoborgLocked = 玻璃气闸
+ent-AirlockExternalGlassShuttleLocked = 玻璃气闸
+ent-AirlockExternalGlassShuttleSyndicateLocked = 玻璃气闸
+ent-AirlockExternalGlassShuttleNukeopLocked = 玻璃气闸
+ent-AirlockExternalGlassShuttleEmergencyLocked = 玻璃气闸
+ent-AirlockExternalGlassShuttleArrivals = 玻璃气闸
+ent-AirlockExternalGlassShuttleEscape = 玻璃气闸
+
+ent-AirlockMaintLocked = 维修气闸
+ent-AirlockXenoMaintLocked = 维修气闸
+ent-AirlockMaintSalvageLocked = 维修气闸
+ent-AirlockMaintCargoLocked = 维修气闸
+ent-AirlockMaintCommandLocked = 维修气闸
+ent-AirlockMaintEngiLocked = 维修气闸
+ent-AirlockMaintAtmoLocked = 维修气闸
+ent-AirlockMaintBarLocked = 维修气闸
+ent-AirlockMaintBarKitchenLocked = 维修气闸
+ent-AirlockMaintChapelLocked = 维修气闸
+ent-AirlockMaintHydroLocked = 维修气闸
+ent-AirlockMaintJanitorLocked = 维修气闸
+ent-AirlockMaintLawyerLocked = 维修气闸
+ent-AirlockMaintServiceLocked = 维修气闸
+ent-AirlockMaintTheatreLocked = 维修气闸
+ent-AirlockMaintServiceTheatreLocked = 维修气闸
+ent-AirlockMaintKitchenLocked = 维修气闸
+ent-AirlockMaintKitchenHydroLocked = 维修气闸
+ent-AirlockMaintMedLocked = 维修气闸
+ent-AirlockMedicalMorgueMaintLocked = 维修气闸
+ent-AirlockMaintChemLocked = 维修气闸
+ent-AirlockMaintRnDLocked = 维修气闸
+ent-AirlockMaintRnDMedLocked = 维修气闸
+ent-AirlockMaintSecLocked = 维修气闸
+ent-AirlockMaintDetectiveLocked = 维修气闸
+ent-AirlockMaintHOPLocked = 维修气闸
+ent-AirlockMaintCaptainLocked = 维修气闸
+ent-AirlockMaintChiefEngineerLocked = 维修气闸
+ent-AirlockMaintChiefMedicalOfficerLocked = 维修气闸
+ent-AirlockMaintHeadOfSecurityLocked = 维修气闸
+ent-AirlockMaintResearchDirectorLocked = 维修气闸
+ent-AirlockMaintQuartermasterLocked = 维修气闸
+ent-AirlockMaintArmoryLocked = 维修气闸
+
+ent-HighSecCentralCommandLocked = 高级安保门
+ent-HighSecCommandLocked = 高级安保门
+ent-HighSecCaptainLocked = 高级安保门
+ent-HighSecArmoryLocked = 高级安保门
+
+## Doors/Windoors/windoor.yml - locked variants
+
+ent-WindoorBarLocked = 窗门
+ent-WindoorBarKitchenLocked = 窗门
+ent-WindoorCargoLocked = 窗门
+ent-WindoorChapelLocked = 窗门
+ent-WindoorHydroponicsLocked = 窗门
+ent-WindoorJanitorLocked = 窗门
+ent-WindoorKitchenLocked = 窗门
+ent-WindoorKitchenHydroponicsLocked = 窗门
+ent-WindoorServiceLocked = 窗门
+ent-WindoorTheatreLocked = 窗门
+ent-WindoorSyndicateLocked = 窗门
+ent-WindoorNukeopLocked = 窗门
+
+ent-WindoorSecureArmoryLocked = 加固窗门
+ent-WindoorSecureAtmosphericsLocked = 加固窗门
+ent-WindoorSecureBarLocked = 加固窗门
+ent-WindoorSecureBrigLocked = 加固窗门
+ent-WindoorSecureCargoLocked = 加固窗门
+ent-WindoorSecureChapelLocked = 加固窗门
+ent-WindoorSecureChemistryLocked = 加固窗门
+ent-WindoorSecureCentralCommandLocked = 加固窗门
+ent-WindoorSecureCommandLocked = 加固窗门
+ent-WindoorSecureDetectiveLocked = 加固窗门
+ent-WindoorSecureEngineeringLocked = 加固窗门
+ent-WindoorSecureExternalLocked = 加固窗门
+ent-WindoorSecureJanitorLocked = 加固窗门
+ent-WindoorSecureKitchenLocked = 加固窗门
+ent-WindoorSecureSecurityLawyerLocked = 加固窗门
+ent-WindoorSecureMedicalLocked = 加固窗门
+ent-WindoorSecureResearchDirectorLocked = 加固窗门
+ent-WindoorSecureSalvageLocked = 加固窗门
+ent-WindoorSecureSecurityLocked = 加固窗门
+ent-WindoorSecureScienceLocked = 加固窗门
+ent-WindoorSecureServiceLocked = 加固窗门
+ent-WindoorSecureHeadOfPersonnelLocked = 加固窗门
+ent-WindoorSecureSyndicateLocked = 加固窗门
+ent-WindoorSecureNukeopLocked = 加固窗门
+
+ent-PlasmaWindoorJanitorLocked = 等离子窗门
+ent-PlasmaWindoorSecureArmoryLocked = 等离子窗门
+ent-PlasmaWindoorSecureAtmosphericsLocked = 等离子窗门
+ent-PlasmaWindoorSecureChemistryLocked = 等离子窗门
+ent-PlasmaWindoorSecureCentralCommandLocked = 等离子窗门
+ent-PlasmaWindoorSecureCommandLocked = 等离子窗门
+ent-PlasmaWindoorSecureEngineeringLocked = 等离子窗门
+ent-PlasmaWindoorSecureJanitorLocked = 等离子窗门
+ent-PlasmaWindoorSecureSecurityLocked = 等离子窗门
+ent-PlasmaWindoorSecureScienceLocked = 等离子窗门
+ent-PlasmaWindoorSyndicateLocked = 等离子窗门
+ent-PlasmaWindoorSecureSyndicateLocked = 等离子窗门
+ent-PlasmaWindoorNukeopLocked = 等离子窗门
+ent-PlasmaWindoorSecureNukeopLocked = 等离子窗门
+
+ent-UraniumWindoorSecureCentralCommandLocked = 铀窗门
+ent-UraniumWindoorSecureEngineeringLocked = 铀窗门
+ent-UraniumWindoorSyndicateLocked = 铀窗门
+ent-UraniumWindoorSecureSyndicateLocked = 铀窗门
+ent-UraniumWindoorNukeopLocked = 铀窗门
+ent-UraniumWindoorSecureNukeopLocked = 铀窗门
