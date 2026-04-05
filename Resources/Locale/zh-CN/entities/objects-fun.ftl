@@ -620,8 +620,6 @@ ent-ToyAmongPequeno = 迷你内鬼
 ent-BackgammonBoard = 双陆棋盘
     .desc = 一种使用骰子和棋子的古老游戏。
 
-ent-*BackgammonBoard = 双陆棋
-
 ## base.yml
 
 ent-BaseBoardEntity = 基板
@@ -634,22 +632,10 @@ ent-BaseBoardTabletop = 基板
 ent-CheckerBoard = 跳棋盘
     .desc = 一张跳棋盘。内含棋子！
 
-ent-*checkerboard = 跳棋盘
-
-ent-*pieceWhite = 白色跳棋
-
-ent-*crownWhite = 白色王冠
-
-ent-*pieceBlack = 黑色跳棋
-
-ent-*crownBlack = 黑色王冠
-
 ## chess.yml
 
 ent-ChessBoard = 棋盘
     .desc = 一副棋盘。内含棋子！
-
-ent-*ChessBoard = 棋盘
 
 ent-WhiteKing = 白王
 
@@ -695,22 +681,10 @@ ent-SnowBattlemap = 雪地战斗地图
 ent-ShipBattlemap = 飞船战斗地图
     .desc = 一张用于开启你史诗级太空探索的战斗地图，不含棋子！
 
-ent-*GrassBoard = 草地战斗地图
-
-ent-*MoonBoard = 草地战斗地图
-
-ent-*SandBoard = 沙地战斗地图
-
-ent-*SnowBoard = 雪地战斗地图
-
-ent-*ShipBoard = 飞船战斗地图
-
 ## parchis.yml
 
 ent-ParchisBoard = 帕奇斯棋盘
     .desc = 一款十字环形棋盘游戏，以毁掉无数友谊而闻名。
-
-ent-*ParchisBoard = 帕奇斯
 
 ## tabletopGeneric.yml
 

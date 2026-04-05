@@ -427,8 +427,6 @@ ent-BulletFoam = 泡沫弹
 
 ## pistol.yml
 
-ent-BaseMagazinePistolSubMachineGun = 冲锋枪弹匣 (.35自动)
-
 ## magnum.yml
 
 ent-BulletMagnum = 子弹（.45马格南）

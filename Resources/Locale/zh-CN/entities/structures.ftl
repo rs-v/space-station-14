@@ -95,10 +95,6 @@ ent-JanitorServiceLight = 清洁服务灯
 ## Lighting/strobe_lighting.yml
 ent-AlwaysPoweredStrobeLight = 频闪灯
 
-## Holographic machine
-ent-Holopad = 全息垫
-ent-HolopadHologram = 全息影像
-
 ## Specific/Anomaly/anomalies.yml
 ent-BaseAnomaly = 异常现象
 ent-AnomalyFloraBulb = 奇异发光浆果
