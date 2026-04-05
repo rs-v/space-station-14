@@ -72,3 +72,89 @@ ent-DebugConsumer = 调试用电器
 ent-DebugBatteryStorage = 调试用电池存储
 ent-DebugBatteryDischarger = 调试用电池放电器
 ent-DebugPowerReceiver = 调试用电力接收器
+## particles.yml
+
+ent-ParticlesProjectile = particles
+    .desc = Accelerated particles.
+
+ent-AntiParticlesProjectile = anti particles
+    .desc = Accelerated negative particles.
+
+## energyball.yml
+
+ent-TeslaEnergyBall = 球状闪电
+    .desc = 一个巨大的纯能量球体。它周围的空间正发出嗡鸣并逐渐融化。
+
+ent-TeslaMiniEnergyBall = 微型球状闪电
+    .desc = 毁灭性能量牢笼的幼崽。虽然没那么危险，但依然不建议徒手触碰。
+
+## generators.yml
+
+ent-BaseGenerator = 发电机
+    .desc = 一台高效热电发电机。
+
+ent-BaseGeneratorWallmount = 壁挂发电机
+    .desc = 一台塞进壁柜里的高效热电发电机。
+
+## portable_generator.yml
+
+ent-PortableGeneratorPacman = P.A.C.M.A.N.型便携式发电机
+    .desc = |-
+
+ent-PortableGeneratorSuperPacman = S.U.P.E.R.P.A.C.M.A.N.型便携式发电机
+    .desc = |-
+
+ent-PortableGeneratorJrPacman = J.R.P.A.C.M.A.N.型便携式发电机
+    .desc = |-
+
+## solar.yml
+
+ent-SolarPanelBasePhysSprite = 太阳能板
+
+ent-SolarPanelPlasma = 等离子太阳能板
+    .desc = 几块等离子玻璃板，受到光子照射时即可发电。
+
+ent-SolarPanelUranium = 铀太阳能板
+    .desc = 几块铀玻璃板，受到光子照射时即可发电。
+
+ent-SolarPanel = 太阳能板
+    .desc = 几块玻璃板，受到光子照射时即可发电。
+
+ent-SolarPanelBroken = 太阳能板
+    .desc = 一块破损的太阳能板。
+
+ent-SolarPanelPlasmaBroken = 等离子太阳能板
+    .desc = 一块破损的等离子太阳能板。
+
+ent-SolarPanelUraniumBroken = 铀太阳能板
+    .desc = 一块破损的铀太阳能板。
+
+## teg.yml
+
+ent-TegCirculatorArrow = 循环器
+    .desc = 引导气体流经热电发电机以进行热交换。设有进气口与出气口。
+
+## cables.yml
+
+ent-CableDet = 爆破索
+    .desc = 专为讨厌墙壁的人准备的意大利面。
+
+## smes.yml
+
+ent-BaseSMES = SMES
+    .desc = 一种高容量超导磁储能（SMES）单元。
+
+ent-SMESAdvanced = 高级SMES
+    .desc = 一种容量更大的超导磁储能（SMES）单元。
+
+## substation.yml
+
+ent-BaseSubstation = substation
+    .desc = Reduces the voltage of electricity put into it.
+
+ent-BaseSubstationWall = wallmount substation
+    .desc = A substation designed for compact shuttles and spaces.
+
+ent-BaseSubstationWallFrame = wallmount substation frame
+    .desc = A substation frame for construction.
+
