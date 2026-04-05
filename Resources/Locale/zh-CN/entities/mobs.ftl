@@ -1130,3 +1130,43 @@ ent-MobSupplyBot = 补给机器人
 ent-MobHugBot = 拥抱机器人
     .desc = 哎呀，谁想要一个拥抱呀？
 
+## humanoid.yml - ERT & Special Spawners
+
+ent-RandomHumanoidSpawnerDeathSquad = 死亡小队特工
+
+ent-RandomHumanoidSpawnerERTLeader = 紧急响应队队长
+
+ent-RandomHumanoidSpawnerERTLeaderEVA = 紧急响应队队长
+
+ent-RandomHumanoidSpawnerERTChaplain = 紧急响应队牧师
+
+ent-RandomHumanoidSpawnerERTChaplainEVA = 紧急响应队牧师
+
+ent-RandomHumanoidSpawnerERTJanitor = 紧急响应队清洁员
+
+ent-RandomHumanoidSpawnerERTEngineer = 紧急响应队工程师
+
+ent-RandomHumanoidSpawnerERTSecurity = 紧急响应队安保
+
+ent-RandomHumanoidSpawnerERTSecurityEVA = 紧急响应队安保
+
+ent-RandomHumanoidSpawnerERTSecurityArmedRifle = 紧急响应队步枪手
+
+ent-RandomHumanoidSpawnerERTSecurityArmedGrenade = 紧急响应队掷弹兵
+
+ent-RandomHumanoidSpawnerERTSecurityArmedVanguard = 紧急响应队先锋
+
+ent-RandomHumanoidSpawnerERTSecurityArmedShotgun = 紧急响应队突破手
+
+ent-RandomHumanoidSpawnerERTMedical = 紧急响应队医疗兵
+
+ent-RandomHumanoidSpawnerCBURNUnit = 化学生物处置特工
+
+ent-RandomHumanoidSpawnerCentcomOfficial = 中央指挥部官员
+
+ent-RandomHumanoidSpawnerSyndicateAgent = 辛迪加特工
+
+ent-RandomHumanoidSpawnerNukeOp = 核战特工
+
+ent-RandomHumanoidSpawnerCluwne = 克鲁恩
+

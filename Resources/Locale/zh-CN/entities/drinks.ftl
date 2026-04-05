@@ -424,3 +424,8 @@ ent-DrinkShakeWhite = 白色奶昔
 ent-DrinkBottleCoffeeLiqueur = 咖啡利口酒瓶
 
 ent-DrinkBottleNTCahors = NT 卡奥尔红酒瓶
+
+## drinks_fun.yml
+
+ent-DrinkJarWhat = 某种东西的罐子
+    .desc = 你实在看不出这是什么。
