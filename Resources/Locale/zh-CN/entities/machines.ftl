@@ -110,7 +110,8 @@ ent-SalvageLocator = 打捞定位器
 ent-SeedExtractor = 种子提取机
 
 ## Machines/smartfridge.yml
-ent-SmartFridge = SmartFridge
+ent-SmartFridge = 智能冰箱
+    .desc = 一台用于冷藏保鲜物品的冷藏储存装置。
 
 ## Machines/stasisbed.yml
 ent-StasisBed = 停滞床
@@ -140,6 +141,7 @@ ent-VendingMachineCart = PTech
 ent-VendingMachineChefvend = ChefVend
 ent-VendingMachineCigs = ShadyCigs Deluxe
 ent-VendingMachineClothing = ClothesMate
+    .desc = 一台售卖服装的自动售货机。
 ent-VendingMachineWinter = WinterDrobe
 ent-VendingMachineCoffee = Solar's Best Hot Drinks
 ent-VendingMachineCola = Robust Softdrinks

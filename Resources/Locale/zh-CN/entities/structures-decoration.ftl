@@ -63,8 +63,8 @@ ent-Fireplace = 壁炉
 
 ## flesh_blockers.yml
 
-ent-FleshBlocker = flesh clump
-    .desc = An annoying clump of flesh.
+ent-FleshBlocker = 血肉团
+    .desc = 一团令人烦恼的血肉。
 
 ## mannequin.yml
 
