@@ -693,7 +693,7 @@ ent-ShipBattlemap = 飞船战斗地图
 
 ent-GrassBoard = 草地战斗地图
 
-ent-MoonBoard = 草地战斗地图
+ent-MoonBoard = 月球战斗地图
 
 ent-SandBoard = 沙地战斗地图
 
