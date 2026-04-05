@@ -7,6 +7,9 @@ ent-ClothingMultipleHeadphones = 耳机
 
 ## towel.yml
 
+ent-BaseTowel = 毛巾
+    .desc = 如果你想在这片宇宙中活下去，你必须知道自己的毛巾放在哪儿。
+
 ent-TowelColorWhite = 白色毛巾
 
 ent-TowelColorNT = 纳米千能品牌毛巾

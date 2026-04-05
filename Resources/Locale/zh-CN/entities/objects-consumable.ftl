@@ -2,9 +2,6 @@
 
 ## drinks_bottles_glass.yml
 
-ent-DrinkBeerGrowler = 啤酒扎壶  # beer it is. coffee. beer? coff-ee? be-er? c-o... b-e
-    .desc = 一种由麦芽、啤酒花、酵母和水酿制的酒精饮料。XL容量扎壶瓶。
-
 ## drinks_cups.yml
 
 ent-DrinkMugOne = #1马克杯

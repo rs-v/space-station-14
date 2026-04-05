@@ -132,6 +132,36 @@ ent-Bookshelf = 书架
 ent-CarpetBase = 地毯
     .desc = 看起来很高级的步行表面。
 
+ent-Carpet = 地毯
+    .suffix = 红色
+
+ent-CarpetBlack = 地毯
+    .suffix = 黑色
+
+ent-CarpetPink = 地毯
+    .suffix = 粉色
+
+ent-CarpetBlue = 地毯
+    .suffix = 蓝色
+
+ent-CarpetGreen = 地毯
+    .suffix = 绿色
+
+ent-CarpetOrange = 地毯
+    .suffix = 橙色
+
+ent-CarpetSBlue = 地毯
+    .suffix = 天蓝色
+
+ent-CarpetPurple = 地毯
+    .suffix = 紫色
+
+ent-CarpetCyan = 地毯
+    .suffix = 青色
+
+ent-CarpetWhite = 地毯
+    .suffix = 白色
+
 ent-CarpetChapel = 礼拜堂地毯
 
 ent-CarpetCard = 纸板“地毯”
@@ -212,6 +242,58 @@ ent-SS13Memorial = 无名员工之墓
 ent-PottedPlantBase = 盆栽
     .desc = 装在花盆里的一小片自然。
 
+ent-PottedPlant0 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant1 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant2 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant3 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant4 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant5 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant6 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant7 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant8 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant10 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant11 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant12 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant13 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant14 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant15 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant16 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant17 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant18 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant19 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant20 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant21 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant22 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant23 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant24 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant26 = 盆栽
+    .desc = 装在花盆里的一小片自然。
+ent-PottedPlant28 = 塑料盆栽
+
 ent-PottedPlantBioluminscent = 荧光盆栽
     .desc = 它能发光！
 
@@ -240,3 +322,14 @@ ent-SinkStemless = 水槽
 
 ent-SinkStemlessWater = 水槽
 
+
+## janicart.yml
+
+ent-MopBucket = 拖把桶
+    .desc = 装满了水和清洁工的泪水。
+
+ent-MopBucketFull = 拖把桶
+    .suffix = 装满
+
+ent-JanitorialTrolley = 清洁工推车
+    .desc = 这是卫生工作的起点与终点。
