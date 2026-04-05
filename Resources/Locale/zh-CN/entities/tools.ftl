@@ -24,6 +24,7 @@ ent-RCD = 快速建造装置
     .desc = 快速建造装置，可用于快速建造和拆除墙壁、地板及门。
 
 ent-RCDEmpty =
+    .desc = 快速建造装置，可用于快速建造和拆除墙壁、地板及门。
     .suffix = 空
 
 ent-RCDRecharging = 实验型快速建造装置
@@ -73,15 +74,19 @@ ent-Crowbar = 撬棍
     .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
 
 ent-CrowbarRed =
+    .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
     .suffix = 红色
 
 ent-CrowbarGreen =
+    .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
     .suffix = 绿色
 
 ent-CrowbarOrange =
+    .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
     .suffix = 橙色
 
 ent-CrowbarYellow =
+    .desc = 多用途工具，可用于撬门或痛击异次元入侵者。
     .suffix = 黄色
 
 ## toolbox.yml
@@ -217,37 +222,47 @@ ent-BaseJetpack = 喷气背包
     .desc = 就是个喷气背包，容量5升。
 
 ent-JetpackBlue =
+    .desc = 就是个喷气背包，容量5升。
     .suffix = 蓝色
 
 ent-JetpackBlueFilled =
+    .desc = 就是个喷气背包，容量5升。
     .suffix = 蓝色（已充装）
 
 ent-JetpackBlack =
+    .desc = 就是个喷气背包，容量5升。
     .suffix = 黑色
 
 ent-JetpackBlackFilled =
+    .desc = 就是个喷气背包，容量5升。
     .suffix = 黑色（已充装）
 
 ent-JetpackCaptain = 船长喷气背包
+    .desc = 就是个喷气背包，容量5升。
 
 ent-JetpackCaptainFilled = 船长喷气背包
+    .desc = 就是个喷气背包，容量5升。
     .suffix = 已充装
 
 ent-JetpackMini = 迷你喷气背包
     .desc = 就是个喷气背包，容量1.5升。
 
 ent-JetpackMiniFilled =
+    .desc = 就是个喷气背包，容量1.5升。
     .suffix = 已充装
 
 ent-JetpackSecurity = 安保迷你喷气背包
     .desc = 站安保在巡逻站外区域时使用的紧凑型喷气背包，不适合长途飞行，仅容1.5升气体。
 
 ent-JetpackSecurityFilled = 安保喷气背包
+    .desc = 站安保在巡逻站外区域时使用的紧凑型喷气背包，不适合长途飞行，仅容1.5升气体。
     .suffix = 已充装
 
 ent-JetpackVoid = 虚空喷气背包
+    .desc = 就是个喷气背包，容量5升。
 
 ent-JetpackVoidFilled = 虚空喷气背包
+    .desc = 就是个喷气背包，容量5升。
     .suffix = 已充装
 
 ## jammer.yml
@@ -266,18 +281,23 @@ ent-GlowstickBase = 荧光棒
     .desc = 适用于狂欢派对和紧急情况。
 
 ent-GlowstickRed =
+    .desc = 适用于狂欢派对和紧急情况。
     .suffix = 红色
 
 ent-GlowstickPurple =
+    .desc = 适用于狂欢派对和紧急情况。
     .suffix = 紫色
 
 ent-GlowstickYellow =
+    .desc = 适用于狂欢派对和紧急情况。
     .suffix = 黄色
 
 ent-GlowstickBlue =
+    .desc = 适用于狂欢派对和紧急情况。
     .suffix = 蓝色
 
 ent-GlowstickGreen =
+    .desc = 适用于狂欢派对和紧急情况。
     .suffix = 绿色
 
 ## gps.yml
@@ -327,6 +347,7 @@ ent-EmagUnlimited = 密码序列器
     .desc = 一体化黑客解决方案。辛迪加的老朋友。标志性的EMAG。
 
 ent-Emag =
+    .desc = 一体化黑客解决方案。辛迪加的老朋友。标志性的EMAG。
     .suffix = 有限次
 
 ## handheld_mass_scanner.yml
