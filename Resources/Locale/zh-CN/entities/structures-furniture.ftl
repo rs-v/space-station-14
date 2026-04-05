@@ -322,3 +322,14 @@ ent-SinkStemless = 水槽
 
 ent-SinkStemlessWater = 水槽
 
+
+## janicart.yml
+
+ent-MopBucket = 拖把桶
+    .desc = 装满了水和清洁工的泪水。
+
+ent-MopBucketFull = 拖把桶
+    .suffix = 装满
+
+ent-JanitorialTrolley = 清洁工推车
+    .desc = 这是卫生工作的起点与终点。

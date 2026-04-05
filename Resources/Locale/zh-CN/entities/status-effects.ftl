@@ -28,6 +28,10 @@ ent-StatusEffectStimulantsStamina = 体力上限×1.5
 
 ## movement.yml
 
+ent-StatusEffectSlowdown = 减速
+
+ent-StatusEffectSpeed = 加速
+
 ent-ReagentSpeedStatusEffect = 试剂加速
 
 ent-VomitingSlowdownStatusEffect = 呕吐减速

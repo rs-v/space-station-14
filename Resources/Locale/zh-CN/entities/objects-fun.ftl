@@ -632,6 +632,16 @@ ent-BaseBoardTabletop = 基板
 ent-CheckerBoard = 跳棋盘
     .desc = 一张跳棋盘。内含棋子！
 
+ent-checkerboard = 跳棋盘
+
+ent-pieceWhite = 白色跳棋
+
+ent-crownWhite = 白色跳棋王
+
+ent-pieceBlack = 黑色跳棋
+
+ent-crownBlack = 黑色跳棋王
+
 ## chess.yml
 
 ent-ChessBoard = 棋盘
@@ -680,6 +690,16 @@ ent-SnowBattlemap = 雪地战斗地图
 
 ent-ShipBattlemap = 飞船战斗地图
     .desc = 一张用于开启你史诗级太空探索的战斗地图，不含棋子！
+
+ent-GrassBoard = 草地战斗地图
+
+ent-MoonBoard = 草地战斗地图
+
+ent-SandBoard = 沙地战斗地图
+
+ent-SnowBoard = 雪地战斗地图
+
+ent-ShipBoard = 飞船战斗地图
 
 ## parchis.yml
 
