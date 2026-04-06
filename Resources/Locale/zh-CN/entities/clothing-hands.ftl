@@ -73,6 +73,7 @@ ent-ClothingHandsGlovesBoxingRiggedYellow = 黄色拳击手套
     .desc = 用于竞技拳击的黄色手套。
 
 ent-GlovesBoxingRiggedRandomSpawner = 随机作弊拳击手套生成器
+    .desc = 用于生成随机作弊拳击手套的标记。
 
 ent-ClothingHandsGlovesCaptain = 船长手套
     .desc = 皇家蓝手套，带有精致的金色镶边。十分气派。

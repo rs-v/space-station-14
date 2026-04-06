@@ -228,13 +228,13 @@ ent-DrinkSoyMilkCarton = 豆浆纸盒
 ent-DrinkOatMilkCarton = 燕麦奶纸盒
     .desc = 就是燕麦奶，棕褐色，营养丰富！
 
-ent-DrinkJuiceLimeCartonXL = 青柠汁 XL
+ent-DrinkJuiceLimeCartonXL = 青柠汁XL
     .desc = 甜中带酸的好滋味。
 
-ent-DrinkJuiceOrangeCartonXL = 橙汁 XL
+ent-DrinkJuiceOrangeCartonXL = 橙汁XL
     .desc = 富含维生素，美味无比！
 
-ent-DrinkCreamCartonXL = 鲜奶油 XL
+ent-DrinkCreamCartonXL = 鲜奶油XL
     .desc = 这是奶油，由牛奶制成。你以为里面会装什么？
 
 ## drinks_bottles_glass.yml
@@ -242,7 +242,7 @@ ent-DrinkCreamCartonXL = 鲜奶油 XL
 ent-DrinkPoisonWinebottleFull = 巫师天鹅绒红酒瓶
     .desc = 多么精美的包装，里面一定是高品质的葡萄酒！
 
-ent-DrinkAleBottleFullGrowler = Magm-Ale 大号啤酒桶
+ent-DrinkAleBottleFullGrowler = Magm-Ale大号啤酒桶
     .desc = 矮人最钟爱的饮品，大号桶装。
 
 ## drinks_bottles_plastic.yml
@@ -250,7 +250,7 @@ ent-DrinkAleBottleFullGrowler = Magm-Ale 大号啤酒桶
 ent-DrinkSugarJug = 糖浆壶
     .desc = 有些人喜欢往咖啡里加这个……
 
-ent-DrinkLemonLimeJug = Smite 柠檬青柠壶
+ent-DrinkLemonLimeJug = Smite柠檬青柠壶
     .desc = 双重柑橘口感，令人神清气爽。
 
 ent-DrinkMeadJug = 蜂蜜酒壶
@@ -274,7 +274,7 @@ ent-DrinkGreenTeaJug = 绿茶壶
 ent-DrinkIcedTeaJug = 冰茶壶
     .desc = 嫌普通茶太烫？这个适合你。
 
-ent-DrinkDrGibbJug = Dr. Gibb 壶
+ent-DrinkDrGibbJug = Dr. Gibb壶
     .desc = 42种不同风味……装进一个壶里！
 
 ent-DrinkRootBeerJug = 根汁啤酒壶
@@ -285,38 +285,38 @@ ent-DrinkWaterMelonJuiceJug = 西瓜汁壶
 
 ## drinks_cans.yml
 
-ent-DrinkSpaceUpCan = Space-Up 罐
+ent-DrinkSpaceUpCan = Space-Up罐
     .desc = 喝起来就像嘴里发生了船体破裂事故。
 
-ent-DrinkSolDryCan = Sol Dry 罐
+ent-DrinkSolDryCan = Sol Dry罐
     .desc = 来自外太空的甜姜汽水！
 
-ent-DrinkStarkistCan = Starkist 罐
+ent-DrinkStarkistCan = Starkist罐
     .desc = 星辰的味道凝成液体，还有点……金枪鱼的味道？
 
 ent-DrinkTonicWaterCan = 汤力水罐
     .desc = 奎宁的味道很奇怪，但至少能抵御太空疟疾。
 
-ent-DrinkFourteenLokoCan = Fourteen Loko 罐
-    .desc = 母婴办公室提示：饮用 Fourteen Loko 可能导致抽搐。
+ent-DrinkFourteenLokoCan = Fourteen Loko罐
+    .desc = 母婴办公室提示：饮用Fourteen Loko可能导致抽搐。
 
-ent-DrinkChangelingStingCan = Changeling Sting 罐
+ent-DrinkChangelingStingCan = Changeling Sting罐
     .desc = 你轻啜一口，感觉到一阵灼热……
 
-ent-DrinkDrGibbCan = Dr. Gibb 罐
+ent-DrinkDrGibbCan = Dr. Gibb罐
     .desc = 42种不同风味的美味混合。
 
 ent-DrinkNukieCan = 血红酿造罐
     .desc = 由辛迪加疯狂头脑自制的饮料，医生不推荐。
 
-ent-DrinkEnergyDrinkCan = Red Bool 罐
-    .desc = 一罐 Red Bool，咖啡因含量足以非死一匹马。
+ent-DrinkEnergyDrinkCan = Red Bool罐
+    .desc = 一罐Red Bool，咖啡因含量足以腓死一匹马。
 
-ent-DrinkShamblersJuiceCan = Shambler's Juice 罐
-    .desc = ~来一杯 Shambler's Juice 吧！~
+ent-DrinkShamblersJuiceCan = Shambler's Juice罐
+    .desc = ~来一杯Shambler's Juice吧！~
 
-ent-DrinkPwrGameCan = PWR Game 罐
-    .desc = 唯一能给真正玩家提供 PWR 的饮料。
+ent-DrinkPwrGameCan = PWR Game罐
+    .desc = 唯一能给真正玩家提供PWR的饮料。
 
 ent-DrinkBeerCan = 啤酒罐
     .desc = 小小一罐，大大快乐，无忧无虑！
@@ -339,7 +339,7 @@ ent-DrinkMugMetal = 金属马克杯
     .desc = 一只金属马克杯，你也不知道是什么金属做的。
 
 ent-DrinkMugMoebius = 莫比乌斯实验室马克杯
-    .desc = 一只印有莫比乌斯实验室 LOGO 的马克杯。
+    .desc = 一只印有莫比乌斯实验室LOGO的马克杯。
 
 ent-DrinkMugRainbow = 彩虹马克杯
     .desc = 一只彩虹马克杯，色彩几乎和焊接头盔一样刺眼。
@@ -357,8 +357,10 @@ ent-DrinkCafeLatte = 拿铁咖啡
     .desc = 一杯浓郁美味的饮品，阅读时来一杯最惬意。
 
 ent-DrinkTeacup = 茶
+    .desc = 一个朴素的白色瓷茶杯。
 
 ent-DrinkGreenTea = 绿茶
+    .desc = 一个朴素的白色瓷茶杯。
 
 ent-DrinkLean = 葡萄汁
     .desc = 真遗憾，不让玩。
@@ -391,7 +393,7 @@ ent-BottomlessLube = 无底润滑剂烧杯
 ent-RandomFillMopwata = 一罐不明物质
     .desc = 完全看不出来这是什么。
 
-ent-DrinkMopwataBottleRandom = 美味 Mopwata
+ent-DrinkMopwataBottleRandom = 美味Mopwata
     .desc = 一只模糊棕色瓶子，标签上依稀画着一把拖把。
 
 ## drinks_metamorphic.yml
@@ -410,22 +412,32 @@ ent-DrinkVisualizerTestNot = 溶液容器可视化不切面
 ## drinks_special.yml
 
 ent-DrinkShakeBlue = 蓝色奶昔
+    .desc = 一杯蓝色的奶昔。
 
 ent-DrinkShakeEmpty = 空奶昔杯
+    .desc = 一个空空如也的奶昔杯。
 
 ent-DrinkShakeMeat = 肉味奶昔
+    .desc = 一杯味道相当可疑的肉味奶昔。
 
 ent-DrinkShakeRobo = 机器人奶昔
+    .desc = 一杯充满机械风味的机器人奶昔。
 
 ent-DrinkShakeWhite = 白色奶昔
+    .desc = 一杯白色的奶昔。
 
 ## trash_drinks.yml
 
 ent-DrinkBottleCoffeeLiqueur = 咖啡利口酒瓶
+    .desc = 一个装过咖啡利口酒的空瓶子。
 
-ent-DrinkBottleNTCahors = NT 卡奥尔红酒瓶
+ent-DrinkBottleNTCahors = NT卡奥尔红酒瓶
+    .desc = 一个装过NT卡奥尔红酒的空瓶子。
 
 ## drinks_fun.yml
 
 ent-DrinkJarWhat = 某种东西的罐子
     .desc = 你实在看不出这是什么。
+
+ent-DrinkMeth = 冰毒杯
+    .desc = 满满一整杯冰毒。

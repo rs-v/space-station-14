@@ -27,16 +27,22 @@ ent-ClothingShoesBootsLaceup = 系带鞋
     .desc = 时尚的巅峰，而且已经预先抛光！
 
 ent-ClothingShoesBootsWinter = 冬靴
+    .desc = 毛茸茸的靴子，能帮助你熬过最寒冷的冬天。
 
 ent-ClothingShoesBootsWinterCargo = 货运冬靴
+    .desc = 毛茸茸的靴子，能帮助你熬过最寒冷的冬天。
 
 ent-ClothingShoesBootsWinterEngi = 工程冬靴
+    .desc = 毛茸茸的靴子，能帮助你熬过最寒冷的冬天。
 
 ent-ClothingShoesBootsWinterMed = 医疗冬靴
+    .desc = 毛茸茸的靴子，能帮助你熬过最寒冷的冬天。
 
 ent-ClothingShoesBootsWinterSci = 科学冬靴
+    .desc = 毛茸茸的靴子，能帮助你熬过最寒冷的冬天。
 
 ent-ClothingShoesBootsWinterSec = 安保冬靴
+    .desc = 毛茸茸的靴子，能帮助你熬过最寒冷的冬天。
 
 ent-ClothingShoesBootsWinterSyndicate = 辛迪加冬靴
     .desc = 结实耐用的重型靴子，看起来像是“辛迪加乐园”的周边商品。
@@ -48,10 +54,13 @@ ent-ClothingShoesBootsCowboyBrown = 棕色牛仔靴
     .desc = 带有叮当作响的马刺。
 
 ent-ClothingShoesBootsCowboyBlack = 黑色牛仔靴
+    .desc = 带有叮当作响的马刺。
 
 ent-ClothingShoesBootsCowboyWhite = 白色牛仔靴
+    .desc = 带有叮当作响的马刺。
 
 ent-ClothingShoesBootsCowboyFancy = 华丽牛仔靴
+    .desc = 带有叮当作响的马刺。
 
 ## color.yml
 

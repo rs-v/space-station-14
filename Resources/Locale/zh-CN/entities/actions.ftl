@@ -24,7 +24,7 @@ ent-ActionChangelingDevour = [color=red]吞噬[/color]
 ent-ActionChangelingTransform = [color=red]变形[/color]
     .desc = 变形并伪装成你已吞噬之人的身份。
 
-ent-ActionChangelingStore = DNA仓库
+ent-ActionChangelingStore = DNA商店
     .desc = 打开能力商店。
 
 ## crit.yml
@@ -91,6 +91,11 @@ ent-ActionEnergyKatanaDash = 武士刀冲刺
 
 ent-ActionRevertPolymorph = 还原
     .desc = 还原回原来的形态。
+
+## mime.yml
+
+ent-ActionMimeInvisibleWall = 创造隐形墙
+    .desc = 如果前方位置可放置，就在你面前创造一道隐形墙。
 
 ent-ActionPolymorphWizardSpider = 蜘蛛变形
     .desc = 将你变形为一只蜘蛛。
@@ -247,3 +252,103 @@ ent-ActionChameleonController = 控制服装
 
 ent-ActionIntrinsicStore = 商店
     .desc = 打开商店。
+
+## magic/projectile_spells.yml
+
+ent-ActionFireball = 火球术
+    .desc = 向点击位置发射一枚会爆炸的火球。
+
+ent-ActionFireballII = 火球术II
+    .desc = 发射一枚更快的火球！
+
+ent-ActionFireballIII = 火球术III
+    .desc = 西部最快的火球！
+
+## magic/teleport_spells.yml
+
+ent-ActionBlink = 闪烁
+    .desc = 传送到点击的位置。
+
+ent-ActionVoidApplause = 虚空喝彩
+    .desc = 拍动双手，与目标交换位置。
+
+## magic/forcewall_spells.yml
+
+ent-ActionForceWall = 力场墙
+    .desc = 创造一道魔法屏障。
+
+## magic/smoke_spell.yml
+
+ent-ActionSmoke = 烟雾
+    .desc = 在使用者周围召唤烟雾。
+
+## magic/touch_spells.yml
+
+ent-ActionSmite = 惩戒
+    .desc = 瞬间将目标轰成碎块。
+
+ent-ActionCluwne = 克卢恩的诅咒
+    .desc = 将某人变成克卢恩！
+
+ent-ActionSlippery = 湿滑斜坡
+    .desc = 让某人变得滑溜溜。
+
+## magic/repulse_spell.yml
+
+ent-ActionRepulse = 排斥
+    .desc = 将实体从施法者身边推开。
+
+## magic/spawn_spells.yml
+
+ent-ActionSpawnMagicarpSpell = 召唤魔法鲤鱼
+    .desc = 该法术会召唤三条魔法鲤鱼来协助你！它们也可能反过来攻击施法者。
+
+## magic/event_spells.yml
+
+ent-ActionSummonGhosts = 召唤幽灵
+    .desc = 让当前所有幽灵永久显形。
+
+ent-ActionSummonGuns = 召唤枪械
+    .desc = 人人有份AK47！在每个人面前放置一把随机枪械。
+
+ent-ActionSummonMagic = 召唤魔法
+    .desc = 在每个人面前放置一件随机魔法物品。肯定不会出事！
+
+## magic/rune_spells.yml
+
+ent-ActionFlashRune = 闪光符文
+    .desc = 召唤一道使用后会闪光的符文。
+
+ent-ActionExplosionRune = 爆炸符文
+    .desc = 召唤一道使用后会爆炸的符文。
+
+ent-ActionIgniteRune = 点燃符文
+    .desc = 召唤一道使用后会点燃目标的符文。
+
+ent-ActionStunRune = 击晕符文
+    .desc = 召唤一道使用后会击晕目标的符文。
+
+## magic/utility_spells.yml
+
+ent-ActionChargeSpell = 充能
+    .desc = 为你的魔杖恢复一次充能。
+
+## magic/knock_spell.yml
+
+ent-ActionKnock = 叩击
+    .desc = 该法术会打开附近的门。
+
+## magic/mindswap_spell.yml
+
+ent-ActionMindSwap = 心灵交换
+    .desc = 与另一个人交换身体！
+
+## magic/recall_spell.yml
+
+ent-ActionItemRecall = 标记物品
+    .desc = 标记一件手持物品，之后可将其召回到你的手中。
+
+## magic/animate_spell.yml
+
+ent-ActionAnimateSpell = 赋生
+    .desc = 让无生命的物体活起来！

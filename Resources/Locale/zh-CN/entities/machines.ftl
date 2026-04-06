@@ -1,8 +1,10 @@
 ## Machines/Computers/arcades.yml
 ent-SpaceVillainArcade = 太空恶棍街机
+    .desc = 一台街机。希望你今天手气够硬。
 
 ## Machines/Computers/base_structurecomputers.yml
 ent-BaseComputer = 电脑
+    .desc = 用于处理、显示和输入信息的终端设备。
 
 ## Machines/Computers/computers.yml
 ent-ComputerAlert = 大气警报电脑
@@ -235,21 +237,21 @@ ent-VendingMachineCoffee = Solar's Best Hot Drinks
     .desc = 煮沸供应，整个班次都保持热乎！
 ent-VendingMachineCola = Robust Softdrinks
     .desc = 由Robust工业有限公司提供的软饮料售货机。
-ent-VendingMachineColaRed = Space Cola Vendor
+ent-VendingMachineColaRed = Space Cola售货机
     .desc = 在太空中售卖可乐。
-ent-VendingMachineSpaceUp = Space-Up! Vendor
+ent-VendingMachineSpaceUp = Space-Up!售货机
     .desc = 尽情享受味觉的爆炸。
-ent-VendingMachineStarkist = Star-kist Vendor
+ent-VendingMachineStarkist = Star-kist售货机
     .desc = 液态星辰的味道。
-ent-VendingMachineShamblersJuice = Shambler's Juice Vendor
+ent-VendingMachineShamblersJuice = Shambler's Juice售货机
     .desc = ～给我来杯Shambler's果汁！～
-ent-VendingMachinePwrGame = Pwr Game Vendor
+ent-VendingMachinePwrGame = Pwr Game售货机
     .desc = 你想要的，我们都有。由Vlad沙拉店联合呈献。
-ent-VendingMachineDrGibb = Dr. Gibb Vendor
+ent-VendingMachineDrGibb = Dr. Gibb售货机
     .desc = 罐装的多种风味爆炸，就在这台售货机里！
-ent-VendingMachineSmite = Smite Vendor
+ent-VendingMachineSmite = Smite售货机
     .desc = 深受管理层青睐。
-ent-VendingMachineDinnerware = Plasteel Chef's Dinnerware Vendor
+ent-VendingMachineDinnerware = Plasteel Chef's餐具售货机
     .desc = 一台售卖厨房及餐厅设备的自动售货机。
 ent-VendingMachineMagivend = MagiVend
     .desc = 一台神奇的自动售货机。
@@ -269,7 +271,7 @@ ent-VendingMachineSeedsUnlocked = MegaSeed Servitor
     .desc = 当你急需种子时，这里毫无疑问是站内最佳的种子选购之地！
 ent-VendingMachineSnack = 贪多巧克力公司
     .desc = 由总部位于火星的贪多巧克力公司出品的零食售货机。
-ent-VendingMachineSustenance = Sustenance Vendor
+ent-VendingMachineSustenance = Sustenance售货机
     .desc = 依据纳米千能囚犯人道待遇法案第47-C条规定而设置的食品售货机。
 ent-VendingMachineSovietSoda = ВОДА
     .desc = 一台售卖甜味饮料的老式售货机。
@@ -285,7 +287,7 @@ ent-VendingMachineGames = Good Clean Fun
     .desc = 售卖那些舰长和人员主管大概不希望你在值班时摆弄的玩意儿。
 ent-VendingMachineChang = Mr. Chang
     .desc = 专门满足一切中式美食需求的自助餐机。
-ent-VendingMachineSalvage = Salvage Vendor
+ent-VendingMachineSalvage = Salvage售货机
     .desc = 矿工最好的朋友！
 ent-VendingMachineDonut = Monkin' Donuts
     .desc = 由Robust工业有限公司提供的甜甜圈售货机。
@@ -329,7 +331,7 @@ ent-VendingMachineViroDrobe = ViroDrobe
     .desc = 一台未经消毒、用于分发病毒学相关服装的机器。
 ent-VendingMachineCentDrobe = CentDrobe
     .desc = 独一无二的售货机，满足你一切中央指挥的穿搭需求！
-ent-VendingMachineHappyHonk = Happy Honk Dispenser
+ent-VendingMachineHappyHonk = Happy Honk分发机
     .desc = 由Honk公司制造的快乐哈萨饭盒分发机。
 ent-VendingMachinePride = Pride-O-Mat
     .desc = 一台充满骄傲的自动售货机。
@@ -393,6 +395,7 @@ ent-StationAiFixerComputer = AI修复终端
 ## frame.yml
 
 ent-MachineFrameDestroyed = 损毁的机器框架
+    .desc = 一台被彻底砸坏的机器框架，已经没有修复价值。
 
 ## techdiskterminal.yml
 
@@ -459,7 +462,7 @@ ent-BaseHardBomb = 硬炸弹
 
 ## chem_master.yml
 
-ent-ChemMaster = 化学大师 4000
+ent-ChemMaster = 化学大师4000
     .desc = 一台工业级化学处理机，附带药片与药瓶生产功能。
 
 ## cloning_machine.yml
@@ -479,7 +482,7 @@ ent-FatExtractor = 脂肪提取器
 
 ## flatpacker.yml
 
-ent-MachineFlatpacker = 平板打包机 1001
+ent-MachineFlatpacker = 平板打包机1001
     .desc = 一种工业设备，用于加快空间站内机器的组装速度。
 
 ## gravity_generator.yml
@@ -504,6 +507,7 @@ ent-HolopadBluespace = 蓝空全息板
 ## lathe.yml
 
 ent-BaseLathe = 车床
+    .desc = 一台用于将原材料加工成各类物品的制造机器。
 
 ent-Autolathe = 自动车床
     .desc = 使用金属和玻璃生产基础物品。能够处理蓝图以打印新配方。
@@ -556,7 +560,7 @@ ent-MedicalScanner = 医疗扫描仪
 ent-KitchenMicrowave = 微波炉
     .desc = 它简直是魔法。
 
-ent-SyndicateMicrowave = Donk Co. 微波炉
+ent-SyndicateMicrowave = Donk Co.微波炉
     .desc = 技术如此先进，仅需2.5秒就能烤好咚咔口袋！
 
 ## reagent_grinder.yml
@@ -575,6 +579,7 @@ ent-ResearchAndDevelopmentServer = 研发服务器
     .desc = 收录了空间站科学家们的全部知识。摧毁它会让科学家们一夜回到石器时代。你肯定不想看到那种场面吧？
 
 ent-BaseResearchAndDevelopmentPointSource = 基础研发点数来源
+    .desc = 一种用于产生研发点数的基础研究设备。
 
 ## salvage.yml
 
@@ -592,6 +597,7 @@ ent-VendingMachine = 自动售货机
     .desc = 只需加入资本主义！
 
 ent-VendingMachineWallmount = 自动售货机
+    .desc = 一台紧凑的壁挂式自动售货机。
 
 ent-VendingMachineTankDispenserEVA = 气罐分发机
     .desc = 一台用于分发气罐的自动售货机。

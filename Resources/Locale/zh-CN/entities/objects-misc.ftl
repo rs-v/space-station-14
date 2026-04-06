@@ -16,10 +16,13 @@ ent-BedsheetBase = 基础床单
     .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetBlack = 黑色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetBlue = 蓝色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetBrown = 棕色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetCaptain = 船长床单
     .desc = 上面印有纳米千能的标志，采用革命性的新型线材编织而成，保证对大多数非化学物质的渗透率仅为0.01%，深受现代船长们的青睐。
@@ -43,8 +46,10 @@ ent-BedsheetCult = 邪教床单
     .desc = 盖着它睡觉可能会梦见Nar'Sie。它看起来相当破旧，散发着诡异的微光。
 
 ent-BedsheetGreen = 绿色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetGrey = 灰色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetHOP = 人事主任床单
     .desc = 饰有钥匙徽章。专为那些难得的休息时刻准备，让你能抱着Ian安心入睡，而不用担心无线电里有人尖叫着找你。
@@ -53,6 +58,7 @@ ent-BedsheetHOS = 安保主任床单
     .desc = 饰有盾牌徽章。虽然罪恶永不眠，但你需要休息，不过你依然是法律！
 
 ent-BedsheetIan = Ian的床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetMedical = 医疗床单
     .desc = 医疗部常用的消毒毯。若站内有病毒学家，消毒状态将自动失效。
@@ -64,12 +70,16 @@ ent-BedsheetNT = 纳米千能床单
     .desc = 印有纳米千能的标志，散发着使命感的气息。
 
 ent-BedsheetOrange = 橙色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetPurple = 紫色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetQM = 物资主任的床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetRainbow = 彩虹床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetRD = 研究主任的床单
     .desc = 上面似乎印有一个烧杯标志，由防火材料制成。不过面对你日常见惯的那些火灾，它恐怕也护不住你。
@@ -78,18 +88,22 @@ ent-BedsheetBrigmedic = 狱医的床单
     .desc = 质量不比棉的差。
 
 ent-BedsheetRed = 红色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetSyndie = 辛迪加床单
     .desc = 上面印有辛迪加的标志，散发着邪恶的气息。
 
 ent-BedsheetUSA = 美国床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetWhite = 白色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ent-BedsheetWiz = 巫师的床单
     .desc = 这块特殊织物附有魔法，能让你度过一个充满魔力的夜晚。它甚至还会发光！
 
 ent-BedsheetYellow = 黄色床单
+    .desc = 一张出乎意料柔软的亚麻床单。
 
 ## books.yml
 
@@ -207,6 +221,7 @@ ent-BookIanCity = Ian与雷诺的冒险——探索城市
     .desc = 这是一本新书，书页平整，封面光洁。封面上绘有Ian和雷诺探索城市的彩色插图，背景是高楼大厦与熙攘的街道。Ian在前方带路，尾巴兴奋地摇摆着；雷诺紧随其后，耳朵竖起，双眼充满惊奇。书名《Ian与雷诺的冒险》以醒目的趣味字体呈现，副标题《探索城市》以较小字体印在下方。
 
 ent-BookIanArctic = Ian与雷诺的冒险——勇气与友谊的北极之旅
+    .desc = 这是一本新书，封面绘有Ian和雷诺在冰天雪地中并肩前行的画面，周围环绕着雪丘、浮冰与北极动物。书名以醒目的粗体字印在寒蓝色背景上，整体洋溢着冒险、勇气与友谊的氛围。
 
 ent-BookIanDesert = Ian与雷诺的冒险——探索神秘沙漠
     .desc = 这是一本新书，封面色彩丰富，以沙漠为背景描绘了Ian和雷诺的形象。封面上还展示了他们在冒险中遇到的各种动植物，如响尾蛇、郊狼、沙丘和绿洲。书名《Ian与雷诺的冒险》以醒目的粗体字印在封面显著位置，副标题《探索神秘沙漠》以较小字体位于其下。
@@ -253,16 +268,22 @@ ent-ProximitySensor = 接近传感器
     .desc = 感应近距离内的物体。
 
 ent-LeftArmBorg = 仿生人左臂
+    .desc = 一个仿生人左臂部件。
 
 ent-RightArmBorg = 仿生人右臂
+    .desc = 一个仿生人右臂部件。
 
 ent-LeftLegBorg = 仿生人左腿
+    .desc = 一个仿生人左腿部件。
 
 ent-RightLegBorg = 仿生人右腿
+    .desc = 一个仿生人右腿部件。
 
 ent-LightHeadBorg = 仿生人头部
+    .desc = 一个仿生人头部部件。
 
 ent-TorsoBorg = 仿生人躯干
+    .desc = 一个仿生人躯干部件。
 
 ## box.yml
 
@@ -276,6 +297,174 @@ ent-BoxHoPCircuitboards = 人事主任电路板手提袋
 ent-BoxHoSCircuitboards = 安保电路板手提袋
 ent-BoxQMCircuitboards = 货运电路板手提袋
 ent-BoxRDCircuitboards = 科研电路板手提袋
+ent-BoxCardboard = 纸板箱
+    .desc = 一个用来存放物品的纸板箱。
+ent-BoxPDA = PDA盒
+    .desc = 一盒备用PDA微型电脑。
+ent-BoxStamps = 印章盒
+    .desc = 一个装有印章的小盒子。
+ent-BoxHoPStamps = 人事主任印章盒
+ent-BoxQMStamps = 物资主任印章盒
+ent-BoxMRE = 单兵口粮
+    .desc = 一盒陈放数十年的军用剩余口粮。令人惊讶的是，它们居然没坏。
+ent-BoxInflatable = 充气墙盒
+    .desc = 充气墙不可用作漂浮装置。
+ent-BoxEncryptionKeyPassenger = 乘客加密密钥盒
+    .desc = 一盒备用加密密钥。
+ent-BoxLeadLined = 铅衬箱
+    .desc = 这个箱子能够阻碍有害辐射的传播。
+ent-BoxCandle = 蜡烛盒
+    .desc = 这个盒子经过专门塑形，只能用来装蜡烛。
+ent-BoxDarts = 飞镖盒
+    .desc = 一个装满彩色飞镖的盒子。
+ent-BoxEnvelope = 信封盒
+    .desc = 一个装满信封的盒子。
+ent-BoxUtensil = 餐具盒
+    .desc = 一个装满叉子和勺子的盒子。
+ent-BoxCleanerGrenades = 清洁手雷盒
+    .desc = 一个装满清洁手雷的盒子。
+ent-BoxAgrichem = NT“农业化学真有趣”套件
+    .desc = 为准备学习如何最大化农场产出的新手植物学家准备。这只褪色的盒子至少已有 50 年历史了。
+ent-BoxHandcuff = 手铐盒
+    .desc = 一个装满手铐的盒子。
+ent-BoxBeaker = 烧杯盒
+    .desc = 一个装满烧杯的盒子。
+ent-BoxSyringe = 注射器盒
+    .desc = 一个装满注射器的盒子。
+ent-BoxSurvival = 生存盒
+    .desc = 一个装有基础内供设备的盒子。
+ent-BoxHug = 拥抱盒
+    .desc = 专为敏感人士准备的特别盒子。
+ent-BoxMagazine = 弹匣盒
+    .desc = 一个装满弹匣的盒子。
+ent-BoxPillCanister = 药罐盒
+    .desc = 一个装满药罐的盒子。
+ent-BoxBottle = 玻璃瓶盒
+    .desc = 一个装满玻璃瓶的盒子。
+ent-BoxSterileMask = 无菌口罩盒
+    .desc = 这个盒子装有无菌医用口罩。
+ent-BoxLatexGloves = 乳胶手套盒
+    .desc = 内含无菌乳胶手套。
+ent-BoxNitrileGloves = 丁腈手套盒
+    .desc = 内含无菌丁腈手套。比乳胶更好。
+ent-BoxBodyBag = 裹尸袋盒
+    .desc = 内含裹尸袋。
+ent-BoxVial = 小瓶盒
+    .desc = 一个装满小瓶的盒子。
+ent-BoxZiptie = 扎带盒
+    .desc = 一个装满扎带的盒子。
+ent-BoxFlashbang = 闪光震撼弹盒
+    .desc = 警告：这些装置极其危险，反复使用可能导致失明或失聪。
+ent-BoxStinger = 钉刺手雷盒
+    .desc = 一个装满钉刺手雷的盒子。快散开！
+ent-BoxTearGas = 催泪瓦斯手雷盒
+    .desc = 一个装满催泪瓦斯手雷的盒子。记得屏住呼吸。
+ent-BoxSechud = 安保HUD盒
+    .desc = 一盒安保HUD眼镜。
+ent-BoxSecglasses = 安保眼镜盒
+    .desc = 一盒安保眼镜。
+ent-BoxSunglasses = 墨镜盒
+    .desc = 一盒酷炫的防闪墨镜。
+ent-BoxForensicPad = 鉴识垫盒
+    .desc = 一盒鉴识垫。
+ent-BoxDetonator = 引爆器盒
+    .desc = 一盒爆炸引爆器和触发器。
+ent-BoxMagazinePistolCaselessRifle = .25无壳弹匣盒
+    .desc = 一个装满.25无壳弹匣的盒子。
+ent-BoxMagazinePistolCaselessRiflePractice = .25无壳训练弹匣盒
+    .desc = 一个装满.25无壳训练弹匣的盒子。
+ent-BoxMagazineLightRifle = .30步枪弹匣盒
+    .desc = 一个装满.30步枪弹匣的盒子。
+ent-BoxMagazineLightRiflePractice = .30步枪训练弹匣盒
+    .desc = 一个装满.30步枪训练弹匣的盒子。
+ent-BoxMagazinePistolSubMachineGunTopMounted = WT550 .35自动弹匣盒
+    .desc = 一个装满WT550 .35自动弹匣的盒子。
+ent-BoxMagazinePistol = 手枪 .35自动弹匣盒
+    .desc = 一个装满手枪.35自动弹匣的盒子。
+ent-BoxMagazinePistolPractice = 手枪 .35自动训练弹匣盒
+    .desc = 一个装满手枪.35自动训练弹匣的盒子。
+ent-BoxMagazinePistolHighCapacity = 机器手枪 .35自动弹匣盒
+    .desc = 一个装满机器手枪.35自动弹匣的盒子。
+ent-BoxMagazinePistolHighCapacityPractice = 机器手枪 .35自动训练弹匣盒
+    .desc = 一个装满机器手枪.35自动训练弹匣的盒子。
+ent-BoxMagazinePistolSubMachineGun = SMG .35自动弹匣盒
+    .desc = 一个装满SMG .35自动弹匣的盒子。
+ent-BoxMagazinePistolSubMachineGunPractice = SMG .35自动训练弹匣盒
+    .desc = 一个装满SMG .35自动训练弹匣的盒子。
+ent-BoxMagazineShotgun = .50霰弹弹鼓盒
+    .desc = 一个装满.50霰弹弹鼓的盒子。
+ent-BoxMagazineShotgunBeanbag = .50豆袋弹弹鼓盒
+    .desc = 一个装满.50豆袋弹弹鼓的盒子。
+ent-BoxMagazineShotgunSlug = .50独头弹弹鼓盒
+    .desc = 一个装满.50独头弹弹鼓的盒子。
+ent-BoxMagazineShotgunIncendiary = .50燃烧弹弹鼓盒
+    .desc = 一个装满.50燃烧弹弹鼓的盒子。
+ent-BoxMagazineRifle = .20步枪弹匣盒
+    .desc = 一个装满.20步枪弹匣的盒子。
+ent-BoxMagazineRiflePractice = .20步枪训练弹匣盒
+    .desc = 一个装满.20步枪训练弹匣的盒子。
+ent-BoxLightbulbColorfulMixed = 混合彩色灯泡盒
+ent-BoxLighttubeColorfulMixed = 混合彩色灯管盒
+ent-BoxSurvivalEngineering = 扩容生存盒
+    .desc = 一个装有基础内供设备的盒子。这个贴了标签的版本内含扩容气罐。
+ent-BoxSurvivalSecurity = 安保生存盒
+    .desc = 一个装有基础内供设备的盒子。
+ent-BoxSurvivalMedical = 医疗生存盒
+    .desc = 一个装有基础内供设备的盒子。
+ent-BoxSurvivalSyndicate = 辛迪加扩容生存盒
+    .desc = 一个装有基础内供设备的盒子。这个贴了标签的版本内含扩容气罐。
+ent-BoxSurvivalMilitaryDouble = 军用双联生存盒
+    .desc = 一个装有基础内供设备的盒子。这个贴了标签的版本内含双联扩容气罐。
+ent-BoxCardboardSmall = 小纸板箱
+    .desc = 一个用于存放物品的小纸板箱。
+ent-BoxMousetrap = 捕鼠器盒
+    .desc = 这个盒子里装满了捕鼠器。小心别把手夹进去。
+ent-BoxLightbulb = 灯泡盒
+    .desc = 这个盒子的内部形状经过设计，只能放入灯管和灯泡。
+ent-BoxWarmLightbulb = 暖光灯泡盒
+ent-BoxLighttube = 灯管盒
+ent-BoxLightMixed = 混合灯具盒
+ent-BoxLighttubeHoliday = 节日灯管盒
+ent-BoxID = ID卡盒
+    .desc = 一盒备用空白ID卡。
+ent-BoxHeadset = 耳机盒
+    .desc = 一盒备用乘客耳机。
+ent-BoxMesonScanners = 介子护目镜盒
+    .desc = 一盒备用介子护目镜。
+ent-BoxPerformer = 初音未来日礼包
+    .desc = 初音未来日快乐！
+ent-BoxFlare = 信号弹盒
+    .desc = 一盒信号弹。开派对啦。
+ent-BoxTrashbag = 垃圾袋盒
+    .desc = 一盒垃圾袋。清洁工快乐的声音。
+ent-BoxEncryptionKeyCargo = 货运加密密钥盒
+ent-BoxEncryptionKeyEngineering = 工程加密密钥盒
+ent-BoxEncryptionKeyMedicalScience = 医疗科研加密密钥盒
+ent-BoxEncryptionKeyMedical = 医疗加密密钥盒
+ent-BoxEncryptionKeyRobo = 机器人工程加密密钥盒
+ent-BoxEncryptionKeyScience = 科研加密密钥盒
+ent-BoxEncryptionKeySecurity = 安保加密密钥盒
+ent-BoxEncryptionKeyService = 服务加密密钥盒
+ent-BoxEncryptionKeySyndie = 辛迪加加密密钥盒
+    .desc = 买一送一的辛迪加加密密钥。为方便使用已做微型化处理。
+ent-BoxCandleSmall = 小蜡烛盒
+ent-ElectricalDisruptionKit = 电力干扰套件
+ent-ChemicalSynthesisKit = 化学合成套件
+    .desc = 为有志于投身化学事业的人准备的入门套件，包含两瓶维斯汀，满足你的一切犯罪需求！
+ent-ThrowingKnivesKit = 飞刀套件
+    .desc = 一套 8 把辛迪加品牌飞刀，非常适合插进受害者体内。
+ent-BoxDeathRattleImplants = 死亡哀鸣植入体盒
+    .desc = 为整支小队准备的六个死亡哀鸣植入体。
+ent-CombatBakeryKit = 战斗烘焙套件
+    .desc = 一套装有秘密烘焙武器的工具包。
+ent-SyndimovCircuitKit = Syndimov电路套件
+    .desc = 一套包含Syndimov法则组电子板和辛迪加ID卡的工具包。
+ent-HoloparasiteInfo = 全息寄生体条款与细则
+    .desc = 用于显示文档的微型体积投影装置，不禁让人怀疑赛博太阳的法务预算是不是高得离谱。
+ent-PaperAgrichemManual = NT“农业化学真有趣”手册
+    .desc = 套件附带的那张单页说明书。
+ent-PaperWrittenCombatBakeryKit = 战斗烘焙套件说明书
+    .desc = 阅读后食用。
 
 ## brb_sign.yml
 
@@ -285,9 +474,22 @@ ent-BrbSign = 暂离牌
 ## briefcases.yml
 
 ent-BriefcaseBrown = 棕色公文包
+    .desc = 一只结实的棕色公文包。
 
 ent-BriefcaseWeapon = 安全武器箱
     .desc = 对有志成为佣兵的人来说非常实用，无论你是为公司、国家还是其他任何势力效力。当然，用来装一份超大号煎蛋卷也不错。
+
+ent-BriefcaseWeaponHushpupFilled = 安全Hushpup箱
+    .desc = 一只装有Hushpup消音手枪的安全公文包。
+
+ent-BriefcaseWeaponC20Filled = 安全C-20r箱
+    .desc = 一只装有C-20r冲锋枪的安全公文包。
+
+ent-BriefcaseWeaponBulldogFilled = 安全Bulldog箱
+    .desc = 一只装有Bulldog霰弹枪的安全公文包。
+
+ent-BriefcaseWeaponChinaLakeFilled = 安全China-Lake箱
+    .desc = 一只装有China-Lake榴弹发射器的安全公文包。
 
 ## broken_bottle.yml
 
@@ -301,53 +503,77 @@ ent-SyndicateBusinessCard = 辛迪加名片
 
 ## candles.yml
 
+ent-LoadoutDummyCandles = 三支蜡烛
+    .desc = 一组用于秘密仪式的彩色蜡烛！
+
 ent-Candle = 蜡烛
     .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleRed = 红色蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleBlue = 蓝色蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleBlack = 黑色蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleGreen = 绿色蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandlePurple = 紫色蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleSmall = 小蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleRedSmall = 红色小蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleBlueSmall = 蓝色小蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleBlackSmall = 黑色小蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleGreenSmall = 绿色小蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandlePurpleSmall = 紫色小蜡烛
+    .desc = 一根细灯芯贯穿在油脂中。
 
 ent-CandleInfinite = 魔法蜡烛
     .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleRedInfinite = 魔法红色蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleBlueInfinite = 魔法蓝色蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleBlackInfinite = 魔法黑色蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleGreenInfinite = 魔法绿色蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandlePurpleInfinite = 魔法紫色蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleRedSmallInfinite = 魔法红色小蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleBlueSmallInfinite = 魔法蓝色小蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleBlackSmallInfinite = 小型魔法黑蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandleGreenSmallInfinite = 小型魔法绿蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ent-CandlePurpleSmallInfinite = 小型魔法紫蜡烛
+    .desc = 不知是魔法还是高科技，这支蜡烛永不熄灭。不过，它的火焰却相当冰冷。
 
 ## candy_bowl.yml
 
@@ -362,6 +588,7 @@ ent-CandyBucket = 糖果桶
 ## carpets.yml
 
 ent-FloorCarpetItemRed = 地毯
+    .desc = 看起来很高级的步行表面。
 
 ## cds.yml
 
@@ -408,6 +635,7 @@ ent-BorgFireExtinguisher = 机动喷射器
     .desc = 基于灭火器技术，机动喷射器是……好吧没错，它就是个更大的灭火器。
 
 ent-ExtinguisherSpray = 灭火喷雾
+    .desc = 一罐用于扑灭小型火情的灭火喷雾。
 
 ent-FireExtinguisherMini = 便携式灭火器
     .desc = 一款轻巧紧凑的玻璃纤维框架灭火器。它的装水量比它的“大哥”要少。
@@ -418,6 +646,7 @@ ent-SelfRechargingFireExtinguisher = 自充式灭火器
 ## fluff_lights.yml
 
 ent-BaseLamp = 提灯
+    .desc = 一种发光装置。
 
 ent-Lamp = 灯
     .desc = 一种发光装置。
@@ -440,6 +669,7 @@ ent-FloodlightBroken = 损坏的泛光灯
 ## folders.yml
 
 ent-BoxFolderNuclearCodes = 核弹密码文件夹
+    .desc = 一份装有核弹认证码的机密文件夹。
 
 ent-BoxFolderBaseEmpty = 文件夹
     .desc = 塞满了绝密文书的文件夹。
@@ -507,140 +737,206 @@ ent-IDCardStandard = 身份识别卡
     .desc = 用于进入空间站各区域的必备卡片。
 
 ent-PassengerIDCard = 乘客ID卡
+    .desc = 一张标识乘客身份的ID卡。
 
 ent-CaptainIDCard = 船长ID卡
+    .desc = 一张标识船长身份的ID卡。
 
 ent-HoPIDCard = 人事主任ID卡
+    .desc = 一张标识人事主任身份的ID卡。
 
 ent-CEIDCard = 首席工程师ID卡
+    .desc = 一张标识首席工程师身份的ID卡。
 
 ent-CMOIDCard = 首席医疗官ID卡
+    .desc = 一张标识首席医疗官身份的ID卡。
 
 ent-RDIDCard = 研究主任ID卡
+    .desc = 一张标识研究主任身份的ID卡。
 
 ent-HoSIDCard = 安保主任ID卡
+    .desc = 一张标识安保主任身份的ID卡。
 
 ent-QuartermasterIDCard = 物资主任ID卡
+    .desc = 一张标识物资主任身份的ID卡。
 
 ent-TechnicalAssistantIDCard = 技术助理ID卡
+    .desc = 一张标识技术助理身份的ID卡。
 
 ent-EngineeringIDCard = 工程师ID卡
+    .desc = 一张标识工程师身份的ID卡。
 
 ent-AtmosIDCard = 大气技术员ID卡
+    .desc = 一张标识大气技术员身份的ID卡。
 
 ent-SeniorEngineerIDCard = 高级工程师ID卡
+    .desc = 一张标识高级工程师身份的ID卡。
 
 ent-MedicalInternIDCard = 医疗实习生ID卡
+    .desc = 一张标识医疗实习生身份的ID卡。
 
 ent-MedicalIDCard = 医疗人员ID卡
+    .desc = 一张标识医疗人员身份的ID卡。
 
 ent-ParamedicIDCard = 急救员ID卡
+    .desc = 一张标识急救员身份的ID卡。
 
 ent-ChemistIDCard = 化学家ID卡
+    .desc = 一张标识化学家身份的ID卡。
 
 ent-PsychologistIDCard = 心理医生ID卡
+    .desc = 一张标识心理医生身份的ID卡。
 
 ent-SeniorPhysicianIDCard = 主治医师ID卡
+    .desc = 一张标识主治医师身份的ID卡。
 
 ent-ResearchAssistantIDCard = 研究助理ID卡
+    .desc = 一张标识研究助理身份的ID卡。
 
 ent-ResearchIDCard = 科研ID卡
+    .desc = 一张标识科研人员身份的ID卡。
 
 ent-SeniorResearcherIDCard = 高级研究员ID卡
+    .desc = 一张标识高级研究员身份的ID卡。
 
 ent-SecurityCadetIDCard = 安保学员ID卡
+    .desc = 一张标识安保学员身份的ID卡。
 
 ent-SecurityIDCard = 安保ID卡
+    .desc = 一张标识安保人员身份的ID卡。
 
 ent-WardenIDCard = 典狱官ID卡
+    .desc = 一张标识典狱官身份的ID卡。
 
 ent-DetectiveIDCard = 侦探ID卡
+    .desc = 一张标识侦探身份的ID卡。
 
 ent-BrigmedicIDCard = 狱医ID卡
+    .desc = 一张标识狱医身份的ID卡。
 
 ent-SeniorOfficerIDCard = 高级安保官ID卡
+    .desc = 一张标识高级安保官身份的ID卡。
 
 ent-ServiceWorkerIDCard = 服务人员ID卡
+    .desc = 一张标识服务人员身份的ID卡。
 
 ent-ClownIDCard = 小丑ID卡
+    .desc = 一张标识小丑身份的ID卡。
 
 ent-MimeIDCard = 哑剧演员ID卡
+    .desc = 一张标识哑剧演员身份的ID卡。
 
 ent-MusicianIDCard = 音乐家ID卡
+    .desc = 一张标识音乐家身份的ID卡。
 
 ent-ChaplainIDCard = 牧师ID卡
+    .desc = 一张标识牧师身份的ID卡。
 
 ent-JanitorIDCard = 清洁工ID卡
+    .desc = 一张标识清洁工身份的ID卡。
 
 ent-BartenderIDCard = 酒保ID卡
+    .desc = 一张标识酒保身份的ID卡。
 
-ent-PunPunIDCard = Pun Pun ID卡
+ent-PunPunIDCard = Pun PunID卡
+    .desc = 一张标识Pun Pun身份的ID卡。
 
 ent-ChefIDCard = 厨师ID卡
+    .desc = 一张标识厨师身份的ID卡。
 
 ent-BotanistIDCard = 植物学家ID卡
+    .desc = 一张标识植物学家身份的ID卡。
 
 ent-LibrarianIDCard = 图书管理员ID卡
+    .desc = 一张标识图书管理员身份的ID卡。
 
 ent-LawyerIDCard = 律师ID卡
+    .desc = 一张标识律师身份的ID卡。
 
 ent-ReporterIDCard = 记者ID卡
+    .desc = 一张标识记者身份的ID卡。
 
 ent-BoxerIDCard = 拳击手ID卡
+    .desc = 一张标识拳击手身份的ID卡。
 
 ent-ZookeeperIDCard = 饲养员ID卡
+    .desc = 一张标识饲养员身份的ID卡。
 
 ent-CargoIDCard = 货运ID卡
+    .desc = 一张标识货运人员身份的ID卡。
 
 ent-SalvageIDCard = 打捞ID卡
+    .desc = 一张标识打捞人员身份的ID卡。
 
 ent-PrisonerIDCard = 囚犯ID卡
     .desc = 一张为卑劣囚犯统一印制的通用ID卡。
+    .desc = 一张为卑劣囚犯统一印制的通用ID卡。
 
-ent-CluwneIDCard = Cluwne ID卡
+ent-CluwneIDCard = 克卢恩ID卡
+    .desc = 一张标识克卢恩身份的ID卡。
 
 ent-VisitorIDCard = 访客ID卡
+    .desc = 一张标识访客身份的ID卡。
 
 ent-SyndicateIDCard = 辛迪加ID卡
+    .desc = 一张标识辛迪加成员身份的ID卡。
 
 ent-SyndiOperativeIDCard = 辛迪加特工ID卡
+    .desc = 一张标识辛迪加特工身份的ID卡。
 
 ent-SyndiCorpsmanIDCard = 辛迪加医疗兵ID卡
+    .desc = 一张标识辛迪加医疗兵身份的ID卡。
 
 ent-SyndiCommanderIDCard = 辛迪加指挥官ID卡
+    .desc = 一张标识辛迪加指挥官身份的ID卡。
 
 ent-NinjaIDCard = 忍者ID卡
+    .desc = 一张标识忍者身份的ID卡。
 
 ent-PirateIDCard = 海盗ID卡
+    .desc = 一张标识海盗身份的ID卡。
 
 ent-XenoborgIDCard = 异星机兵ID卡
+    .desc = 一张标识异星机兵身份的ID卡。
 
 ent-WizardIDCard = 巫师ID卡
+    .desc = 一张标识巫师身份的ID卡。
 
 ent-CentcomIDCard = 指挥部军官ID卡
+    .desc = 一张标识中央指挥部军官身份的ID卡。
 
 ent-ERTLeaderIDCard = ERT队长ID卡
+    .desc = 一张标识ERT队长身份的ID卡。
 
 ent-ERTChaplainIDCard = ERT牧师ID卡
+    .desc = 一张标识ERT牧师身份的ID卡。
 
 ent-ERTEngineerIDCard = ERT工程师ID卡
+    .desc = 一张标识ERT工程师身份的ID卡。
 
-ent-ERTJanitorIDCard = ERT 清洁工 ID卡
+ent-ERTJanitorIDCard = ERT清洁工ID卡
+    .desc = 一张标识ERT清洁工身份的ID卡。
 
-ent-ERTMedicIDCard = ERT 医疗兵 ID卡
+ent-ERTMedicIDCard = ERT医疗兵ID卡
+    .desc = 一张标识ERT医疗兵身份的ID卡。
 
-ent-ERTSecurityIDCard = ERT 安保 ID卡
+ent-ERTSecurityIDCard = ERT安保ID卡
+    .desc = 一张标识ERT安保人员身份的ID卡。
 
-ent-CentcomIDCardDeathsquad = 死亡小队 ID卡
+ent-CentcomIDCardDeathsquad = 死亡小队ID卡
+    .desc = 一张标识死亡小队成员身份的ID卡。
 
-ent-CBURNIDcard = CBURN ID卡
+ent-CBURNIDcard = CBURNID卡
+    .desc = 一张标识CBURN成员身份的ID卡。
 
-ent-UniversalIDCard = 万能 ID卡
-    .desc = 一张能赋予你超乎想象权限的 ID 卡。
+ent-UniversalIDCard = 万能ID卡
+    .desc = 一张能赋予你超乎想象权限的ID卡。
+    .desc = 一张能赋予你超乎想象权限的ID卡。
 
 ## implanters.yml
 
 ent-BaseImplanter = 植入器
+    .desc = 一种用于将皮下植入体注入体内的专用注射器。
 
 ent-Implanter = 植入体提取器
     .desc = 一种两用注射器，专为移除特定皮下植入体而设计。提取出的植入体会保存在内部，以便重新注射。警告：操作失误（如选择不存在的植入体类型）将对操作者造成严重的基因创伤。
@@ -649,46 +945,67 @@ ent-BaseImplantOnlyImplanterSyndi = 辛迪加植入器
     .desc = 一种紧凑型一次性注射器，专用于皮下植入体的注射。使用后请务必用肥皂仔细刷洗，以清除残留的DNA！
 
 ent-SadTromboneImplanter = 悲伤长号植入器
+    .desc = 一种会在你倒霉时播放悲伤长号声的植入器。
 
 ent-LightImplanter = 发光植入器
+    .desc = 一种能让宿主发出光亮的植入器。
 
 ent-BikeHornImplanter = 自行车喇叭植入器
+    .desc = 一种能让宿主发出自行车喇叭声的植入器。
 
 ent-TrackingImplanter = 追踪植入器
+    .desc = 一种可用于追踪宿主位置的植入器。
 
 ent-StorageImplanter = 储物植入器
+    .desc = 一种能在体内隐藏小型物品的植入器。
 
 ent-FreedomImplanter = 自由植入器
+    .desc = 一种能帮助宿主摆脱束缚的植入器。
 
 ent-RadioImplanter = 辛迪加无线电植入器
+    .desc = 一种可让宿主接入辛迪加无线电频道的植入器。
 
 ent-UplinkImplanter = 上行链路植入器
+    .desc = 一种将上行链路隐藏在宿主体内的植入器。
 
 ent-EmpImplanter = EMP植入器
+    .desc = 一种可释放电磁脉冲的植入器。
 
 ent-ScramImplanter = 紧急传送植入器
+    .desc = 一种能在紧急情况下将宿主传送离开的植入器。
 
 ent-DnaScramblerImplanter = DNA扰乱植入器
+    .desc = 一种可扰乱宿主DNA特征的植入器。
 
 ent-ChameleonControllerImplanter = 变色龙控制植入器
+    .desc = 一种用于控制变色龙装备的植入器。
 
 ent-VoiceMaskImplanter = 身份伪装植入器
+    .desc = 一种可改变宿主声音的植入器。
 
 ent-MicroBombImplanter = 微型炸弹植入器
+    .desc = 一种会在宿主死亡时引爆的小型炸弹植入器。
 
 ent-MacroBombImplanter = 大型炸弹植入器
+    .desc = 一种会在宿主死亡时引发大规模爆炸的植入器。
 
 ent-DeathRattleImplanter = 死亡喘息植入器
+    .desc = 一种会在宿主死亡时发出信号的植入器。
 
 ent-DeathAcidifierImplanter = 死亡酸化植入器
+    .desc = 一种会在宿主死亡时迅速酸蚀尸体的植入器。
 
 ent-FakeMindShieldImplanter = 伪造的心灵护盾植入器
+    .desc = 一种看起来像心灵护盾、实则只是伪装的植入器。
 
 ent-MindShieldImplanter = 心灵护盾植入器
+    .desc = 一种用于保护宿主免受敌对洗脑影响的植入器。
 
 ent-RadioImplanterCentcomm = 中央指挥部无线电植入器
+    .desc = 一种可让宿主接入中央指挥部无线电频道的植入器。
 
 ent-DeathRattleImplanterCentcomm = 中央指挥部死亡信号植入器
+    .desc = 一种会在宿主死亡时向中央指挥部发出信号的植入器。
 
 ## improvised_gun_parts.yml
 
@@ -715,17 +1032,21 @@ ent-FleshKudzu = 肌腱
     .desc = 一簇生长迅速的肉质肌腱。你为什么停下来看它？！
 
 ent-ShadowKudzu = 暗雾
+    .desc = 一团迅速蔓延的诡异暗雾。你为什么停下来看它？！
 
 ent-ShadowKudzuWeak = 薄雾
+    .desc = 一缕逐渐聚拢的阴冷薄雾。最好别让它继续扩散。
 
 ## land_mine.yml
 
 ent-LandMineKickUnarmed = 踢雷
+    .desc = 一枚会把不幸家伙狠狠踢飞的地雷。
 
 ent-LandMineModularUnarmed = 模块化地雷
     .desc = 这货可能内置了各种危险装置。也可能只是个自行车喇叭。
 
 ent-LandMineExplosiveUnarmed = 爆炸地雷
+    .desc = 一枚会在触发时猛烈爆炸的地雷。
 
 ## machine_parts.yml
 
@@ -761,6 +1082,7 @@ ent-SyndicateSpongeBox = 猴块盒
     .desc = Drymate牌猴块。只需加水！
 
 ent-SyndicateSpongeWrapped = 猴块
+    .desc = 拆开包装即可获得猴块。
 
 ## paper.yml
 
@@ -782,8 +1104,8 @@ ent-PaperCaptainsThoughts = 站长随笔
 ent-PaperCargoInvoice = 货运发票
     .desc = 官僚主义的一个基本单位。
 
-ent-PaperNanoTaskItem = NanoTask 任务单
-    .desc = 一张打印的 NanoTask 任务单。可插入你的 PDA 以将其添加至任务列表。
+ent-PaperNanoTaskItem = NanoTask任务单
+    .desc = 一张打印的NanoTask任务单。可插入你的PDA以将其添加至任务列表。
 
 ent-PaperCargoBountyManifest = 悬赏清单
     .desc = 一张纸质标签，用于标记货箱内含有悬赏物品。出售贴有此标签的货箱即可完成悬赏。
@@ -795,6 +1117,7 @@ ent-PaperCNCSheet = 角色卡
     .desc = 用于记录你的《鲤鱼与地牢》角色的表格。
 
 ent-NukeCodePaper = 核弹认证码
+    .desc = 一张写有核弹认证码的机密纸条。
 
 ent-TraitorCodePaper = 辛迪加暗号
     .desc = 一份泄露的暗号，或许能借此与辛迪加取得联系。
@@ -861,42 +1184,61 @@ ent-RubberStampBase = 通用橡皮图章
     .desc = 用于在重要文件上盖章的橡皮图章。
 
 ent-RubberStampBaseAlt = 备用橡皮图章
+    .desc = 用于在重要文件上盖章的备用橡皮图章。
 
 ent-RubberStampCaptain = 站长橡皮图章
+    .desc = 用于在重要文件上盖章的站长橡皮图章。
 
 ent-RubberStampCentcom = 中央指挥部橡皮图章
+    .desc = 用于在重要文件上盖章的中央指挥部橡皮图章。
 
 ent-RubberStampChaplain = 牧师橡皮图章
+    .desc = 用于在重要文件上盖章的牧师橡皮图章。
 
 ent-RubberStampLawyer = 律师橡皮图章
+    .desc = 用于在重要文件上盖章的律师橡皮图章。
 
 ent-RubberStampClown = 小丑橡皮图章
+    .desc = 用于在重要文件上盖章的小丑橡皮图章。
 
 ent-RubberStampCE = 首席工程师橡皮图章
+    .desc = 用于在重要文件上盖章的首席工程师橡皮图章。
 
 ent-RubberStampCMO = 首席医疗官橡皮图章
+    .desc = 用于在重要文件上盖章的首席医疗官橡皮图章。
 
 ent-RubberStampHop = 人事主任橡皮图章
+    .desc = 用于在重要文件上盖章的人事主任橡皮图章。
 
 ent-RubberStampHos = 安保主任橡皮图章
+    .desc = 用于在重要文件上盖章的安保主任橡皮图章。
 
 ent-RubberStampMime = 哑剧演员橡皮图章
+    .desc = 用于在重要文件上盖章的哑剧演员橡皮图章。
 
 ent-RubberStampQm = 物资主任橡皮图章
+    .desc = 用于在重要文件上盖章的物资主任橡皮图章。
 
 ent-RubberStampRd = 研究主任橡皮图章
+    .desc = 用于在重要文件上盖章的研究主任橡皮图章。
 
 ent-RubberStampTrader = 商人橡皮图章
+    .desc = 用于在重要文件上盖章的商人橡皮图章。
 
 ent-RubberStampSyndicate = 辛迪加橡皮图章
+    .desc = 用于在重要文件上盖章的辛迪加橡皮图章。
 
 ent-RubberStampWarden = 典狱官橡皮图章
+    .desc = 用于在重要文件上盖章的典狱官橡皮图章。
 
 ent-RubberStampApproved = “批准”橡皮图章
+    .desc = 用于在文件上盖下“批准”的橡皮图章。
 
 ent-RubberStampDenied = “驳回”橡皮图章
+    .desc = 用于在文件上盖下“驳回”的橡皮图章。
 
 ent-RubberStampDetective = 侦探橡皮图章
+    .desc = 用于在重要文件上盖章的侦探橡皮图章。
 
 ent-RubberStampGreytide = 灰潮的橡皮印章
     .desc = 用于在重要文件上盖章的橡皮印章。光是看着它，就仿佛被潮水淹没……
@@ -994,208 +1336,310 @@ ent-DeathRattleImplantCentcomm = 中央指挥部濒死警报植入物
 ## tiles.yml
 
 ent-FloorTileItemSteelCheckerDark = 深色棋盘格钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelCheckerLight = 浅色棋盘格钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDark = 深色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkDiagonalMini = 深色斜纹迷你钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkDiagonal = 深色斜纹钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkHerringbone = 深色人字形钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkMini = 深色迷你钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkMono = 深色纯色钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkPavement = 深色钢铺路砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkPavementVertical = 深色竖向钢铺路砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkSlatsContinuous = 深色连续板条钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkVerticalSlatsBordered = 深色镶边竖向板条钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkHorizontalSlatsBordered = 深色镶边横向板条钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemDarkOffset = 错位深色钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteel = 钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelOffset = 错位钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelDiagonalMini = 斜纹迷你钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelDiagonal = 斜纹钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelSlatsContinuous = 连续板条钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelVerticalSlatsBordered = 竖向镶边板条钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelHorizontalSlatsBordered = 钢制横向镶边条纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelHerringbone = 钢制鱼骨纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelMini = 钢制小型地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelMono = 钢制纯色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelPavement = 钢制路面砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSteelPavementVertical = 钢制纵向路面砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhite = 白色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteOffset = 白色错位钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteDiagonalMini = 白色钢制斜纹小型地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteDiagonal = 白色钢制斜纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteHerringbone = 白色钢制鱼骨纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteMini = 白色钢制小型地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteMono = 白色钢制纯色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhitePavement = 白色钢制路面砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhitePavementVertical = 白色钢制纵向路面砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteVerticalSlatsBordered = 白色钢制纵向镶边条纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteSlatsContinuous = 白色钢制连续条纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWhiteHorizontalSlatsBordered = 白色钢制横向镶边条纹地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemMetalDiamond = 钢地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWood = 木地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemTechmaint = 科技维修地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemTechmaintDark = 深色科技维修地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemMono = 单色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemLino = 油毡地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemBrassFilled = 实心黄铜板
+    .desc = 一块用于铺设地面的黄铜板。
 
 ent-FloorTileItemBrassReebe = 光滑黄铜板
+    .desc = 一块用于铺设地面的黄铜板。
 
 ent-FloorTileItemDirty = 脏污地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemElevatorShaft = 电梯井地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemRockVault = 岩石金库地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemBlue = 蓝色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemLime = 青柠色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemMining = 采矿地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemMiningDark = 深色采矿地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemMiningLight = 浅色采矿地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemFreezer = 冷库地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemShowroom = 展厅地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemHydro = 水培地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemBar = 酒吧地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemClown = 小丑地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemMime = 哑剧演员地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemKitchen = 厨房地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemLaundry = 洗衣房地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemConcrete = 混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemConcreteMono = 单色混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemConcreteSmooth = 平滑混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemGrayConcrete = 灰色混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemGrayConcreteMono = 灰色单色混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemGrayConcreteSmooth = 灰色平滑混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemOldConcrete = 旧混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemOldConcreteMono = 旧单色混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemOldConcreteSmooth = 旧平滑混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemIronsandConcrete = 铁砂混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemIronsandConcreteMono = 铁砂单色混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemIronsandConcreteSmooth = 铁砂平滑混凝土地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemArcadeBlue = 蓝色街机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemArcadeBlue2 = 蓝色街机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemArcadeRed = 红色街机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemEighties = 八十年代地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemCarpetClown = 小丑地毯地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemCarpetOffice = 办公室地毯地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemBoxing = 拳击台地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemGym = 健身房地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttleWhite = 白色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttleBlue = 蓝色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttleOrange = 橙色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttlePurple = 紫色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttleRed = 红色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttleGrey = 灰色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemShuttleBlack = 黑色穿梭机地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemGold = 金色地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemSilver = 银色地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemGCircuit = 绿色电路地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemBCircuit = 蓝色电路地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemRCircuit = 红色电路地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemGrass = 草地地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemGrassJungle = 丛林草地地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemSnow = 雪地地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemWoodPattern = 木纹地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemFlesh = 血肉地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemSteelMaint = 维修钢地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemGratingMaint = 维修格栅地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemWeb = 蛛网地砖
+    .desc = 一块用于铺设地面的地砖。
 
 ent-FloorTileItemAstroGrass = 太空草皮
     .desc = 仿真草皮，能遮盖电线，甚至还附带逼真的纳米修剪效果！
@@ -1234,6 +1678,7 @@ ent-FloorTileItemDesertAstroSand = 沙漠太空沙
     .desc = 仿真沙地，专为细腻质地设计。
 
 ent-FloorTileItemWoodLarge = 宽幅木地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemWhiteMarble = 白色大理石地砖
     .desc = 一块精雕细琢、打磨光滑的顶级太空大理石。最好别弄丢了。
@@ -1248,16 +1693,64 @@ ent-FloorTileItemUraniumMarble = 铀大理石地砖
     .desc = 一块精雕细琢、打磨光滑的顶级太空大理石。注入了铀元素，让它格外‘辐射’！双关语，绝非巧合！
 
 ent-FloorTileItemXeno = 异形地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemXenoSteel = 异星钢地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemXenoSteelCorner = 异星钢转角地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemXenoMaint = 异星维修地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemXenoborg = 异星机兵地板
+    .desc = 一块用于铺设地面的地板。
 
 ent-FloorTileItemDarkSquiggly = 暗钢波浪纹地板
+    .desc = 一块用于铺设地面的地板。
+
+## debugging/item.yml
+
+ent-DebugItemShapeWeird = 奇形怪状的物品
+    .desc = 这到底是什么……？
+
+## debugging/clicktest.yml
+
+ent-ClickTestRotatingCornerVisible = 可见旋转拐角点击测试
+    .desc = 用于测试点击判定的调试实体。
+
+ent-ClickTestRotatingCornerVisibleNoRot = 可见旋转拐角点击测试（无旋转）
+    .desc = 用于测试点击判定的调试实体。
+
+ent-ClickTestRotatingCornerInvisible = 不可见旋转拐角点击测试
+    .desc = 用于测试点击判定的调试实体。
+
+ent-ClickTestRotatingCornerInvisibleNoRot = 不可见旋转拐角点击测试（无旋转）
+    .desc = 用于测试点击判定的调试实体。
+
+ent-ClickTestFixedCornerVisible = 可见固定拐角点击测试
+    .desc = 用于测试点击判定的调试实体。
+
+ent-ClickTestFixedCornerInvisible = 不可见固定拐角点击测试
+    .desc = 用于测试点击判定的调试实体。
+
+## Virtual/stripping_hidden.yml
+
+ent-StrippingHiddenEntity = 隐藏实体
+    .desc = 这个口袋里有东西。
+
+## Virtual/virtual_item.yml
+
+ent-VirtualItem = 虚拟物品，你不该看见这个
+    .desc = 仅供系统内部使用的虚拟物品。
+
+## Virtual/beam.yml
+
+ent-VirtualBeamEntityController = 光束实体控制器，你不该看见这个
+    .desc = 用于控制光束效果的虚拟实体。
+
+## torch.yml
 
 ## torch.yml
 
@@ -1275,8 +1768,8 @@ ent-TreasureHardDiskDrive = 硬盘驱动器
 ent-TreasureFlopDiskDrive = 软盘驱动器
     .desc = 用于读取软盘数据的驱动器。只可惜，如今软盘里存的唯一东西大概就是核弹操作程序了。
 
-ent-TreasureCDDrive = CD驱动器
-    .desc = 用于读取CD数据的设备。在如今这年头可没什么大用，除非你打算坐飞机去别的地方。
+ent-TreasureCDDrive = 光盘驱动器
+    .desc = 用于读取光盘数据的设备。在如今这年头可没什么大用，除非你打算坐飞机去别的地方。
 
 ent-TreasureCPUSupercharged = 强化CPU
     .desc = 某种超级外星太空科技。只可惜，如今的电脑出厂时就已经自带CPU了。
@@ -1306,6 +1799,141 @@ ent-KnifePlastic = 塑料刀
 
 ent-BarSpoon = 吧勺
     .desc = 你调制饮品、改变人生的私人助手。
+
+## Effects/explosion_light.yml
+
+ent-ExplosionLight = 爆炸闪光
+    .desc = 爆炸瞬间产生的耀眼闪光。
+
+## Effects/radiation.yml
+
+ent-RadiationPulse = 闪烁异常
+    .desc = 看着这团异常会让你感觉不太对劲，仿佛有什么东西正在挤压你的双眼。
+
+## Effects/exclamation.yml
+
+ent-Exclamation = 感叹号
+    .desc = 用于提示注意或惊讶的视觉特效。
+
+ent-WhistleExclamation = 感叹号
+    .desc = 用于提示注意或惊讶的视觉特效。
+
+## Effects/portal.yml
+
+ent-BasePortal = 蓝空传送门
+    .desc = 会把你传送到相连的目的地！
+
+ent-PortalRed = 红色传送门
+    .desc = 这个看起来更像是红空传送门。
+
+ent-ShadowPortal = 暗影裂隙
+    .desc = 看起来不太稳定。
+
+## Effects/acidifier.yml
+
+ent-Acidifier = 酸液
+    .desc = 会把你融成一滩恶心的烂泥！
+
+## Effects/mobspawn.yml
+
+ent-MobSpawnCrabQuartz = 石英蟹生成特效
+    .desc = 石英蟹出现时产生的特效。
+
+ent-MobSpawnCrabIron = 铁蟹生成特效
+    .desc = 铁蟹出现时产生的特效。
+
+ent-MobSpawnCrabCoal = 煤蟹生成特效
+    .desc = 煤蟹出现时产生的特效。
+
+ent-MobSpawnCrabSilver = 银蟹生成特效
+    .desc = 银蟹出现时产生的特效。
+
+ent-MobSpawnCrabGold = 金蟹生成特效
+    .desc = 金蟹出现时产生的特效。
+
+ent-MobSpawnCrabUranium = 铀蟹生成特效
+    .desc = 铀蟹出现时产生的特效。
+
+ent-MobSpawnCrabBananium = 香蕉素蟹生成特效
+    .desc = 香蕉素蟹出现时产生的特效。
+
+## Effects/admin_triggers.yml
+
+ent-AdminInstantEffectBase = 即时特效
+    .desc = 一种会立刻触发的特效实体。
+
+## Effects/chemistry_effects.yml
+
+ent-Smoke = 烟雾
+    .desc = 一团缓缓扩散的烟雾。
+
+ent-TearGasSmoke = 催泪烟雾
+    .desc = 一团刺激眼睛与呼吸道的催泪烟雾。
+
+ent-WizardSmoke = 烟雾
+    .desc = 一团带有魔法气息的烟雾。
+
+ent-Foam = 泡沫
+    .desc = 一团迅速膨胀的泡沫。
+
+ent-MetalFoam = 金属泡沫
+    .desc = 一团会凝固成金属的泡沫。
+
+ent-IronMetalFoam = 铁金属泡沫
+    .desc = 一团会凝固成铁质结构的泡沫。
+
+ent-AluminiumMetalFoam = 铝金属泡沫
+    .desc = 一团会凝固成铝质结构的泡沫。
+
+ent-BaseFoamedMetal = 基础泡沫金属
+    .desc = 由泡沫迅速形成的临时金属结构。
+
+ent-FoamedIronMetal = 泡沫铁金属
+    .desc = 用于封堵船体破口。
+
+ent-FoamedAluminiumMetal = 泡沫铝金属
+    .desc = 铝泡沫手榴弹残留的稀疏泡沫，很容易被摧毁。
+
+## Effects/shuttle.yml
+
+ent-FtlVisualizerEntity = 穿梭机抵达可视化器
+    .desc = 用于显示穿梭机抵达的可视化效果。你不该看见这个！
+
+## Effects/eldritch.yml
+
+ent-EffectVoidBlink = 虚空闪现
+    .desc = 一道短暂撕开现实的虚空闪现特效。
+
+## Effects/puddle.yml
+
+ent-PuddleSparkle = 闪光
+    .desc = 液体表面反射出的微光。
+
+ent-Puddle = 水洼
+    .desc = 一滩液体。
+
+## Effects/lightning.yml
+
+ent-BaseLightning = 闪电
+    .desc = 一道噼啪作响的电弧。
+
+ent-Lightning = 闪电
+    .desc = 一道噼啪作响的电弧。
+
+ent-LightningRevenant = 幽灵闪电
+    .desc = 一道带有幽森气息的电弧。
+
+ent-ChargedLightning = 充能闪电
+    .desc = 一道蕴含额外能量的电弧。
+
+ent-Spark = 电火花
+    .desc = 一簇短暂迸发的电火花。
+
+ent-SuperchargedLightning = 超充闪电
+    .desc = 一道能量极其强烈的电弧。
+
+ent-HyperchargedLightning = 高超充闪电
+    .desc = 一道能量高得离谱的电弧。
 
 ## paper.yml
 

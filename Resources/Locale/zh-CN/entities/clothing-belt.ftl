@@ -35,6 +35,9 @@ ent-ClothingBeltMilitaryWebbing = 战术胸挂
 ent-ClothingBeltMilitaryWebbingMed = 医疗胸挂
     .desc = 戈尔莱克斯掠夺者医疗干员所穿戴的一套战术装具。
 
+ent-ClothingBeltMilitaryWebbingGrenadeFilled = 掷弹兵胸挂
+    .desc = 辛迪加掷弹兵所穿戴的战术携行具。
+
 ent-ClothingBeltMilitaryWebbingERT = ERT战术胸挂
     .desc = 一套供ERT特工穿戴的战术携行具。
 
@@ -73,6 +76,7 @@ ent-ClothingBeltSuspendersRed = 红色背带
     .desc = 用来固定裤子。
 
 ent-ClothingBeltSuspendersBlack = 黑色背带
+    .desc = 用来固定裤子。
 
 ## waist_bags.yml
 

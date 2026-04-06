@@ -62,7 +62,7 @@ ent-ClothingNeckCloakAce = 飞行员斗篷
 ent-ClothingNeckCloakAro = 狼人斗篷
     .desc = 这件斗篷向所有人宣告，你是一匹独狼。
 
-ent-ClothingNeckCloakAroace = 飞行员斗篷 # 感谢 happyman442，这绝对是史上最棒的命名点子
+ent-ClothingNeckCloakAroace = 飞行员斗篷 # 感谢 happyman442，这绝对是有史以来最棒的命名点子
     .desc = 授予纳米千能在宜居大气行星上最顶尖飞行员的斗篷。
 
 ent-ClothingNeckCloakBi = 毒斗篷
@@ -141,6 +141,7 @@ ent-ClothingNeckStethoscope = 听诊器
     .desc = 一种用于听取人体内部声音的过时医疗设备。不过它也能让你看起来知道自己在干什么。
 
 ent-ActionStethoscope = 听诊
+    .desc = 使用听诊器聆听目标体内的声音。
 
 ent-ClothingNeckBling = 闪亮饰品
     .desc = 该死，当黑帮真爽。

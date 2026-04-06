@@ -6,6 +6,7 @@ ent-ClothingHeadset = 耳机
     .desc = 一款升级版的模块化头戴式通讯器。可插入加密密钥。
 
 ent-ClothingHeadsetGrey = 乘客耳机
+    .desc = 一款升级版的模块化头戴式通讯器。可插入加密密钥。
 
 ent-ClothingHeadsetCargo = 货运耳机
     .desc = 货运部员工使用的耳机。
@@ -70,25 +71,34 @@ ent-ClothingHeadsetAlt = 耳机
     .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltCargo = 物资主任头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltCentCom = 中央指挥部头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltCommand = 指挥头戴式通讯器
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltEngineering = 首席工程师头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltMedical = 首席医疗官头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltSecurity = 安保主任头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltScience = 研究主任头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltSyndicate = 血红色头戴式通讯器
     .desc = 一款升级版的模块化辛迪加通讯器，采用头戴式设计，可插入加密密钥（共5个密钥插槽）。
 
 ent-ClothingHeadsetAltFreelancer = 自由职业者头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ent-ClothingHeadsetAltWizard = 巫师头戴式耳机
+    .desc = 一款升级版的模块化头戴式通讯器，可插入加密密钥。
 
 ## specific.yml
 

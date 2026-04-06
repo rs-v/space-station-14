@@ -101,21 +101,25 @@ ent-ClothingEyesEyepatchHudMedical = 医疗HUD眼罩
     .desc = 一款平视显示器，可扫描视野内的人形生物并提供准确的健康状态数据。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudMedicalFlipped = 医疗HUD眼罩
+    .desc = 一款平视显示器，可扫描视野内的人形生物并提供准确的健康状态数据。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudSecurity = 安保HUD眼罩
     .desc = 一款抬头显示器，可扫描视野内的人员，并准确显示其ID状态与安保记录。献给真正的爱国者。
 
-ent-ClothingEyesEyepatchHudSecurityFlipped = security hud eyepatch
+ent-ClothingEyesEyepatchHudSecurityFlipped = 安保HUD眼罩
+    .desc = 一款抬头显示器，可扫描视野内的人员，并准确显示其ID状态与安保记录。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudBeer = 啤酒HUD眼罩
     .desc = 一副配备了试剂扫描装置的太阳HUD，能在移动时让你本能地感知液体粘稠度。献给真正的爱国者。
 
-ent-ClothingEyesEyepatchHudBeerFlipped = beer hud eyepatch
+ent-ClothingEyesEyepatchHudBeerFlipped = 啤酒HUD眼罩
+    .desc = 一副配备了试剂扫描装置的太阳HUD，能在移动时让你本能地感知液体粘稠度。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudDiag = 诊断HUD眼罩
     .desc = 一款能够分析机器人与外骨骼完整度及状态的平视显示器。由透机素制成。
 
 ent-ClothingEyesEyepatchHudDiagFlipped = 诊断HUD眼罩
+    .desc = 一款能够分析机器人与外骨骼完整度及状态的平视显示器。由透机素制成。
 
 ## misc.yml
 

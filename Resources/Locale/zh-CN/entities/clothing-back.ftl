@@ -6,7 +6,7 @@ ent-ClothingBackpack = 背包
     .desc = 背在背上，用于存放物品。
 
 ent-ClothingBackpackClown = 吉格斯·冯·洪克顿
-    .desc = 由 Honk! Co. 制造的背包。
+    .desc = 由Honk! Co.制造的背包。
 
 ent-ClothingBackpackIan = Ian的背包
     .desc = 他有时会背着它。
@@ -81,12 +81,16 @@ ent-ClothingBackpackDeathSquad = 死亡小队背包
     .desc = 存放着中央指挥部最令人畏惧的特工装备。
 
 ent-ClothingBackpackSyndicate = 辛迪加背包
+    .desc = 背在背上，用于存放物品。
+
+ent-ClothingBackpackSyndicateRaidBundle = 辛迪加突袭服套装
+    .desc = 内含辛迪加耐用的突袭护甲套装。
 
 ent-ClothingBackpackHolding = 次元袋
     .desc = 一款可接入局部蓝空空间的背包。
 
 ent-ClothingBackpackCluwne = 吉格斯·冯·琼克顿
-    .desc = 由 Jonk! Co. 制造的背包。
+    .desc = 由Jonk! Co.制造的背包。
 
 ent-ClothingBackpackElectropack = 电击背包
     .desc = 接收到信号时会释放电击。用于控制极度危险的罪犯。
@@ -116,6 +120,9 @@ ent-ClothingBackpackDuffelAtmospherics = 大气行李袋
 
 ent-ClothingBackpackDuffelMedical = 医疗行李袋
     .desc = 一个用于存放额外医疗物资的大型行李袋。
+
+ent-ClothingBackpackDuffelSurgeryFilled = 手术行李袋
+    .desc = 一个用于存放额外医疗物资的大型行李袋——这一款似乎专门设计用来装手术工具。
 
 ent-ClothingBackpackDuffelCaptain = 站长行李袋
     .desc = 一个用于存放额外站长物资的大型行李袋。
@@ -155,6 +162,75 @@ ent-ClothingBackpackDuffelSalvage = 打捞行李袋
 
 ent-ClothingBackpackDuffelSyndicate = 辛迪加行李袋
     .desc = 一个大型行李袋，用于存放各种叛徒物资。
+
+ent-ClothingBackpackDuffelSyndicateFilledRevolver = 蟒蛇左轮套装
+    .desc = 高调开火吧。内含一把满装的马格南蟒蛇左轮手枪和两个快速装弹器。
+
+ent-ClothingBackpackDuffelSyndicateFilledLMG = L6 SAW套装
+    .desc = 更多火力。内含标志性的L6轻机枪和2个盒式弹匣。
+
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = China-Lake套装
+    .desc = 内含一把老式China-Lake榴弹发射器，以及11发具备多种破坏能力的榴弹。
+
+ent-ClothingBackpackDuffelSyndicateFilledCarbine = M-90gl套装
+    .desc = 内含一把多用途战斗步枪及其下挂榴弹发射器，附带3个弹匣和6枚不同用途的榴弹。
+
+ent-ClothingBackpackDuffelSyndicateAmmoFilled = 弹药套装
+    .desc = 换弹时间！内含C-20r的4个弹匣、Bulldog的5个弹鼓、Estoc DMR的3个弹匣，以及L6 SAW的2盒弹药。
+
+ent-ClothingBackpackDuffelSyndicateFilledMedical = 辛迪加手术行李袋
+    .desc = 一个大型行李袋，内含一整套手术工具。
+
+ent-ClothingBackpackDuffelSyndicateFilledMedicine = 辛迪加药品行李袋
+    .desc = 一个大型行李袋，内含必要的医疗药剂。
+
+ent-ClothingBackpackDuffelSyndicateFilledShotgun = Bulldog套装
+    .desc = 简洁凶狠：内含广受欢迎的Bulldog霰弹枪、一个12号独头弹弹鼓和四个12号鹿弹弹鼓。
+
+ent-ClothingBackpackDuffelSyndicateFilledSMG = C-20r套装
+    .desc = 老伙计依旧可靠：经典C-20r冲锋枪，附带三个弹匣。
+
+ent-ClothingBackpackDuffelSyndicateFilledRifle = Estoc DMR套装
+    .desc = 适合中距离精确射击的Estoc DMR，附带三个弹匣。
+
+ent-ClothingBackpackDuffelSyndicateCarpSuit = 鲤鱼套装行李袋
+    .desc = 内含一套鲤鱼服，外加一些朋友陪你玩。
+
+ent-ClothingBackpackDuffelSyndicatePyjamaBundle = 辛迪加睡衣行李袋
+    .desc = 内含 3 套辛迪加睡衣和 4 个毛绒玩偶，打造终极睡衣派对。
+
+ent-ClothingBackpackDuffelSyndicateC4tBundle = 辛迪加C-4套装
+    .desc = 内含大量C-4炸药。
+
+ent-ClothingBackpackDuffelSyndicateEVABundle = 辛迪加EVA套装
+    .desc = 内含经辛迪加认证的EVA服。
+
+ent-ClothingBackpackDuffelSyndicateHardsuitBundle = 辛迪加硬质宇航服套装
+    .desc = 内含辛迪加标志性的血红色硬质宇航服。
+
+ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = 辛迪加精英硬质宇航服套装
+    .desc = 内含辛迪加精英硬质宇航服，里面还附带更多额外物资。
+
+ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = 辛迪加硬质宇航服配件套装
+    .desc = 内含你在购买硬质宇航服时绝对会想要的一堆配件。
+
+ent-ClothingBackpackDuffelZombieBundle = 辛迪加僵尸套装
+    .desc = 一套在空间站释放不死者的一体化工具包。
+
+ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = 医疗套装
+    .desc = 让你的同志重返战斗所需的一切。
+
+ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = 诱饵套装
+    .desc = 内含视觉和听觉两种干扰道具。气味版敬请期待。
+
+ent-ClothingBackpackDuffelAcolyteBundle = 侍僧护甲套装
+    .desc = 内含侍僧护甲，是任何邪教领袖的必备之选。
+
+ent-ClothingBackpackDuffelSyndicateFilledStarterKit = 基础特工套装
+    .desc = 内含武器、医疗物资、破拆工具、备用弹药和一些基础实用设备。
+
+ent-ClothingBackpackDuffelSyndicateFilledHushpup = Hushpup套装
+    .desc = 内含一把Hushpup和一盒鹿弹，外加一枚四分之一硬币。
 
 ent-ClothingBackpackDuffelHolding = 储物旅行袋
     .desc = 一个打开通往局部蓝空空间的旅行袋。
@@ -233,10 +309,13 @@ ent-ClothingBackpackSatchelSmugglerUnanchored = 走私挎包
     .desc = 一个方便实用却形迹可疑的挎包。扁平得刚好能塞进地板砖下方。
 
 ent-BriefcaseSmugglerCash = 走私者公文包
+    .desc = 一个藏着一大笔现金的可疑公文包。
 
 ent-ClothingBackpackDuffelClownSmuggler = 走私者小丑行李袋
+    .desc = 一个看起来鬼鬼祟祟的小丑行李袋，里面塞满了各种恶作剧玩意。
 
 ent-RandomSatchelSpawner = 随机走私者挎包生成器
+    .desc = 用于生成随机走私者挎包的标记。
 
 ## specific.yml
 

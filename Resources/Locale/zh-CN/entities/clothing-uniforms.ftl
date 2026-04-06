@@ -419,6 +419,7 @@ ent-ClothingUniformJumpsuitClown = 小丑服
     .desc = 嘎！
 
 ent-ClothingUniformJumpsuitClownBanana = 香蕉小丑服
+    .desc = 嘎！
 
 ent-ClothingUniformJumpsuitJester = 弄臣服
     .desc = 一件欢快的礼服，非常适合取悦你的主人，叔叔。
@@ -701,16 +702,22 @@ ent-UniformShortsRedWithTop = 拳击短裤套装
 ## random_suit.yml
 
 ent-ClothingRandomSpawner = 随机多彩服装
+    .desc = 用于生成随机多彩服装的标记。
 
 ent-ClothingUniformRandomArmless = 多彩无袖服装
+    .desc = 一件配色随机的无袖服装。
 
 ent-ClothingUniformRandomStandard = 标准多彩服装
+    .desc = 一件配色随机的多彩服装。
 
 ent-ClothingUniformRandomBra = 多彩文胸
+    .desc = 一件配色随机的文胸。
 
 ent-ClothingUniformRandomShorts = 多彩短裤
+    .desc = 一条配色随机的短裤。
 
 ent-ClothingUniformRandomShirt = 多彩衬衫
+    .desc = 一件配色随机的衬衫。
 
 ## scrubs.yml
 
@@ -741,7 +748,7 @@ ent-ClothingUniformJumpsuitParamedicSyndie = 辛迪加急救员连体服
     .desc = 不知为何，穿上它总让你感觉离违反《日内瓦公约》只有一步之遥。
 
 ent-ClothingUniformJumpsuitChiefEngineerSyndie = 辛迪加首席工程师连体服
-    .desc = 一件配有反光背心与红色内衬、透着邪恶气息的连体服。#TODO：待舰船对战模式实装且玩家行为模式成型后，再重写此描述。
+    .desc = 一件配有反光背心与红色内衬、透着邪恶气息的连体服。
 
 ## specific.yml
 

@@ -14,22 +14,31 @@ ent-FloraStalagmite = 石笋
     .desc = 天然形成的石质尖刺。
 
 ent-FloraTree = 树
+    .desc = 一棵平平无奇、却足够挡路的树。
 
 ent-FloraTreeSnow = 覆雪的树
+    .desc = 一棵被积雪覆盖的树。
 
 ent-FloraTreeStump = 树桩
+    .desc = 一截被砍断后留下的树桩。
 
 ent-FloraTreeLarge = 大树
+    .desc = 一棵高大粗壮的树木。
 
 ent-FloraTreeConifer = 覆雪针叶树
+    .desc = 一棵挂满积雪的针叶树。
 
 ent-FloraTreeChristmas01 = 圣诞树
+    .desc = 一棵装点着节日气氛的圣诞树。
 
 ent-FloraTreeChristmas02 = 圣诞树
+    .desc = 一棵装点着节日气氛的圣诞树。
 
 ent-FloraTreeChristmas03 = 圣诞树
+    .desc = 一棵装点着节日气氛的圣诞树。
 
 ent-FloraTreeStumpConifer = 树桩
+    .desc = 一截针叶树留下的树桩。
 
 ent-ShadowTree = 暗木
     .desc = 树叶正在低声议论你。
@@ -59,6 +68,7 @@ ent-WoodenSupport = 木质支柱
     .desc = 让你更有信心头顶的石头不会掉下来。
 
 ent-WoodenSupportBeam = 木质支撑梁
+    .desc = 一根用于支撑矿道的木梁。
 
 ent-WoodenSupportWall = 木质支撑墙
     .desc = 一面老旧腐朽的墙壁。
@@ -74,8 +84,10 @@ ent-PresentTrash = 包装纸
 ## deliveries.yml
 
 ent-PackageDelivery = 包裹
+    .desc = 一个等待派送到收件人手中的包裹。
 
 ent-LetterDelivery = 信件
+    .desc = 一封等待投递的信件。
 
 ## deliveries_items.yml
 
@@ -85,23 +97,40 @@ ent-MailSpamLetter = 垃圾信件
 ## books.yml
 
 ent-BaseSpellbook = 法术书
+    .desc = 一本记载奥术知识与施法技巧的书籍。
 
 ent-WizardsGrimoire = 巫师魔典
     .desc = 一本厚重的典籍，记载着用于准备法术和召唤超自然装备的复杂奥术公式。数十年的研究才汇聚成这本神秘秘典；现在，去用它毁掉某人的一天吧。
 
 ent-SpawnSpellbook = 召唤法术书
+    .desc = 一本记载召唤法术的法术书。
 
 ent-ForceWallSpellbook = 力场墙法术书
+    .desc = 一本记载力场墙法术的法术书。
 
 ent-BlinkBook = 闪烁法术书
+    .desc = 一本记载短距闪现法术的法术书。
 
 ent-SmiteBook = 惩戒法术书
+    .desc = 一本记载惩戒法术的法术书。
 
 ent-KnockSpellbook = 敲击法术书
+    .desc = 一本记载开锁敲击法术的法术书。
 
 ent-FireballSpellbook = 火球法术书
+    .desc = 一本记载火球法术的法术书。
 
 ent-ScrollRunes = 符文卷轴
+    .desc = 一张记载符文魔法的卷轴。
+
+ent-WizardTeleportScroll = 传送卷轴
+    .desc = 一张能施展传送法术的卷轴。
+
+ent-RGBStaff = RGB法杖
+    .desc = 有助于缓解空间站RGB装备不足的问题。
+
+ent-AnimationStaff = 赋生法杖
+    .desc = 让无生命的物体活起来！
 
 ## immovable_rod.yml
 
@@ -182,46 +211,60 @@ ent-BaseLightTubeCrystal = 水晶灯管
     .desc = 内部嵌有小型彩色水晶的高功率高能灯泡。
 
 ent-LightTubeCrystalCyan = 青色水晶灯管
+    .desc = 内部嵌有青色小水晶的高功率灯管。
 
 ent-LightTubeCrystalBlue = 蓝色水晶灯管
+    .desc = 内部嵌有蓝色小水晶的高功率灯管。
 
 ent-LightTubeCrystalYellow = 黄色水晶灯管
+    .desc = 内部嵌有黄色小水晶的高功率灯管。
 
 ent-LightTubeCrystalPink = 粉色水晶灯管
+    .desc = 内部嵌有粉色小水晶的高功率灯管。
 
 ent-LightTubeCrystalOrange = 橙色水晶灯管
+    .desc = 内部嵌有橙色小水晶的高功率灯管。
 
 ent-LightTubeCrystalBlack = 黑色水晶灯管
     .desc = 内部嵌有小型彩色水晶的高功率高能灯泡。不过亮度不高。
 
 ent-LightTubeCrystalRed = 红色水晶灯管
+    .desc = 内部嵌有红色小水晶的高功率灯管。
 
 ent-LightTubeCrystalGreen = 绿色水晶灯管
+    .desc = 内部嵌有绿色小水晶的高功率灯管。
 
 ent-BaseLightbulbCrystal = 水晶灯泡
     .desc = 一种高功率高能灯泡，内部含有一颗小型彩色水晶。
 
 ent-LightBulbCrystalCyan = 青色水晶灯泡
+    .desc = 内含青色小水晶的高功率灯泡。
 
 ent-LightBulbCrystalBlue = 蓝色水晶灯泡
+    .desc = 内含蓝色小水晶的高功率灯泡。
 
 ent-LightBulbCrystalYellow = 黄色水晶灯泡
+    .desc = 内含黄色小水晶的高功率灯泡。
 
 ent-LightBulbCrystalPink = 粉色水晶灯泡
+    .desc = 内含粉色小水晶的高功率灯泡。
 
 ent-LightBulbCrystalOrange = 橙色水晶灯泡
+    .desc = 内含橙色小水晶的高功率灯泡。
 
 ent-LightBulbCrystalBlack = 黑色水晶灯泡
     .desc = 一种高功率高能灯泡，内部含有一颗小型彩色水晶。不过它的亮度并不高。
 
 ent-LightBulbCrystalRed = 红色水晶灯泡
+    .desc = 内含红色小水晶的高功率灯泡。
 
 ent-LightBulbCrystalGreen = 绿色水晶灯泡
+    .desc = 内含绿色小水晶的高功率灯泡。
 
 ## portable_recharger.yml
 
-ent-PortableRecharger = portable recharger
-    .desc = High-tech recharger adapted for portability.
+ent-PortableRecharger = 便携充电器
+    .desc = 适配便携使用的高科技充电器。
 
 ## powercells.yml
 
@@ -359,8 +402,8 @@ ent-Urn = 骨灰盒
 
 ## chem_bag.yml
 
-ent-ChemBag = chemistry bag
-    .desc = A bag for storing chemistry products, such as pills, pill canisters, bottles, and syringes.
+ent-ChemBag = 化学袋
+    .desc = 一个用于存放化学制品的袋子，例如药丸、药丸罐、药瓶和注射器。
 
 ## chemical-containers.yml
 
@@ -466,69 +509,97 @@ ent-GroundTobacco = 烟丝
 ## seeds.yml
 
 ent-WheatSeeds = 小麦种子包
+    .desc = 这些种子会长成饱满的小麦。
 
 ent-MeatwheatSeeds = 肉麦种子包
     .desc = 如果你想让素食主义者抓狂，这就是方法。
 
 ent-OatSeeds = 燕麦种子包
+    .desc = 这些种子会长成新鲜的燕麦。
 
 ent-BananaSeeds = 香蕉种子包
+    .desc = 这些种子会长成弯弯的香蕉树。
 
 ent-MimanaSeeds = 米玛纳种子包
+    .desc = 这些种子会长出味道古怪的米玛纳。
 
 ent-CarrotSeeds = 胡萝卜种子包
+    .desc = 这些种子会长成脆甜的胡萝卜。
 
 ent-CabbageSeeds = 卷心菜种子包
+    .desc = 这些种子会长成结实的卷心菜。
 
 ent-GarlicSeeds = 大蒜种子包
+    .desc = 这些种子会长出气味浓烈的大蒜。
 
 ent-LaughinPeaSeeds = 笑豌豆荚种子包
     .desc = 这些种子散发着柔和的紫色微光……它们应该会长成笑豌豆。
 
 ent-LemonSeeds = 柠檬种子包
+    .desc = 这些种子会长成酸溜溜的柠檬。
 
 ent-LemoonSeeds = 月柠种子包
+    .desc = 这些种子会长成神秘的月柠。
 
 ent-LimeSeeds = 青柠种子包
+    .desc = 这些种子会长成酸味十足的青柠。
 
 ent-OrangeSeeds = 橙子种子包
+    .desc = 这些种子会长成多汁的橙子。
 
 ent-ExtradimensionalOrangeSeeds = 异次元橙子种子包
     .desc = 多边形种子。
 
 ent-PineappleSeeds = 菠萝种子包
+    .desc = 这些种子会长成带刺的菠萝。
 
 ent-PotatoSeeds = 土豆种子包
+    .desc = 这些种子会长成朴实的土豆。
 
 ent-SugarcaneSeeds = 甘蔗种子包
+    .desc = 这些种子会长成甜甜的甘蔗。
 
 ent-TeaPlantSeeds = 茶树种子包
+    .desc = 这些种子会长成可采茶叶的茶树。
 
 ent-PapercaneSeeds = 纸蔗种子包
+    .desc = 这些种子会长成奇怪的纸蔗。
 
 ent-TowercapSeeds = 塔菇孢子包
+    .desc = 这些孢子会长成高大的塔菇。
 
 ent-SteelcapSeeds = 一包钢盖孢子
+    .desc = 这些孢子会长成坚硬的钢盖孢子菇。
 
 ent-TomatoSeeds = 一包番茄种子
+    .desc = 这些种子会长成鲜红多汁的番茄。
 
 ent-BlueTomatoSeeds = 一包蓝番茄种子
+    .desc = 这些种子会长成颜色古怪的蓝番茄。
 
 ent-BloodTomatoSeeds = 一包血番茄种子
+    .desc = 这些种子会长成颜色不祥的血番茄。
 
 ent-KillerTomatoSeeds = 一包杀人番茄种子
+    .desc = 这些种子会长出危险的杀人番茄。
 
 ent-EggplantSeeds = 一包茄子种子
+    .desc = 这些种子会长成紫色的茄子。
 
 ent-AppleSeeds = 一包苹果种子
+    .desc = 这些种子会长成清脆的苹果。
 
 ent-GoldenAppleSeeds = 一包金苹果种子
+    .desc = 这些种子会长成闪闪发光的金苹果。
 
 ent-CornSeeds = 一包玉米种子
+    .desc = 这些种子会长成金黄饱满的玉米。
 
 ent-ChanterelleSeeds = 一包鸡油菌孢子
+    .desc = 这些孢子会长成鲜黄的鸡油菌。
 
 ent-EggySeeds = 一包蛋植种子
+    .desc = 这些种子会长成奇特的蛋植。
 
 ent-TobaccoSeeds = 一包烟草种子
     .desc = 这些种子能长成烟草植株。
@@ -585,25 +656,34 @@ ent-OnionSeeds = 一包洋葱种子
     .desc = 不是红葱头。
 
 ent-RiceSeeds = 一包水稻种子
+    .desc = 这些种子会长成沉甸甸的稻穗。
 
 ent-SoybeanSeeds = 一包大豆种子
+    .desc = 这些种子会长成营养丰富的大豆。
 
 ent-SpacemansTrumpetSeeds = 一包太空人号角种子
+    .desc = 这些种子会长成会给皮肤染色的喇叭花。
 
 ent-KoibeanSeeds = 一包锦鲤豆种子
+    .desc = 这些种子会长成带点腥味的锦鲤豆。
 
 ent-OnionRedSeeds = 一包红洋葱种子
     .desc = 尽管名字带“红”，实为紫色。
 
 ent-WatermelonSeeds = 一包西瓜种子
+    .desc = 这些种子会长成清甜多汁的西瓜。
 
 ent-HolymelonSeeds = 一包圣瓜种子
+    .desc = 这些种子会长成受祝福的圣瓜。
 
 ent-GrapeSeeds = 一包葡萄种子
+    .desc = 这些种子会长成成串的葡萄。
 
 ent-CocoaSeeds = 一包可可种子
+    .desc = 这些种子会长成可制作巧克力的可可。
 
 ent-BerrySeeds = 一包浆果种子
+    .desc = 这些种子会长成酸甜可口的浆果。
 
 ent-BungoSeeds = 一包邦戈果种子
     .desc = 请勿食用果核。
@@ -615,21 +695,28 @@ ent-WorldPeaSeeds = 世界豌豆种子包
     .desc = 这些较大的种子散发着令人舒缓的蓝色微光。
 
 ent-PumpkinSeeds = 南瓜种子包
+    .desc = 这些种子会长成圆滚滚的南瓜。
 
 ent-BluePumpkinSeeds = 蓝南瓜种子包
+    .desc = 这些种子会长成颜色奇特的蓝南瓜。
 
 ent-CottonSeeds = 棉花种子包
+    .desc = 这些种子会长出柔软蓬松的棉花。
 
 ent-PyrottonSeeds = 热棉种子包
+    .desc = 这些种子会长成容易点着的热棉。
 
 ent-RealCapfruitSeeds = 帽果种子包
     .desc = 是真是假？
 
 ent-CherrySeeds = 樱桃种子包
+    .desc = 这些种子会长成小巧的樱桃。
 
 ent-AnomalyBerrySeeds = 异常浆果种子包
+    .desc = 这些种子会长成哪里都不太对劲的异常浆果。
 
 ent-BloonionSeeds = 气球葱种子包
+    .desc = 这些种子会长成会漂浮的气球葱。
 
 ## sprays.yml
 
@@ -690,13 +777,14 @@ ent-WireBrushElectrical = 电动钢丝刷
 
 ## soap.yml
 
-ent-BaseSoap = soap
+ent-BaseSoap = 肥皂
+    .desc = 一块用来把脏东西洗干净的肥皂。
 
-ent-SoapletSyndie = soaplet
-    .desc = A tiny piece of syndicate soap.
+ent-SoapletSyndie = 辛迪加小肥皂
+    .desc = 一小块辛迪加肥皂。
 
-ent-SoapOmega = omega soap
-    .desc = The most advanced soap known to mankind. Smells of bluespace.
+ent-SoapOmega = 欧米伽肥皂
+    .desc = 人类已知最先进的肥皂，闻起来有股蓝空的味道。
 
 ## spray.yml
 
@@ -707,6 +795,7 @@ ent-MegaSprayBottle = 巨型喷雾瓶
     .desc = 一个巨大的喷雾瓶，具备无可匹敌的清洁能力。
 
 ent-SprayBottleWater = 喷雾瓶
+    .desc = 一个装满水的喷雾瓶。
 
 ent-BorgSprayBottle = 内置喷雾器
     .desc = 一个用于喷洒试剂的加压容器，直接集成于清洁型合成人内部。通常装满太空清洁剂，用以对付那些顽固污渍。
@@ -715,14 +804,18 @@ ent-BorgMegaSprayBottle = 进阶内置喷雾器
     .desc = 集成式喷雾瓶的升级版，直接安装于清洁型合成人内部。此型号能够从空气中吸收水分来合成太空清洁剂。
 
 ent-Vapor = 蒸汽
+    .desc = 一团薄薄的水汽。
 
 ## trashbag.yml
 
 ent-TrashBag = 垃圾袋
+    .desc = 一个结实的大垃圾袋，适合装各类杂物。
 
 ent-TrashBagBlue = 垃圾袋
+    .desc = 一个蓝色的大垃圾袋，适合装各类杂物。
 
 ent-BagOfSummoningGarbage = 吞噬一切的洁净咒
+    .desc = 一个仿佛永远也装不满的神秘垃圾袋。
 
 ent-BorgTrashBag = 内置垃圾袋
     .desc = 一款升级版垃圾袋，内部容量更大，直接内置于清洁型合成人中。
@@ -766,52 +859,52 @@ ent-BooksBag = 书袋
 ## mech_construction.yml
 
 ent-RipleyHarness = 雷普利机甲躯干
-    .desc = Ripley APLU 的核心部件。
+    .desc = Ripley APLU的核心部件。
 
 ent-RipleyLArm = 雷普利左臂
-    .desc = Ripley APLU 的左臂。需安装在机甲主体上。
+    .desc = Ripley APLU的左臂。需安装在机甲主体上。
 
 ent-RipleyLLeg = 雷普利左腿
-    .desc = Ripley APLU 的左腿。需安装在机甲主体上。
+    .desc = Ripley APLU的左腿。需安装在机甲主体上。
 
 ent-RipleyRLeg = 雷普利右腿
-    .desc = Ripley APLU 的右腿。需安装在机甲主体上。
+    .desc = Ripley APLU的右腿。需安装在机甲主体上。
 
 ent-RipleyRArm = 雷普利右臂
-    .desc = Ripley APLU 的右臂。需安装在机甲主体上。
+    .desc = Ripley APLU的右臂。需安装在机甲主体上。
 
 ent-HonkerHarness = H.O.N.K.机甲躯干
-    .desc = H.O.N.K. 机甲的核心部件。
+    .desc = H.O.N.K.机甲的核心部件。
 
 ent-HonkerLArm = H.O.N.K.左臂
-    .desc = H.O.N.K. 的左臂，带有特殊接口，可装备由小丑科学家设计的奇特武器。
+    .desc = H.O.N.K.的左臂，带有特殊接口，可装备由小丑科学家设计的奇特武器。
 
 ent-HonkerLLeg = H.O.N.K.左腿
-    .desc = H.O.N.K. 的左腿。脚部尺寸似乎刚好能完全塞进一只小丑鞋。
+    .desc = H.O.N.K.的左腿。脚部尺寸似乎刚好能完全塞进一只小丑鞋。
 
 ent-HonkerRLeg = H.O.N.K.右腿
-    .desc = H.O.N.K. 的右腿。脚部尺寸似乎刚好能完全塞进一只小丑鞋。
+    .desc = H.O.N.K.的右腿。脚部尺寸似乎刚好能完全塞进一只小丑鞋。
 
 ent-HonkerRArm = H.O.N.K.右臂
-    .desc = H.O.N.K. 的右臂，带有特殊接口，可装备由小丑科学家设计的奇特武器。
+    .desc = H.O.N.K.的右臂，带有特殊接口，可装备由小丑科学家设计的奇特武器。
 
 ent-HamtrHarness = HAMTR机甲躯干
-    .desc = HAMTR 的核心部件。
+    .desc = HAMTR机甲的核心部件。
 
 ent-HamtrLArm = HAMTR左臂
-    .desc = HAMTR 的左臂。需安装在机甲主体上。
+    .desc = HAMTR的左臂。需安装在机甲主体上。
 
 ent-HamtrLLeg = HAMTR左腿
-    .desc = HAMTR 的左腿。需安装在机甲主体上。
+    .desc = HAMTR的左腿。需安装在机甲主体上。
 
 ent-HamtrRLeg = HAMTR右腿
-    .desc = HAMTR 的右腿。需安装在机甲主体上。
+    .desc = HAMTR的右腿。需安装在机甲主体上。
 
 ent-HamtrRArm = HAMTR右臂
-    .desc = HAMTR 的右臂。需安装在机甲主体上。
+    .desc = HAMTR的右臂。需安装在机甲主体上。
 
-ent-VimHarness = vim机甲躯干
-    .desc = 用于安装 vim 部件的小型支架。
+ent-VimHarness = Vim机甲躯干
+    .desc = 用于安装Vim部件的小型支架。
 
 ## mecha_equipment.yml
 
@@ -827,10 +920,10 @@ ent-MechEquipmentHorn = 机甲喇叭
 ## mechs.yml
 
 ent-MechRipley = Ripley APLU
-    .desc = 用途广泛且装甲较轻，Ripley 几乎适用于所有重型作业场景。“APLU”意为“自主动力装载单元”。
+    .desc = 用途广泛且装甲较轻，Ripley几乎适用于所有重型作业场景。“APLU”意为“自主动力装载单元”。
 
 ent-MechHonker = H.O.N.K.
-    .desc = 由“Honk 暴政公司”制造，此外骨骼专为重型小丑支援任务设计。旨在传播生活的乐趣与欢乐。HONK！
+    .desc = 由“Honk暴政公司”制造，此外骨骼专为重型小丑支援任务设计。旨在传播生活的乐趣与欢乐。HONK！
 
 ent-MechHamtr = HAMTR
     .desc = 一台实验型机甲，采用脑机接口直接与仓鼠的大脑相连。
@@ -851,14 +944,14 @@ ent-DefibrillatorSyndicate = 因特达因除颤器
 
 ## disease.yml
 
-ent-DiseaseSwab = sterile swab
-    .desc = Used for taking and transferring samples. Sterile until open. Single use only.
+ent-DiseaseSwab = 无菌拭子
+    .desc = 用于采集和转移样本。开启前保持无菌。仅限一次性使用。
 
-ent-BoxMouthSwab = sterile swab dispenser
-    .desc = Dispenses 30 sterile swabs, extremely useful for botany.
+ent-BoxMouthSwab = 无菌拭子分配盒
+    .desc = 可分发 30 支无菌拭子，对植物学工作非常有用。
 
-ent-Vaccine = vaccine
-    .desc = Prevents people who DON'T already have a disease from catching it.
+ent-Vaccine = 疫苗
+    .desc = 可防止尚未感染疾病的人染病。
 
 ## handheld_crew_monitor.yml
 
@@ -895,56 +988,82 @@ ent-HealingToolbox = 治疗工具箱
     .desc = 一个蕴含强大能量的神奇工具箱。它能治愈你的伤口，并让你充满杀意。
 
 ent-PillDexalin = 药丸
+    .desc = 一颗装有地沙林的药丸。
 
 ent-PillCanisterDexalin = 药丸罐
+    .desc = 一只装有地沙林药丸的药罐。
 
 ent-PillDylovene = 药丸
+    .desc = 一颗装有地洛芬的药丸。
 
 ent-PillCanisterDylovene = 药丸罐
+    .desc = 一只装有地洛芬药丸的药罐。
 
 ent-PillHyronalin = 药丸
+    .desc = 一颗装有海洛纳林的药丸。
 
 ent-PillCanisterHyronalin = 药丸罐
+    .desc = 一只装有海洛纳林药丸的药罐。
 
 ent-PillPotassiumIodide = 药丸
+    .desc = 一颗装有碘化钾的药丸。
 
 ent-PillCanisterPotassiumIodide = 药丸罐
+    .desc = 一只装有碘化钾药丸的药罐。
 
 ent-PillIron = 药丸
+    .desc = 一颗装有铁元素补充剂的药丸。
 
 ent-PillCopper = 药丸
+    .desc = 一颗装有铜元素补充剂的药丸。
 
 ent-PillCanisterIron = 药丸罐
+    .desc = 一只装有铁元素补充剂药丸的药罐。
 
 ent-PillCanisterCopper = 药瓶
+    .desc = 一只装有铜元素补充剂药丸的药瓶。
 
 ent-PillKelotane = 凯洛坦药丸
+    .desc = 一颗装有凯洛坦的药丸。
 
 ent-PillCanisterKelotane = 凯洛坦药瓶
+    .desc = 一只装有凯洛坦药丸的药瓶。
 
 ent-PillDermaline = 德玛林药丸
+    .desc = 一颗装有德玛林的药丸。
 
 ent-PillCanisterDermaline = 德玛林药瓶
+    .desc = 一只装有德玛林药丸的药瓶。
 
 ent-PillSpaceDrugs = 太空幻象药丸
+    .desc = 一颗装有太空幻象的药丸。
 
 ent-PillTricordrazine = 三唑啉药丸
+    .desc = 一颗装有三唑啉的药丸。
 
 ent-PillCanisterTricordrazine = 三唑啉药瓶
+    .desc = 一只装有三唑啉药丸的药瓶。
 
 ent-PillBicaridine = 比卡啶药丸
+    .desc = 一颗装有比卡啶的药丸。
 
 ent-PillCanisterBicaridine = 比卡啶药瓶
+    .desc = 一只装有比卡啶药丸的药瓶。
 
 ent-PillCharcoal = 活性炭药丸
+    .desc = 一颗装有活性炭的药丸。
 
 ent-PillCanisterCharcoal = 活性炭药瓶
+    .desc = 一只装有活性炭药丸的药瓶。
 
 ent-PillRomerol = 罗美洛药丸
+    .desc = 一颗装有罗美洛的药丸。
 
 ent-PillAmbuzol = 安布唑药丸
+    .desc = 一颗装有安布唑的药丸。
 
 ent-PillAmbuzolPlus = 强效安布唑药丸
+    .desc = 一颗装有强效安布唑的药丸。
 
 ## healthanalyzer.yml
 
@@ -1014,7 +1133,7 @@ ent-HypopenBox = 注射笔盒
     .desc = 装有注射笔的小盒子。包装在打开时会自行分解，不留任何证据。
 
 ent-WehMedipen = weh自动注射笔
-    .desc = 一支不可重复填充的医疗笔，内含多剂量的weh。
+    .desc = 一支不可重复填充的医疗笔，内含多剂量 weh。
 
 ## medkits.yml
 
@@ -1097,7 +1216,7 @@ ent-SawElectric = 圆锯
     .desc = 用于重型切割作业。
 
 ent-SawAdvanced = 高级圆锯
-    .desc = Interdyne 公司的尖端手术锯。无论手术多么血腥混乱，保证始终保持洁净无菌。
+    .desc = 因特达因公司的尖端手术锯。无论手术多么血腥混乱，保证始终保持洁净无菌。
 
 ## anomaly.yml
 
@@ -1113,7 +1232,7 @@ ent-AnomalyLocatorUnpowered = 异常定位仪
 ent-AnomalyLocatorWideUnpowered = 广域异常定位仪
     .desc = 一款能在更远距离探测异常的设备，但无法测定它们的具体距离。
 
-ent-WeaponGauntletGorilla = G.O.R.I.L.L.A. 臂铠
+ent-WeaponGauntletGorilla = G.O.R.I.L.L.A.臂铠
     .desc = 一件坚固的研究设备。接入异常核心供能后，只需一击便能将异常物体击飞至空中。
 
 ## disk.yml
@@ -1131,83 +1250,105 @@ ent-ResearchDiskDebug = 研发点数磁盘
     .desc = 一张用于研发服务器的磁盘，内含你永远用不完的研发点数。
 
 ent-TechnologyDisk = 技术磁盘
+    .desc = 一张用于存储技术数据的磁盘。
 
 ## borg_modules.yml
 
-ent-BaseBorgModule = borg module
-    .desc = A piece of tech that gives cyborgs new abilities.
+ent-BaseBorgModule = 合成人模块
+    .desc = 一种能赋予合成人新能力的技术模块。
 
-ent-ActionBorgSwapModule = Swap Module
-    .desc = Select this module, enabling you to use the tools it provides.
+ent-ActionBorgSwapModule = 切换模块
+    .desc = 选择该模块，以启用它提供的工具。
 
-ent-BorgModulePrying = prying module
-    .desc = A universal cyborg module which allows the unit to pry open doors.
+ent-BorgModulePrying = 撬门合成人模块
+    .desc = 通用合成人模块，使机体能够撬开门。
 
-ent-BorgModuleCable = cable cyborg module
-    .desc = A universal cyborg module which allows the unit to install and manipulate electrical systems.
+ent-BorgModuleCable = 线缆合成人模块
+    .desc = 通用合成人模块，使机体能够安装和操作电力系统。
 
-ent-BorgModuleArtistry = artistry cyborg module
-    .desc = A module for arts & crafts whilst the station burns!
+ent-BorgModuleArtistry = 艺术合成人模块
+    .desc = 适合在空间站燃烧时搞手工艺的模块。
 
-ent-BorgModuleFireExtinguisher = thruster cyborg module
-    .desc = NT assigned a team to design a jetpack for cyborg units, but they ran out of funding and just made a bigger fire extinguisher. It comes with a integrated GPS and mass scanner though!
+ent-BorgModuleFireExtinguisher = 推进合成人模块
+    .desc = 纳米千能本想给合成人设计喷气背包，但经费耗尽后只做出了个更大的灭火器。不过它至少还附带了集成式GPS和质量扫描仪。
 
-ent-BorgModuleTool = tool cyborg module
+ent-BorgModuleTool = 工具合成人模块
+    .desc = 一套供工程与维修使用的基础工具模块。
 
-ent-BorgModuleInflatable = inflatable cyborg module
+ent-BorgModuleInflatable = 充气合成人模块
+    .desc = 一套用于快速部署充气结构的合成人模块。
 
-ent-BorgModuleAppraisal = appraisal cyborg module
+ent-BorgModuleAppraisal = 估价合成人模块
+    .desc = 让合成人能够评估物品价值的模块。
 
-ent-BorgModuleMining = mining cyborg module
+ent-BorgModuleMining = 采矿合成人模块
+    .desc = 内含基础采矿设备的货运模块。
 
-ent-BorgModuleAdvancedMining = advanced mining cyborg module
-    .desc = Advanced cargo module containing advanced mining equipment. Studies show it advances productivity of a cyborg by 150%.
+ent-BorgModuleAdvancedMining = 高级采矿合成人模块
+    .desc = 内含高级采矿设备的高级货运模块。研究表明，它能让合成人的工作效率提升 150%。
 
-ent-BorgModuleTraversal = traversal cyborg module
+ent-BorgModuleTraversal = 机动合成人模块
+    .desc = 提升合成人跨越障碍与复杂地形能力的模块。
 
-ent-BorgModuleAdvancedTool = advanced tool cyborg module
-    .desc = Advanced engineering module containing cutting-edge tools.
+ent-BorgModuleAdvancedTool = 高级工具合成人模块
+    .desc = 内含尖端工具的高级工程模块。
 
-ent-BorgModuleConstruction = construction cyborg module
+ent-BorgModuleConstruction = 建造合成人模块
+    .desc = 用于快速建造与拆除结构的工程模块。
 
-ent-BorgModuleRCD = engineering cyborg module
+ent-BorgModuleRCD = 工程合成人模块
+    .desc = 配备快速施工装置的工程模块。
 
-ent-BorgModuleCustodial = custodial cyborg module
+ent-BorgModuleCustodial = 勤务合成人模块
+    .desc = 配备基础清洁设备的勤务模块。
 
-ent-BorgModuleCleaning = cleaning cyborg module
+ent-BorgModuleCleaning = 清洁合成人模块
+    .desc = 一套专门用于清理污渍与杂物的模块。
 
-ent-BorgModuleAdvancedCleaning = advanced cleaning cyborg module
-    .desc = Advanced janitorial module containing, well... advanced janitor equipment. What were you expecting?
+ent-BorgModuleAdvancedCleaning = 高级清洁合成人模块
+    .desc = 内含高级清洁设备的高级勤务模块。还能是什么？
 
-ent-BorgModuleDiagnosis = diagnosis cyborg module
+ent-BorgModuleDiagnosis = 诊断合成人模块
+    .desc = 用于分析伤情与生命体征的医疗模块。
 
-ent-BorgModuleTopicals = first aid cyborg module
+ent-BorgModuleTopicals = 急救合成人模块
+    .desc = 配备用于基础外伤处理设备的医疗模块。
 
 ent-BorgModuleRescue = 救援合成人模块
+    .desc = 为紧急救援与转运伤员设计的医疗模块。
 
 ent-BorgModuleChemical = 化学合成人模块
+    .desc = 配备化学处理工具的医疗模块。
 
 ent-BorgModuleAdvancedTopical = 高级急救合成人模块
     .desc = 高级医疗模块，内含备受追捧的注射枪的合成人适配版。现在你的合成人能以更快的速度向危害船员者注射水合氯醛了！
 
 ent-BorgModuleArtifact = 遗物合成人模块
+    .desc = 配备遗物研究设备的科研模块。
 
 ent-BorgModuleAnomaly = 异常合成人模块
+    .desc = 配备用于异常研究与处理设备的科研模块。
 
 ent-BorgModuleService = 服务合成人模块
+    .desc = 为餐饮与乘客服务工作准备的模块。
 
 ent-BorgModuleMusique = 音乐合成人模块
+    .desc = 一套让合成人成为移动乐队的服务模块。
 
 ent-BorgModuleGardening = 园艺合成人模块
+    .desc = 配备用于种植与照料作物工具的园艺模块。
 
 ent-BorgModuleHarvesting = 收割合成人模块
+    .desc = 专门用于高效收获作物的园艺模块。
 
 ent-BorgModuleClowning = 小丑合成人模块
+    .desc = 为传播欢乐、混乱与香蕉皮而生的服务模块。
 
 ent-BorgModuleAdvancedClowning = 高级小丑合成人模块
     .desc = 专为最滑稽的合成人准备的高级服务模块！内置自动烤派烤箱，并配备全息香蕉皮投影仪和喇叭。
 
 ent-BorgModuleSyndicateWeapon = 武器合成人模块
+    .desc = 配备辛迪加武器系统的战斗模块。
 
 ent-BorgModuleOperative = 特工合成人模块
     .desc = 该模块配备撬棍、Emag、权限破解器和辛迪加定位仪。
@@ -1218,11 +1359,11 @@ ent-BorgModuleEsword = 能量剑合成人模块
 ent-BorgModuleDoubleEsword = 双头能量剑合成人模块
     .desc = 配备双头能量剑的武器模块。
 
-ent-BorgModuleL6C = L6C 步枪合成人模块
-    .desc = 配备 L6C 步枪的武器模块。
+ent-BorgModuleL6C = L6C步枪合成人模块
+    .desc = 配备L6C步枪的武器模块。
 
-ent-BorgModuleC20r = C-20r 步枪合成人模块
-    .desc = 配备连发 C-20r 步枪的武器模块。
+ent-BorgModuleC20r = C-20r步枪合成人模块
+    .desc = 配备连发C-20r步枪的武器模块。
 
 ent-BorgModuleMartyr = 殉道者合成人模块
     .desc = 该模块配备了一种你可能不想亲自处理的炸药。
@@ -1343,86 +1484,86 @@ ent-BarberScissors = 理发剪刀
 
 ## vending_machine_restock.yml
 
-ent-BaseVendingMachineRestock = vending machine restock box
-    .desc = A box for restocking vending machines with corporate goodies.
+ent-BaseVendingMachineRestock = 自动售货机补货箱
+    .desc = 一箱用于为自动售货机补充公司商品的补货箱。
 
-ent-VendingMachineRestockBooze = Booze-O-Mat restock box
-    .desc = Slot into your Booze-O-Mat to start the party! Not for sale to passengers below the legal age.
+ent-VendingMachineRestockBooze = Booze-O-Mat补货箱
+    .desc = 把它塞进Booze-O-Mat，派对就能开始了！不向未达法定年龄的乘客出售。
 
-ent-VendingMachineRestockChang = Mr. Chang's restock box
-    .desc = A box covered in white labels with bold red Chinese characters, ready to be loaded into the nearest Mr. Chang's vending machine.
+ent-VendingMachineRestockChang = 老张补货箱
+    .desc = 一个贴满白色标签和醒目红色汉字的箱子，随时可以装进最近的老张自动售货机。
 
-ent-VendingMachineRestockChefvend = ChefVend restock box
-    .desc = Refill the ChefVend. Just don't break any more of the eggs.
+ent-VendingMachineRestockChefvend = ChefVend补货箱
+    .desc = 用于补充ChefVend的货物。只是别再打碎鸡蛋了。
 
-ent-VendingMachineRestockCondimentStation = condiment station restock box
-    .desc = Refill the condiment station. Mmmm, cold sauce.
+ent-VendingMachineRestockCondimentStation = 调味站补货箱
+    .desc = 用于补充调味站。嗯，冰凉的酱料。
 
-ent-VendingMachineRestockClothes = wardrobe restock box
-    .desc = It's time to step up your fashion! Place inside any clothes vendor restock slot to begin.
+ent-VendingMachineRestockClothes = 衣橱补货箱
+    .desc = 该升级一下你的穿搭了！把它装进任意服装售货机的补货槽即可开始。
 
-ent-VendingMachineRestockCostumes = AutoDrobe restock box
-    .desc = A panoply of NanoTrasen employees are prancing about a colorful theater in a tragicomedy. You can join them too! Load this into your nearest AutoDrobe vending machine.
+ent-VendingMachineRestockCostumes = AutoDrobe补货箱
+    .desc = 一群纳米千能员工正在五彩斑斓的剧院里上演一出悲喜剧。你也可以加入他们！把它装进最近的AutoDrobe自动售货机吧。
 
-ent-VendingMachineRestockDinnerware = Plasteel Chef's restock box
-    .desc = It's never raw in this kitchen! Drop into the restock slot on the Plasteel Chef to begin.
+ent-VendingMachineRestockDinnerware = Plasteel Chef's餐具补货箱
+    .desc = 这个厨房里可没有半生不熟的东西！把它装进Plasteel Chef's的补货槽即可开始。
 
-ent-VendingMachineRestockDiscountDans = Discount Dan's restock box
-    .desc = A box full of salt and starch. Why suffer Quality when you can have Quantity? Discount Dan's!
+ent-VendingMachineRestockDiscountDans = 折扣丹补货箱
+    .desc = 一箱装满盐和淀粉的东西。既然可以选择数量，为什么还要追求质量？折扣丹如是说！
 
-ent-VendingMachineRestockDonut = Robust Donuts restock box
-    .desc = A box full of toroidal bundles of fried dough for restocking a vending machine. Use only as directed by Robust Industries, LLC.
+ent-VendingMachineRestockDonut = Robust Donuts补货箱
+    .desc = 一箱装满环形油炸面团，用于给自动售货机补货。请严格按照Robust Industries, LLC的说明使用。
 
-ent-VendingMachineRestockEngineering = EngiVend restock box
-    .desc = Only to be used by certified professionals.
+ent-VendingMachineRestockEngineering = EngiVend补货箱
+    .desc = 仅限持证专业人士使用。
 
-ent-VendingMachineRestockGames = Good Clean Fun restock box
-    .desc = It's time to roll for initiative, dice dragons! Load up at the Good Clean Fun vending machine!
+ent-VendingMachineRestockGames = Good Clean Fun补货箱
+    .desc = 该掷先攻了，骰龙们！快去给Good Clean Fun自动售货机补货吧！
 
-ent-VendingMachineRestockGetmoreChocolateCorp = GetMore Chocolate restock box
-    .desc = A box loaded with the finest ersatz cacao. Only to be used in official Getmore Chocolate vending machines.
+ent-VendingMachineRestockGetmoreChocolateCorp = GetMore Chocolate补货箱
+    .desc = 一箱装着上等代可可制品的货物。仅限用于官方GetMore Chocolate自动售货机。
 
-ent-VendingMachineRestockHotDrinks = Solar's Best restock box
-    .desc = Toasty! For use in Solar's Best Hot Drinks or other affiliate vending machines.
+ent-VendingMachineRestockHotDrinks = Solar's Best补货箱
+    .desc = 热腾腾的！适用于Solar's Best Hot Drinks及其他关联自动售货机。
 
-ent-VendingMachineRestockMedical = NanoMed restock box
-    .desc = Slot into your department's NanoMed or NanoMedPlus to dispense. Handle with care.
+ent-VendingMachineRestockMedical = NanoMed补货箱
+    .desc = 把它装进你部门的NanoMed或NanoMed Plus即可开始分发。请小心搬运。
 
-ent-VendingMachineRestockNutriMax = NutriMax restock box
-    .desc = We'll make your thumbs green with our tools. Let's get to harvesting! Load into a NutriMax vending machine.
+ent-VendingMachineRestockNutriMax = NutriMax补货箱
+    .desc = 我们会用工具让你拥有绿拇指。该去丰收了！把它装进NutriMax自动售货机吧。
 
-ent-VendingMachineRestockPTech = PTech restock box
-    .desc = All the bureaucracy you can handle, and more! Load into the PTech vending machine to get started.
+ent-VendingMachineRestockPTech = PTech补货箱
+    .desc = 这里有你能处理的全部文书工作，甚至更多！把它装进PTech自动售货机即可开始。
 
-ent-VendingMachineRestockRobustSoftdrinks = beverage restock box
-    .desc = A cold, clunky container of colliding chilly cylinders. Use only as directed by Robust Industries, LLC.
+ent-VendingMachineRestockRobustSoftdrinks = 饮料补货箱
+    .desc = 一个冰冷、笨重、塞满清凉罐装饮料的箱子。请严格按照Robust Industries, LLC的说明使用。
 
-ent-VendingMachineRestockSecTech = SecTech restock box
-    .desc = Communists beware: the reinforcements have arrived! A label reads SECURITY PERSONNEL ONLY.
+ent-VendingMachineRestockSecTech = SecTech补货箱
+    .desc = 共产主义者小心了：增援已经抵达！标签上写着“仅限安保人员使用”。
 
-ent-VendingMachineRestockSalvageEquipment = Salvage Vendor restock box
-    .desc = Strike the earth ere the space carp nip your behind! Slam into a salvage vendor to begin.
+ent-VendingMachineRestockSalvageEquipment = Salvage售货机补货箱
+    .desc = 在太空鲤鱼咬到你屁股之前狠狠干活吧！把它猛地塞进打捞售货机里即可开始。
 
-ent-VendingMachineRestockSeeds = MegaSeed 补货箱
-    .desc = 标签上写着这些是祖传种子，由我们的祖先代代相传。把它装进 MegaSeed 伺服机里！
+ent-VendingMachineRestockSeeds = MegaSeed补货箱
+    .desc = 标签上写着这些是祖传种子，由我们的祖先代代相传。把它装进MegaSeed伺服机里！
 
-ent-VendingMachineRestockSmokes = ShadyCigs 补货箱
+ent-VendingMachineRestockSmokes = ShadyCigs补货箱
     .desc = 卫生署长的警告贴得太多，几乎看不清其他内容，但上面确实提到了将其装入自动售货机。
 
 ent-VendingMachineRestockTankDispenser = 气罐分配器补货箱
     .desc = 可用于替换气罐分配器中的气瓶。请小心轻放。
 
-ent-VendingMachineRestockVendomat = Vendomat 补货箱
-    .desc = 一箱装满各种机械零件的盒子。将其装入 Vendomat 即可开始。
+ent-VendingMachineRestockVendomat = Vendomat补货箱
+    .desc = 一箱装满各种机械零件的盒子。将其装入Vendomat即可开始。
 
-ent-VendingMachineRestockRobotics = Robotech Deluxe 补货箱
-    .desc = 一箱用于制造合成人的工具。将其装入 Robotech Deluxe 即可开始。
+ent-VendingMachineRestockRobotics = Robotech Deluxe补货箱
+    .desc = 一箱用于制造合成人的工具。将其装入Robotech Deluxe即可开始。
 
-ent-VendingMachineRestockHappyHonk = Happy Honk 补货箱
-    .desc = 将这箱充满欢乐的物品放入 Happy Honk 分配器的补货槽即可开始。
+ent-VendingMachineRestockHappyHonk = Happy Honk补货箱
+    .desc = 将这箱充满欢乐的物品放入Happy Honk分配器的补货槽即可开始。
 
-ent-VendingMachineRestockChemVend = ChemVend 补货箱
-    .desc = 一箱装满化学品的盒子，上面贴满了看起来十分危险的 NFPA 菱形标识。将其装入 ChemVend 即可开始。
+ent-VendingMachineRestockChemVend = ChemVend补货箱
+    .desc = 一箱装满化学品的盒子，上面贴满了看起来十分危险的NFPA菱形标识。将其装入ChemVend即可开始。
 
 ## artifact_equipment.yml
 
@@ -1434,11 +1575,11 @@ ent-HandheldArtifactContainer = 手持遗物箱
 
 ## item_xenoartifacts.yml
 
-ent-BaseXenoArtifactItem = artifact
-    .desc = A strange artifact from time unknown. Looks like a good time. Fits in hand perfectly.
+ent-BaseXenoArtifactItem = 遗物
+    .desc = 一件来自未知时代的奇异遗物。看起来会带来不少乐子，拿在手里也正合适。
 
-ent-ArtifactFragment = artifact fragment
-    .desc = A broken piece of an artifact. You could probably repair it if you had more.
+ent-ArtifactFragment = 遗物碎片
+    .desc = 一块破损的遗物碎片。如果你手头有更多，或许就能把它修好。
 
 ## node_scanner.yml
 
@@ -1448,11 +1589,225 @@ ent-NodeScanner = 节点扫描仪
 ## structure_xenoartifacts.yml
 
 ent-BaseXenoArtifactStructure = 遗物
+    .desc = 一件被固定于结构基座上的奇异遗物。
 
 ## xenoartifacts.yml
 
 ent-BaseXenoArtifact = 遗物
     .desc = 一件来自未知时代的奇异遗物。看起来能带来不少乐子。
+
+ent-BaseXenoArtifactEffect = 效应
+    .desc = 未知
+
+ent-BaseOneTimeXenoArtifactEffect = 一次性效应
+    .desc = 未知
+
+ent-XenoArtifactEffectUniversalIntercom = 效应
+    .desc = 获得远距离通信设备的能力。
+
+ent-XenoArtifactBecomeRandomInstrument = 效应
+    .desc = 获得乐器的能力。
+
+ent-XenoArtifactStorage = 效应
+    .desc = 获得隐藏储物空间的能力。
+
+ent-XenoArtifactPhasing = 效应
+    .desc = 进入相位状态。
+
+ent-XenoArtifactWandering = 效应
+    .desc = 开始不规律地移动。
+
+ent-XenoArtifactSolutionStorage = 效应
+    .desc = 获得化学溶液容器的能力。
+
+ent-XenoArtifactSpeedUp = 效应
+    .desc = 提升持有者的移动速度。
+
+ent-XenoArtifactDrill = 效应
+    .desc = 获得钻头的能力。
+
+ent-XenoArtifactGenerateEnergy = 效应
+    .desc = 产生电力。
+
+ent-XenoArtifactGun = 效应
+    .desc = 获得枪械的能力。
+
+ent-XenoArtifactGhost = 效应
+    .desc = 变得具有自我意识。
+
+ent-XenoArtifactOmnitool = 效应
+    .desc = 获得全能工具的能力。
+
+ent-XenoArtifactEffectBadFeeling = 效应
+    .desc = 广播难以言喻的信息。
+
+ent-XenoArtifactEffectGoodFeeling = 效应
+    .desc = 广播难以言喻的信息。
+
+ent-XenoArtifactEffectJunkSpawn = 效应
+    .desc = 生成可回收垃圾。
+
+ent-XenoArtifactEffectLightFlicker = 效应
+    .desc = 轻微电磁干扰。
+
+ent-XenoArtifactPotassiumWave = 效应
+    .desc = 产生钾。
+
+ent-XenoArtifactFloraSpawn = 效应
+    .desc = 生成植物群。
+
+ent-XenoArtifactChemicalPuddle = 效应
+    .desc = 生成一滩化学混合物。
+
+ent-XenoArtifactThrowThingsAround = 效应
+    .desc = 轻微内爆。
+
+ent-XenoArtifactColdWave = 效应
+    .desc = 冷却周围气体。
+
+ent-XenoArtifactHeatWave = 效应
+    .desc = 大幅加热周围气体。
+
+ent-XenoArtifactFoamMild = 效应
+    .desc = 生成化学泡沫。
+
+ent-XenoArtifactRandomInstrumentSpawn = 效应
+    .desc = 生成乐器。
+
+ent-XenoArtifactMonkeySpawn = 效应
+    .desc = 生成灵长类生物。
+
+ent-XenoArtifactRadioactive = 效应
+    .desc = 变得轻度放射性。
+
+ent-XenoArtifactChargeBattery = 效应
+    .desc = 为电池充能。
+
+ent-XenoArtifactKnock = 效应
+    .desc = 轻微电磁干扰。
+
+ent-XenoArtifactMagnet = 效应
+    .desc = 生成小型重力井。
+
+ent-XenoArtifactMagnetNegative = 效应
+    .desc = 生成小型重力井。
+
+ent-XenoArtifactStealth = 效应
+    .desc = 造成光线干扰。
+
+ent-XenoArtifactRareMaterialSpawn = 效应
+    .desc = 生成稀有材料。
+
+ent-XenoArtifactRareMaterialSpawnSilver = 效应
+    .desc = 生成银矿。
+
+ent-XenoArtifactRareMaterialSpawnPlasma = 效应
+    .desc = 生成等离子矿。
+
+ent-XenoArtifactRareMaterialSpawnGold = 效应
+    .desc = 生成金矿。
+
+ent-XenoArtifactRareMaterialSpawnUranium = 效应
+    .desc = 生成铀矿。
+
+ent-XenoArtifactAngryCarpSpawn = 效应
+    .desc = 生成敌对鱼类。
+
+ent-XenoArtifactFaunaSpawn = 效应
+    .desc = 生成友好动物。
+
+ent-XenoArtifactHostileFaunaSpawn = 效应
+    .desc = 生成敌对动物。
+
+ent-XenoArtifactCashSpawn = 效应
+    .desc = 生成金钱。
+
+ent-XenoArtifactShatterWindows = 效应
+    .desc = 打碎窗户。
+
+ent-XenoArtifactFoamGood = 效应
+    .desc = 生成一波有益泡沫。
+
+ent-XenoArtifactFoamDangerous = 效应
+    .desc = 生成一波有害泡沫。
+
+ent-XenoArtifactPuddleRare = 效应
+    .desc = 生成一滩有益化学品。
+
+ent-XenoArtifactAnomalySpawn = 效应
+    .desc = 生成异常现象。
+
+ent-XenoArtifactIgnite = 效应
+    .desc = 念力纵火。
+
+ent-XenoArtifactTeleport = 效应
+    .desc = 传送。
+
+ent-XenoArtifactEmp = 效应
+    .desc = 危险的电磁干扰。
+
+ent-XenoArtifactPolyMonkey = 效应
+    .desc = 暂时将血肉重塑为毛皮。
+
+ent-XenoArtifactPolyLizard = 效应
+    .desc = 暂时将血肉重塑为鳞片。
+
+ent-XenoArtifactPolyLuminous = 效应
+    .desc = 暂时将血肉重塑为光芒。
+
+ent-XenoArtifactRadioactiveStrong = 效应
+    .desc = 变得高度放射性。
+
+ent-XenoArtifactMaterialSpawnGlass = 效应
+    .desc = 生成玻璃。
+
+ent-XenoArtifactMaterialSpawnSteel = 效应
+    .desc = 生成钢材。
+
+ent-XenoArtifactMaterialSpawnPlastic = 效应
+    .desc = 生成塑料。
+
+ent-XenoArtifactPortal = 效应
+    .desc = 生成短暂存在的蓝空传送门。
+
+ent-XenoArtifactArtifactSpawn = 效应
+    .desc = 生成遗物。
+
+ent-XenoArtifactShuffle = 效应
+    .desc = 交换智慧生物的位置。
+
+ent-XenoArtifactHealAll = 效应
+    .desc = 奇迹般的治疗。
+
+ent-XenoArtifactTesla = 效应
+    .desc = 大规模破坏。
+
+ent-XenoArtifactSingularity = 效应
+    .desc = 迫在眉睫的毁灭。
+
+ent-XenoArtifactExplosionScary = 效应
+    .desc = 小规模高速核反应。
+
+ent-XenoArtifactBoom = 效应
+    .desc = 爆炸。
+
+ent-XenoArtifactEffectCreationGasPlasma = 效应
+    .desc = 释放等离子体。
+
+ent-XenoArtifactEffectCreationGasTritium = 效应
+    .desc = 释放氚气。
+
+ent-XenoArtifactEffectCreationGasAmmonia = 效应
+    .desc = 释放氨气。
+
+ent-XenoArtifactEffectCreationGasFrezon = 效应
+    .desc = 释放弗里昂。
+
+ent-XenoArtifactEffectCreationGasNitrousOxide = 效应
+    .desc = 释放一氧化二氮。
+
+ent-XenoArtifactEffectCreationGasCarbonDioxide = 效应
+    .desc = 释放二氧化碳。
 
 ent-ActionArtifactActivate = 激活遗物
     .desc = 激活自身，让周围的人陷入混乱。
@@ -1483,18 +1838,25 @@ ent-GasAnalyzer = 气体分析仪
 ## rehydrateable.yml
 
 ent-MonkeyCube = 猴子方块
+    .desc = 只需加水！立刻获得一只猴子。
 
 ent-KoboldCube = 狗头人方块
+    .desc = 只需加水！立刻获得一只狗头人。
 
 ent-CowCube = 奶牛方块
+    .desc = 只需加水！立刻获得一头奶牛。
 
 ent-GoatCube = 山羊方块
+    .desc = 只需加水！立刻获得一只山羊。
 
 ent-MothroachCube = 蛾蟑方块
+    .desc = 只需加水！立刻获得一只蛾蟑。
 
 ent-MoproachCube = 莫普蟑方块
+    .desc = 只需加水！立刻获得一只莫普蟑。
 
 ent-MouseCube = 老鼠方块
+    .desc = 只需加水！立刻获得一只老鼠。
 
 ent-CockroachCube = 蟑螂方块
     .desc = 只需加水——我的天！
@@ -1516,15 +1878,17 @@ ent-MopBucketCube = 拖把桶方块
 
 ## syndicate.yml
 
-ent-Telecrystal = telecrystal
-    .desc = It seems to be pulsing with suspiciously enticing energies.
+ent-Telecrystal = 传送水晶
+    .desc = 它似乎正脉动着某种可疑又诱人的能量。
 
-ent-BaseUplinkRadio = syndicate uplink
-    .desc = Suspiciously looking old radio...
+ent-BaseUplinkRadio = 辛迪加入链器
+    .desc = 一个看起来很可疑的老式无线电……
 
 ## base_item.yml
 
 ent-BaseItem = 物品
+    .desc = 一件普通物品。
 
 ent-BaseStorageItem = 储物物品
+    .desc = 一件可用于存放其他物品的容器。
 
