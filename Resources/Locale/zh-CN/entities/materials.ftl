@@ -26,51 +26,74 @@ ent-ShardCrystalCyan = 青色水晶碎片
     .desc = 一小片水晶。
 
 ent-ShardCrystalBlue = 蓝色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalYellow = 黄色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalOrange = 橙色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalBlack = 黑色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalPink = 粉色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalGreen = 绿色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalRed = 红色水晶碎片
+    .desc = 一小片水晶。
 
 ent-ShardCrystalRandom = 随机水晶碎片
+    .desc = 一小片水晶。
 
 ## ingots.yml
 
 ent-IngotGold = 金锭
+    .desc = 一块沉重的金属锭，上面压印着纳米千能的标志。
 
 ent-IngotSilver = 银锭
+    .desc = 一块沉重的金属锭，上面压印着纳米千能的标志。
 
 ## materials.yml
 
 ent-MaterialCardboard = 纸板
+    .desc = 一种原材料。
 
 ent-MaterialCloth = 布料
+    .desc = 一种原材料。
 
 ent-MaterialDurathread = 杜拉线
+    .desc = 一种原材料。
 
 ent-MaterialWoodPlank = 木材
+    .desc = 一种原材料。
 
 ent-MaterialBiomass = 生物质
+    .desc = 一种原材料。
 
 ent-MaterialHideBear = 熊皮
+    .desc = 一种原材料。
 
 ent-MaterialHideCorgi = 柯基皮
     .desc = 仅用于最顶级时装的奢华毛皮。据说这是在柯基被送去那个美好农场时才能得到的东西。
 
+ent-WallRockAndesite = 安山岩
+    .desc = 一堵未经开采的安山岩墙。
+
 ent-MaterialDiamond = 精制钻石
+    .desc = 一种原材料。
 
 ent-MaterialCotton = 棉花
+    .desc = 一种原材料。
 
 ent-MaterialPyrotton = 热棉
+    .desc = 一种原材料。
 
 ent-MaterialBananium = 香蕉素
+    .desc = 一种原材料。
 
 ent-MaterialWebSilk = 蚕丝
     .desc = 一种网状材料。
@@ -82,6 +105,7 @@ ent-MaterialToothSharkminnow = 鲨鱼鱼牙
     .desc = 看起来很锋利。锋利到能戳瞎眼睛的那种。妈的，这牙也太大了。
 
 ent-MaterialBones = 骨头
+    .desc = 一种原材料。
 
 ent-MaterialGunpowder = 火药
     .desc = 一种爆炸性化合物。
@@ -92,28 +116,39 @@ ent-MaterialGoliathHide = 歌利亚皮板
 ## ore.yml
 
 ent-GoldOre = 金矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-DiamondOre = 钻石矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-SteelOre = 铁矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-PlasmaOre = 等离子矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-SilverOre = 银矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-SpaceQuartz = 太空石英
+    .desc = 一块未经提炼的矿石。
 
 ent-UraniumOre = 铀矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-BananiumOre = 香蕉素矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-Coal = 煤炭
+    .desc = 一块未经提炼的矿石。
 
 ent-SaltOre = 盐
+    .desc = 一块未经提炼的矿石。
 
 ## parts.yml
 
 ent-PartRodMetal = 金属杆
+    .desc = 一捆金属杆，常用于建筑与加固作业。
 
 ## scrap.yml
 
@@ -160,6 +195,7 @@ ent-ScrapFirelock2 = 防火门门板
     .desc = 哦！原来另一半在这里！
 
 ent-ScrapFirelock3 = 防火门框架
+    .desc = 防火门炸毁后残留下来的扭曲框架。
 
 ent-ScrapIntercom = 对讲机废料
     .desc = 你真希望它至少还附带一些加密密钥。
@@ -203,11 +239,13 @@ ent-ScrapGeneratorFuelTank = 燃料罐
 ## Sheets/metal.yml
 
 ent-SheetSteel = 钢板
+    .desc = 一张金属板，在空间站各处都有广泛应用。
 
 ent-SheetBrass = 黄铜板
     .desc = 一张黄铜板，主要被发条爱好者和拉特瓦里安教派的残余信徒所使用。
 
 ent-SheetPlasteel = 塑钛板
+    .desc = 一张金属板，在空间站各处都有广泛应用。
 
 ## Sheets/glass.yml
 
@@ -235,11 +273,16 @@ ent-SheetClockworkGlass = 发条玻璃板
 ## Sheets/other.yml
 
 ent-SheetPaper = 纸张
+    .desc = 一张材料板，在空间站各处都有广泛应用。
 
 ent-SheetPlasma = 等离子板
+    .desc = 一张材料板，在空间站各处都有广泛应用。
 
 ent-SheetPlastic = 塑料板
+    .desc = 一张材料板，在空间站各处都有广泛应用。
 
 ent-SheetUranium = 铀板
+    .desc = 一张材料板，在空间站各处都有广泛应用。
 
 ent-MaterialSheetMeat = 肉片
+    .desc = 一张材料板，在空间站各处都有广泛应用。

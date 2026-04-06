@@ -120,10 +120,13 @@ ent-SteelLog = 钢顶木蘑原木
     .desc = 钢铁不长在树上！长在蘑菇上，当然。
 
 ent-TrashBakedBananaPeel = 烤香蕉皮
+    .desc = 一张被烤得发软发黑的香蕉皮。
 
 ent-TrashMimanaPeel = 模拟香蕉皮
+    .desc = 一张看起来像香蕉皮、却透着几分诡异的果皮。
 
 ent-TrashBananiumPeel = 香蕉素皮
+    .desc = 一张闪着荒诞气息的香蕉素果皮。
 
 ent-FoodLemoon = 月柠檬
     .desc = 人们说月亮是由奶酪做成的，但月亮其实是由牛奶和月桂叶做成的！
@@ -183,6 +186,7 @@ ent-FoodRealCapfruit = 帽果
     .desc = 一种柔软光滑的枪形水果。
 
 ent-FoodFakeCapfruit = 帽果
+    .desc = 一种看似帽果、实则并不正经的冒牌水果。
 
 ent-FoodSpacemansTrumpet = 太空人的喇叭花
     .desc = 一朵鲜艳的花，散发着淡淡的新割草气息。触摸花瓣后皮肤会在一段时间后染色，但其他表面似乎不受影响。
@@ -200,6 +204,7 @@ ent-FoodBungo = 邦果
     .desc = 普通的邦果。
 
 ent-FoodBungoPit = 邦果核
+    .desc = 吃完邦果后剩下的硬核。
 
 ent-FoodPeaPod = 豌豆荚
     .desc = 鸭子最喜欢的零食！
@@ -214,6 +219,7 @@ ent-PyrottonBol = 焰棉铃
     .desc = 这个大概会把你点着。
 
 ent-TrashCherryPit = 樱桃核
+    .desc = 一颗被吐出来的小樱桃核。
 
 ent-FoodAnomalyBerry = 异常浆果
     .desc = 一种奇怪的蓝色果实，看起来哪里不对劲。

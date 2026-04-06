@@ -12,3 +12,6 @@ thief-role-greeting-equipment =
 objective-issuer-thief = [color=#746694]罪犯[/color]
 
 thief-round-end-agent-name = 盗贼
+
+ent-EscapeThiefShuttleObjective = 乘逃生穿梭机活着且不受束缚地逃往中央指挥部。
+    .desc = 你肯定不想让任何人发现你的违法勾当，对吧？

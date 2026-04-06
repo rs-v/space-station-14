@@ -6,20 +6,20 @@ ent-BaseMachineCircuitboard = 机器电路板
 
 ## cannons.yml
 
-ent-ShuttleGunSvalinnMachineGunCircuitboard = LSE-400c “斯瓦林”机枪机械电路板
-    .desc = 用于 LSE-400c “斯瓦林”机枪的机械印刷电路板。
+ent-ShuttleGunSvalinnMachineGunCircuitboard = LSE-400c“斯瓦林”机枪机械电路板
+    .desc = 用于LSE-400c“斯瓦林”机枪的机械印刷电路板。
 
-ent-ShuttleGunPerforatorCircuitboard = LSE-1200c “穿孔者”机械电路板
-    .desc = 用于 LSE-1200c “穿孔者”的机械印刷电路板。
+ent-ShuttleGunPerforatorCircuitboard = LSE-1200c“穿孔者”机械电路板
+    .desc = 用于LSE-1200c“穿孔者”的机械印刷电路板。
 
-ent-ShuttleGunFriendshipCircuitboard = EXP-320g “友谊”机械电路板
-    .desc = 用于 EXP-320g “友谊”的机械印刷电路板。
+ent-ShuttleGunFriendshipCircuitboard = EXP-320g“友谊”机械电路板
+    .desc = 用于EXP-320g“友谊”的机械印刷电路板。
 
-ent-ShuttleGunDusterCircuitboard = EXP-2100g “清道夫”机械电路板
-    .desc = 用于 EXP-2100g “清道夫”的机械印刷电路板。
+ent-ShuttleGunDusterCircuitboard = EXP-2100g“清道夫”机械电路板
+    .desc = 用于EXP-2100g“清道夫”的机械印刷电路板。
 
-ent-ShuttleGunKineticCircuitboard = PTK-800 “物质解离器”机械电路板
-    .desc = 用于 PTK-800 “物质解离器”的机械印刷电路板。
+ent-ShuttleGunKineticCircuitboard = PTK-800“物质解离器”机械电路板
+    .desc = 用于PTK-800“物质解离器”的机械印刷电路板。
 
 ## holopad.yml
 
@@ -614,8 +614,8 @@ ent-CameraBug = 监控窃听器
 
 ## chimp_upgrade_kit.yml
 
-ent-WeaponPistolCHIMPUpgradeKit = C.H.I.M.P. 手炮升级芯片
-    .desc = 一款用于 C.H.I.M.P. 的实验性升级套件。
+ent-WeaponPistolCHIMPUpgradeKit = C.H.I.M.P.手炮升级芯片
+    .desc = 一款用于C.H.I.M.P.的实验性升级套件。
 
 ## dna_injector.yml
 
@@ -781,7 +781,7 @@ ent-EncryptionKeyScience = 科研加密密钥
     .desc = 科学家使用的加密密钥。说不定它防等离子？
 
 ent-EncryptionKeyRobo = 机器人加密密钥
-    .desc = 机器人技师使用的加密密钥。上面会不会印着 LAH-6000？
+    .desc = 机器人技师使用的加密密钥。上面会不会印着LAH-6000？
 
 ent-EncryptionKeySecurity = 安保加密密钥
     .desc = 安保人员使用的加密密钥。
@@ -854,7 +854,7 @@ ent-CrewMonitoringComputerFlatpack = 船员监控计算机组装包
 ent-HydroponicsTrayFlatpack = 水培盘组装包
     .desc = 用于组装水培盘的组装包。
 
-ent-SyndicateMicrowaveFlatpack = Donk Co. 微波炉组装包
+ent-SyndicateMicrowaveFlatpack = Donk Co.微波炉组装包
     .desc = 用于组装一台热度连纳米千能都难以承受的微波炉的组装包。
 
 ## forensic_scanner.yml
@@ -927,181 +927,181 @@ ent-FlashPayload = 闪光载荷
 ent-BasePDA = PDA
     .desc = 个人数据助理。
 
-ent-PassengerPDA = 乘客 PDA
+ent-PassengerPDA = 乘客PDA
     .desc = 为什么不是灰色的？
 
-ent-TechnicalAssistantPDA = 技术助理 PDA
+ent-TechnicalAssistantPDA = 技术助理PDA
     .desc = 为什么不是黄色的？
 
-ent-MedicalInternPDA = 医疗实习生 PDA
+ent-MedicalInternPDA = 医疗实习生PDA
     .desc = 为什么不是白色的？
 
-ent-SecurityCadetPDA = 安保学员 PDA
+ent-SecurityCadetPDA = 安保学员PDA
     .desc = 为什么不是红色的？
 
-ent-ResearchAssistantPDA = 研究助理 PDA
+ent-ResearchAssistantPDA = 研究助理PDA
     .desc = 为什么不是紫色的？
 
-ent-ServiceWorkerPDA = 服务人员 PDA
+ent-ServiceWorkerPDA = 服务人员PDA
     .desc = 为什么不是灰色的？
 
-ent-ChefPDA = 厨师 PDA
+ent-ChefPDA = 厨师PDA
     .desc = 沾满了油脂和面粉。
 
-ent-BotanistPDA = 植物学家 PDA
+ent-BotanistPDA = 植物学家PDA
     .desc = 带着一股泥土的气息。
 
-ent-ClownPDA = 小丑 PDA
+ent-ClownPDA = 小丑PDA
     .desc = 外表是会骗人的。
 
-ent-MimePDA = 哑剧演员 PDA
+ent-MimePDA = 哑剧演员PDA
     .desc = 居然没被静音。
 
-ent-ChaplainPDA = 牧师 PDA
-    .desc = 上帝钦定的 PDA。
+ent-ChaplainPDA = 牧师PDA
+    .desc = 上帝钦定的PDA。
 
-ent-QuartermasterPDA = 物资主任 PDA
-    .desc = 给那个负责订购枪支的家伙用的 PDA。
+ent-QuartermasterPDA = 物资主任PDA
+    .desc = 给那个负责订购枪支的家伙用的PDA。
 
-ent-CargoPDA = 货运 PDA
-    .desc = 给那些负责订购披萨的家伙用的 PDA。
+ent-CargoPDA = 货运PDA
+    .desc = 给那些负责订购披萨的家伙用的PDA。
 
-ent-SalvagePDA = 打捞 PDA
+ent-SalvagePDA = 打捞PDA
     .desc = 闻起来有股灰烬味。
 
-ent-BartenderPDA = 酒保 PDA
+ent-BartenderPDA = 酒保PDA
     .desc = 闻起来有股啤酒味。
 
-ent-LibrarianPDA = 图书管理员 PDA
+ent-LibrarianPDA = 图书管理员PDA
     .desc = 闻起来有股书的味道。
 
-ent-LawyerPDA = 律师 PDA
-    .desc = 供律师用来招揽可疑客户的 PDA。
+ent-LawyerPDA = 律师PDA
+    .desc = 供律师用来招揽可疑客户的PDA。
 
-ent-JanitorPDA = 清洁工 PDA
+ent-JanitorPDA = 清洁工PDA
     .desc = 闻起来有股漂白水味。
 
-ent-CaptainPDA = 站长 PDA
-    .desc = 令人惊讶的是，它和你的 PDA 没什么两样。
+ent-CaptainPDA = 站长PDA
+    .desc = 令人惊讶的是，它和你的PDA没什么两样。
 
-ent-HoPPDA = 人事主任 PDA
+ent-HoPPDA = 人事主任PDA
     .desc = 看起来像是被啃过。
 
-ent-CEPDA = 首席工程师 PDA
+ent-CEPDA = 首席工程师PDA
     .desc = 看起来几乎没怎么用过。
 
-ent-EngineerPDA = 工程师 PDA
+ent-EngineerPDA = 工程师PDA
     .desc = 结实且磨损严重。
 
-ent-CMOPDA = 首席医疗官 PDA
+ent-CMOPDA = 首席医疗官PDA
     .desc = 异常光亮且一尘不染。
 
-ent-MedicalPDA = 医疗 PDA
+ent-MedicalPDA = 医疗PDA
     .desc = 干净无菌。
 
-ent-ParamedicPDA = 急救员 PDA
+ent-ParamedicPDA = 急救员PDA
     .desc = 干净无菌。
 
-ent-ChemistryPDA = 化学 PDA
+ent-ChemistryPDA = 化学PDA
     .desc = 表面零星分布着几块变色的污渍。
 
-ent-RnDPDA = 研究主任 PDA
+ent-RnDPDA = 研究主任PDA
     .desc = 看起来出奇地普通。
 
-ent-SciencePDA = 科学 PDA
+ent-SciencePDA = 科学PDA
     .desc = 上面覆盖着一种未知的黏稠物质。
 
-ent-HoSPDA = 安保主任 PDA
-    .desc = 持有此 PDA 者即为法律。
+ent-HoSPDA = 安保主任PDA
+    .desc = 持有此PDA者即为法律。
 
-ent-WardenPDA = 典狱官 PDA
+ent-WardenPDA = 典狱官PDA
     .desc = 操作系统似乎已被越狱。
 
-ent-SecurityPDA = 安保 PDA
+ent-SecurityPDA = 安保PDA
     .desc = 红色是为了掩盖乘客的血迹。
 
-ent-CentcomPDA = 统帅部 PDA
+ent-CentcomPDA = 统帅部PDA
     .desc = 浅绿色，行走的官僚主义象征。
 
-ent-AdminPDA = 管理员 PDA
-    .desc = 如果您不是管理员，请将此 PDA 交还给最近的管理员。
+ent-AdminPDA = 管理员PDA
+    .desc = 如果您不是管理员，请将此PDA交还给最近的管理员。
 
-ent-MusicianPDA = 音乐家 PDA
+ent-MusicianPDA = 音乐家PDA
     .desc = 使你灵感迸发。
 
-ent-AtmosPDA = 大气 PDA
+ent-AtmosPDA = 大气PDA
     .desc = 依然散发着等离子体的气味。
 
-ent-ClearPDA = 透明 PDA
+ent-ClearPDA = 透明PDA
     .desc = 纯度高达 99.44% 的塑料。
 
-ent-SyndiPDA = 辛迪加 PDA
+ent-SyndiPDA = 辛迪加PDA
     .desc = 好了，是时候做个对社会有贡献的人了——哦酷，我是反派，该去大开杀戒了！
 
-ent-SyndiOperativePDA = 辛迪加特工 PDA
+ent-SyndiOperativePDA = 辛迪加特工PDA
     .desc = 打倒纳米千能！
 
-ent-SyndiCorpsmanPDA = 辛迪加医护兵 PDA
+ent-SyndiCorpsmanPDA = 辛迪加医护兵PDA
     .desc = 指挥官……让我发挥！
 
-ent-SyndiCommanderPDA = 辛迪加指挥官 PDA
+ent-SyndiCommanderPDA = 辛迪加指挥官PDA
     .desc = 我们算什么，核弹小队吗？
 
-ent-ERTLeaderPDA = ERT 队长 PDA
+ent-ERTLeaderPDA = ERT队长PDA
     .desc = 红色代表火力。
 
-ent-ERTChaplainPDA = ERT 牧师 PDA
+ent-ERTChaplainPDA = ERT牧师PDA
     .desc = 红色代表火力，且受过祝福。
 
-ent-ERTEngineerPDA = ERT 工程师 PDA
+ent-ERTEngineerPDA = ERT工程师PDA
     .desc = 红色代表火力，外壳已饱经风霜。
 
-ent-ERTJanitorPDA = ERT 清洁工 PDA
+ent-ERTJanitorPDA = ERT清洁工PDA
     .desc = 红色代表火力，干净得发亮。
 
-ent-ERTMedicPDA = ERT 医疗兵 PDA
+ent-ERTMedicPDA = ERT医疗兵PDA
     .desc = 红色代表火力，闪亮且无菌。
 
-ent-ERTSecurityPDA = ERT 安保 PDA
+ent-ERTSecurityPDA = ERT安保PDA
     .desc = 红色代表火力，侧面刻着计数划痕。
 
-ent-CBURNPDA = CBURN PDA
+ent-CBURNPDA = CBURNPDA
     .desc = 闻起来像腐肉。
 
-ent-PsychologistPDA = 心理医生 PDA
+ent-PsychologistPDA = 心理医生PDA
     .desc = 看起来清理得一尘不染。
 
-ent-ReporterPDA = 记者 PDA
+ent-ReporterPDA = 记者PDA
     .desc = 闻起来有刚印刷报纸的油墨味。
 
-ent-ZookeeperPDA = 动物园管理员 PDA
+ent-ZookeeperPDA = 动物园管理员PDA
     .desc = 采用纯正合成皮革制成。好家伙！
 
-ent-BoxerPDA = 拳击手 PDA
+ent-BoxerPDA = 拳击手PDA
     .desc = 如蝴蝶般轻盈，铃声似蜜蜂般嗡鸣。
 
-ent-DetectivePDA = 侦探 PDA
+ent-DetectivePDA = 侦探PDA
     .desc = 闻起来像雨水……倾泻在屋顶上……
 
-ent-BrigmedicPDA = 禁闭室医护 PDA
+ent-BrigmedicPDA = 禁闭室医护PDA
     .desc = 不知道屏幕上是谁的脉搏？希望它别停下来……
 
-ent-CluwnePDA = cluwne PDA
-    .desc = 被诅咒的 cluwne PDA。
+ent-CluwnePDA = 克卢恩PDA
+    .desc = 被诅咒的克卢恩PDA。
 
-ent-SeniorEngineerPDA = 高级工程师 PDA
+ent-SeniorEngineerPDA = 高级工程师PDA
     .desc = 似乎被拆开又组装了好几次。
 
-ent-SeniorResearcherPDA = 高级研究员 PDA
+ent-SeniorResearcherPDA = 高级研究员PDA
     .desc = 看起来历经了多年的化学灼烧与爆炸。
 
-ent-SeniorPhysicianPDA = 高级医师 PDA
+ent-SeniorPhysicianPDA = 高级医师PDA
     .desc = 隐隐散发着铁锈与化学品的气味。
 
-ent-SeniorOfficerPDA = 高级安保官 PDA
+ent-SeniorOfficerPDA = 高级安保官PDA
     .desc = 伤痕累累、破旧不堪，但勉强还能用。
 
-ent-SeniorCourierPDA = 高级信使 PDA
+ent-SeniorCourierPDA = 高级信使PDA
     .desc = 闻起来像邮票和穿梭机燃料。
 
 ent-NinjaPDA = 忍者PDA
@@ -1173,7 +1173,7 @@ ent-DeviceQuantumSpinInverter = 量子自旋反转器
 ## wristwatch.yml
 
 ent-Wristwatch = 手表
-    .desc = 一块廉价的计时手表。你玩《Space Station 14》浪费了多少时间？
+    .desc = 一块廉价的计时手表。你玩《太空站14》浪费了多少时间？
 
 ent-WristwatchGold = 金表
     .desc = 一块华丽的手表，价值超过你的一个肾。它曾属于臭名昭著的辛迪加黑手党成员维尼巴尔多·“两百磅碎马肉机”·弗雷迪亚尼。

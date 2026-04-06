@@ -75,7 +75,7 @@ ent-FoodBreadBaguetteSlice = 意式烤面包片
     .desc = 用餐愉……快！
 
 ent-FoodBreadBaguetteCottonSlice = 棉花烤面包片
-    .desc = Bon az-zétite！
+    .desc = 祝你好胃口！
 
 ent-FoodBreadButteredToast = 黄油吐司
     .desc = 酥脆。
@@ -122,16 +122,19 @@ ent-FoodCakeOrange = 橙子蛋糕
     .desc = 加了橙子的蛋糕。
 
 ent-FoodCakeOrangeSlice = 橙子蛋糕切片
+    .desc = 一块加了橙子的蛋糕切片。
 
 ent-FoodCakeLime = 青柠蛋糕
     .desc = 加了青柠的蛋糕。
 
 ent-FoodCakeLimeSlice = 青柠蛋糕切片
+    .desc = 一块加了青柠的蛋糕切片。
 
 ent-FoodCakeLemon = 柠檬蛋糕
     .desc = 加了柠檬的蛋糕。
 
 ent-FoodCakeLemonSlice = 柠檬蛋糕切片
+    .desc = 一块加了柠檬的蛋糕切片。
 
 ent-FoodCakeLemoon = 月柠蛋糕
     .desc = 一块象征着地球月球的蛋糕。
@@ -143,6 +146,7 @@ ent-FoodCakeChocolate = 巧克力蛋糕
     .desc = 加了巧克力的蛋糕。
 
 ent-FoodCakeChocolateSlice = 巧克力蛋糕切片
+    .desc = 一块加了巧克力的蛋糕切片。
 
 ent-FoodCakeApple = 苹果蛋糕
     .desc = 中间嵌着苹果的蛋糕。
@@ -166,6 +170,7 @@ ent-FoodCakeChristmas = 圣诞蛋糕
     .desc = 一块用圣诞节做成的蛋糕。
 
 ent-FoodCakeChristmasSlice = 圣诞蛋糕切片
+    .desc = 一块充满节日气息的圣诞蛋糕切片。
 
 ent-FoodCakeBirthday = 生日蛋糕
     .desc = 生日快乐，小丑……
@@ -229,10 +234,10 @@ ent-FoodDonkpocketPizza = 披萨驴包
 ent-FoodDonkpocketPizzaWarm = 热披萨驴包
     .desc = 加热后的芝士馅料绝对能抚慰你的胃。
 
-ent-FoodDonkpocketHonk = Honk驴包
+ent-FoodDonkpocketHonk = 鸣笛驴包
     .desc = 屡获殊荣的驴包，赢得了小丑与人类的一致喜爱。
 
-ent-FoodDonkpocketHonkWarm = 热Honk驴包
+ent-FoodDonkpocketHonkWarm = 热鸣笛驴包
     .desc = 屡获殊荣的驴包，现已加热至温热可口。
 
 ent-FoodDonkpocketBerry = 浆果驴包
@@ -245,11 +250,13 @@ ent-FoodDonkpocketStonk = 股灾驴包
     .desc = 味道不错，但总会让人悲伤地想起24年的大股灾。
 
 ent-FoodDonkpocketStonkWarm = 热股灾驴包
+    .desc = 热腾腾的股灾驴包，依旧带着令人心碎的金融余味。
 
 ent-FoodDonkpocketCarp = 鲤鱼驴包
     .desc = 失传已久的驴包版本，专为辛勤工作的打捞员打造。
 
 ent-FoodDonkpocketCarpWarm = 热鲤鱼驴包
+    .desc = 热腾腾的鲤鱼驴包，专为辛勤工作的打捞员打造。
 
 ent-FoodDonkpocketDink = 山寨驴包
     .desc = 蜥蜴人山寨版驴包，内馅是腌胡萝卜，外层裹着海苔。最好冷吃，或者干脆别吃。
@@ -258,10 +265,12 @@ ent-FoodDonkpocketMoth = 飞蛾驴包
     .desc = 在大规模抗议活动中诞生的嗡嗡作响版驴包……算了，谁在乎呢？就是给飞蛾吃的驴包。
 
 ent-FoodDonkpocketMothWarm = 热飞蛾驴包
+    .desc = 热腾腾的飞蛾驴包，闻起来像飞蛾们会喜欢的那种味道。
 
 ## donut.yml
 
 ent-FoodDonutJellyPlain = 原味果酱甜甜圈
+    .desc = 一个填满基础果酱馅的甜甜圈。
 
 ent-FoodDonutMeat = 肉甜甜圈
     .desc = 味道和它的外表一样糟糕。
@@ -418,24 +427,31 @@ ent-FoodPieClafoutis = 浆果克拉芙缇
     .desc = 没有黑鸟，这是个好兆头。
 
 ent-FoodPieClafoutisSlice = 一块浆果克拉芙缇
+    .desc = 一块没有黑鸟的浆果克拉芙缇。
 
 ent-FoodPieCherrySlice = 一块樱桃派
+    .desc = 一块酸甜可口的樱桃派。
 
 ent-FoodPiePumpkinSlice = 一块南瓜派
+    .desc = 一块香甜绵软的南瓜派。
 
 ent-FoodPieXeno = 异形派
+    .desc = 一块看着就不太安全的异形派。
 
 ent-FoodPieXenoSlice = 一块异形派
+    .desc = 一块看着就不太安全的异形派。
 
 ent-FoodPieFrosty = 冰霜派
     .desc = 尝起来是蓝色和寒冷的味道。
 
 ent-FoodPieFrostySlice = 一块冰霜派
+    .desc = 一块尝起来是蓝色和寒冷味道的派。
 
 ent-FoodTartMime = 哑剧挞
-    .desc = "      "
+    .desc = 静悄悄的美味甜点。
 
 ent-FoodTartMimeSlice = 一块哑剧挞
+    .desc = 一块安静得有些诡异的哑剧挞。
 
 ent-FoodPieAmanita = 毒蝇伞派
     .desc = 甜美可口的毒药派。
@@ -516,23 +532,31 @@ ent-FoodBowlFancy = 碗
 ## box.yml
 
 ent-FoodBoxDonkpocketSpicy = 辣味驴包盒
+    .desc = 一盒辣味驴包，专供嗜辣之人享用。
 
 ent-FoodBoxDonkpocketTeriyaki = 照烧味驴包盒
+    .desc = 一盒照烧风味驴包，甜咸交织。
 
 ent-FoodBoxDonkpocketPizza = 披萨味驴包盒
+    .desc = 一盒披萨风味驴包，方便又充满快餐气息。
 
 ent-FoodBoxDonkpocketStonk = 限量版股票包盒
+    .desc = 一盒限量版股票包，味道和行情一样大起大落。
 
 ent-FoodBoxDonkpocketCarp = 鲤鱼包盒
+    .desc = 一盒鲤鱼驴包，专为打捞员和怪口味人士准备。
 
 ent-FoodBoxDonkpocketBerry = 浆果味驴包盒
+    .desc = 一盒带着甜味果香的浆果驴包。
 
 ent-FoodBoxDonkpocketHonk = 香蕉味驴包盒
+    .desc = 一盒香蕉风味驴包，散发着一点不祥的滑稽气息。
 
-ent-FoodBoxDonkpocketDink = dink包盒
+ent-FoodBoxDonkpocketDink = Dink包盒
     .desc = 零碳水化合物！无需加热！
 
 ent-FoodBoxDonkpocketMoth = 飞蛾包盒
+    .desc = 一盒飞蛾风味驴包，里面大概装着某种“纤维美味”。
 
 ent-HappyHonk = 快乐Honk餐
     .desc = 玩具比食物还好吃。
@@ -541,15 +565,16 @@ ent-HappyHonkNukie = 硬核核子人餐
     .desc = 一顿可疑的餐点，附带可能爆炸的惊喜。
 
 ent-HappyHonkNukieSnacks = 辛迪加零食盒
+    .desc = 一盒附带在硬核核子人餐里的可疑零食。
 
-ent-HappyHonkCluwne = 悲惨cluwne餐
+ent-HappyHonkCluwne = 悲惨克卢恩餐
     .desc = 这玩意儿绝对没好事。
 
 ent-FoodMealHappyHonkBigBite = 快乐Honk巨口套餐
     .desc = 有人花大价钱把这顿快餐运到这儿。不知怎么的，闻起来还挺新鲜。
 
 ent-FoodBoxCloth = FlutterSoft牌布料盒
-    .desc = 纤维是飞蛾最重要的一餐！别凑合跳过，也别用储物柜底的破烂，买高品质的FlutterSoft牌布料吧。
+    .desc = 纤维是飞蛾最重要的一餐！别随便糊弄过去，也别翻储物柜底下的破烂来凑合，买高品质的FlutterSoft牌布料吧。
 
 ## condiments.yml
 
@@ -636,17 +661,22 @@ ent-FoodTinBaseTrash = 空罐头
     .desc = 一个空罐头。或许能从中回收一点金属。
 
 ent-FoodTinPeachesTrash = 桃子罐头
+    .desc = 一个吃空后的桃子罐头。
 
 ent-FoodTinPeachesMaint = 维修桃子罐头
+    .desc = 一罐来源可疑的维修区桃子。你最好别深究它是怎么来的。
 
 ent-FoodTinPeachesMaintTrash = 维修桃子罐头
+    .desc = 一个吃空后的维修桃子罐头。
 
 ent-FoodTinBeansTrash = 豆子罐头
+    .desc = 一个吃空后的豆子罐头。
 
 ent-FoodTinMRE = 肉类罐头
     .desc = 标准配发的肉类罐头，配有方便的易拉环。
 
 ent-FoodTinMRETrash = 肉类罐头
+    .desc = 一个已经开封吃空的肉类罐头。
 
 ## burger.yml
 
@@ -668,7 +698,7 @@ ent-FoodBurgerBear = 熊堡
 ent-FoodBurgerCat = 猫肉汉堡
     .desc = 那些猫和猫人终于有点价值了！
 
-ent-FoodBurgerCorgi = 柯基堡 #not curger
+ent-FoodBurgerCorgi = 柯基堡 #不是狗堡
     .desc = 人事主任的最爱！
 
 ent-FoodBurgerCrazy = 疯狂汉堡 #给欧洲软蛋的汉堡
@@ -696,7 +726,7 @@ ent-FoodBurgerSoy = 大豆汉堡
     .desc = 吃完之后，你会产生一种强烈的冲动，想要去买那些定价过高的超级英雄手办。
 
 ent-FoodBurgerSpell = 法术汉堡
-    .desc = 这绝对是 Ei Nath。
+    .desc = 这绝对是Ei Nath。
 
 ent-FoodBurgerMothRoach = 蛾蟑堡
     .desc = 它生前看到的最后一盏灯，是微波炉里的那盏。
@@ -719,32 +749,32 @@ ent-Eggshells = 蛋壳
 
 ## frozen.yml
 
-ent-FoodFrozenSandwichStrawberry = strawberry ice-cream sandwich
-    .desc = Portable ice-cream in its own packaging of the strawberry variety.
+ent-FoodFrozenSandwichStrawberry = 草莓冰淇淋三明治
+    .desc = 夹在饼干中的便携式草莓冰淇淋。
 
-ent-FoodFrozenCornuto = cornuto
-    .desc = A Neapolitan vanilla and chocolate ice-cream cone. It menaces with a sprinkling of caramelized nuts.
+ent-FoodFrozenCornuto = 科努托冰淇淋筒
+    .desc = 一支那不勒斯风味的香草巧克力冰淇淋筒，上面撒着焦糖坚果碎。
 
-ent-FoodFrozenSnowconeBase = sweet snowcone
-    .desc = It's just shaved ice and simple syrup, minimum effort.
+ent-FoodFrozenSnowconeBase = 甜味刨冰
+    .desc = 只是刨冰加糖浆而已，基本没费什么功夫。
 
-ent-FoodFrozenSnowconeFruit = fruit salad snowcone
-    .desc = A delightful mix of citrus syrups drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeFruit = 水果沙拉刨冰
+    .desc = 纸杯雪球上淋着多种柑橘糖浆的清爽组合。
 
-ent-FoodFrozenSnowconeClown = clowncone
-    .desc = Laughter drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeClown = 小丑刨冰
+    .desc = 一份把欢笑淋在纸杯雪球上的滑稽甜点。
 
-ent-FoodFrozenSnowconeMime = mime snowcone
-    .desc = ...
+ent-FoodFrozenSnowconeMime = 哑剧刨冰
+    .desc = 安静得过头的纸杯刨冰。
 
-ent-FoodFrozenSnowconeRainbow = rainbow snowcone
-    .desc = A very colorful snowball in a paper cup.
+ent-FoodFrozenSnowconeRainbow = 彩虹刨冰
+    .desc = 一份装在纸杯里的缤纷彩色雪球。
 
-ent-FoodFrozenSnowconeTrash = paper cone
-    .desc = A crumpled paper cone used for an icy treat. Worthless.
+ent-FoodFrozenSnowconeTrash = 纸锥杯
+    .desc = 一个盛放冷饮后被揉皱的纸锥杯，毫无价值。
 
-ent-FoodFrozenPopsicleTrash = popsicle stick
-    .desc = Once held a delicious treat. Now, 'tis barren.
+ent-FoodFrozenPopsicleTrash = 冰棒棍
+    .desc = 曾经串着一份美味冷饮，如今只剩一根空棍。
 
 ## ingredients.yml
 
@@ -870,8 +900,8 @@ ent-FoodMealBearsteak = 咆哮菲力牛排
 ent-FoodMealPigblanket = 毯裹小猪
     .desc = 一根裹在酥脆黄油面团里的小香肠。吃掉它，把这头猪从毯子监狱里解放出来吧。
 
-ent-FoodMealRibs = BBQ烤肋排
-    .desc = 涂满“健康”BBQ酱的烤肋排。有史以来最不素食的东西。
+ent-FoodMealRibs = 烧烤肋排
+    .desc = 涂满“健康”烧烤酱的烤肋排。有史以来最不素食的东西。
 
 ent-FoodMealEggsbenedict = 班尼迪克蛋
     .desc = 上面居然只有一个蛋，真没礼貌。
@@ -1123,7 +1153,7 @@ ent-FoodKebabSkewer = 烤签
 
 ## snacks.yml
 
-ent-FoodSnackCnDs = C&Ds
+ent-FoodSnackCnDs = C&Ds巧克力豆
     .desc = 从法律上讲，我们不能保证它们不会在你手里融化。
 
 ent-FoodSnackChocolate = 巧克力棒
@@ -1178,40 +1208,55 @@ ent-FoodSnackSwirlLollipop = 螺旋棒棒糖
     .desc = 一圈纯粹浓缩的螺旋糖。现在谁是操场上最幼稚的小孩？
 
 ent-FoodPacketBoritosTrash = 波利托斯包装袋
+    .desc = 一个空掉的波利托斯零食包装袋。
 
-ent-FoodPacketCnDsTrash = C&Ds包装袋
+ent-FoodPacketCnDsTrash = C&Ds巧克力豆包装袋
+    .desc = 一个空掉的C&Ds巧克力豆包装袋。
 
 ent-FoodPacketCheesieTrash = 芝士脆包装袋
+    .desc = 一个空掉的芝士脆零食包装袋。
 
 ent-FoodPacketChipsTrash = 薯片包装袋
+    .desc = 一个空掉的薯片包装袋。
 
 ent-FoodPacketChocolateTrash = 巧克力包装纸
+    .desc = 一张被撕开的巧克力包装纸。
 
 ent-FoodPacketEnergyTrash = 能量棒包装纸
+    .desc = 一张空空如也的能量棒包装纸。
 
 ent-FoodPacketPistachioTrash = 开心果包装袋
+    .desc = 一个空掉的开心果包装袋。
 
 ent-FoodPacketPopcornTrash = 爆米花盒
+    .desc = 一个已经吃空的爆米花盒。
 
 ent-FoodPacketRaisinsTrash = 葡萄干包装袋
+    .desc = 一个空掉的葡萄干包装袋。
 
 ent-FoodPacketSemkiTrash = 葵花籽包装袋
+    .desc = 一个吐完壳后剩下的空包装袋。
 
 ent-FoodPacketSusTrash = 可疑肉干包装袋
+    .desc = 一个空掉的可疑肉干包装袋。
 
 ent-FoodPacketSyndiTrash = 辛迪加蛋糕盒
+    .desc = 一个吃空后的辛迪加蛋糕盒。
 
 ent-FoodPacketCupRamenTrash = 空杯面
+    .desc = 一个吃完后只剩汤渍味道的空杯面盒。
 
 ent-FoodPacketChowMeinTrash = 空炒面盒
+    .desc = 一个已经吃空的炒面盒。
 
 ent-FoodPacketDanDanTrash = 空担担面盒
+    .desc = 一个已经吃空的担担面盒。
 
 ent-FoodCookieFortune = 幸运饼干
     .desc = 签文写着：末日将近……而这全是你的错。
 
-ent-FoodPacketMRETrash = MRE包装袋
-    .desc = 适用于各类军用食品的通用包装袋。
+ent-FoodPacketMRETrash = 单兵口粮包装袋
+    .desc = 适用于各类军用口粮的通用包装袋。
 
 ## soup.yml
 
@@ -1339,8 +1384,8 @@ ent-CigCartonGreen = 斯佩斯曼香烟条
 ent-CigCartonRed = 单峰驼公司香烟条
     .desc = 内含6包单峰驼公司香烟的烟条。
 
-ent-CigCartonBlue = Acme公司香烟条
-    .desc = 内含6包Acme公司香烟的烟条。
+ent-CigCartonBlue = 艾克米公司香烟条
+    .desc = 内含6包艾克米公司香烟的烟条。
 
 ent-CigCartonBlack = 游牧者香烟条
     .desc = 内含6包游牧者香烟的烟条。
@@ -1357,56 +1402,82 @@ ent-SoakedCigarette = 香烟
     .desc = 一支被某种化学物质浸泡过的卷烟。
 
 ent-CigaretteSyndicate = 香烟
+    .desc = 一支注入特殊药剂的辛迪加香烟。
 
 ent-CigaretteOmnizine = 热狗水风味大爆炸
+    .desc = 一支浸泡过诡异药剂的香烟，味道听起来就像化学事故。
 
 ent-CigaretteIron = 锈橙巴哈风暴
+    .desc = 一支带着浓重金属气息的浸泡香烟。
 
 ent-CigaretteTricordrazine = 甘草什锦糖
+    .desc = 一支味道古怪却莫名熟悉的浸泡香烟。
 
 ent-CigaretteDylovene = 小便池除臭块溶解剂
+    .desc = 一支闻起来就让人后悔点燃的浸泡香烟。
 
 ent-CigaretteDermaline = 芦荟花生酱混合风味
+    .desc = 一支拥有离谱风味组合的浸泡香烟。
 
 ent-CigaretteArithrazine = 罗马铅管工坊
+    .desc = 一支带着强烈工业遗产风味的浸泡香烟。
 
 ent-CigaretteNutriment = 奶奶的圣诞水果蛋糕
+    .desc = 一支甜得发腻的浸泡香烟。
 
 ent-CigaretteBicaridine = 湿狗强化香烟
+    .desc = 一支散发着可疑生物气味的浸泡香烟。
 
 ent-CigaretteDexalin = 落基山麝香
+    .desc = 一支味道像寒冷山风和旧夹克的浸泡香烟。
 
 ent-CigaretteSaline = 北大西洋巡游
+    .desc = 一支带着海风和咸味错觉的浸泡香烟。
 
 ent-CigaretteBbqSauce = 辛辣木香
+    .desc = 一支闻起来像烤架边角料的浸泡香烟。
 
 ent-CigaretteFrezon = 大气层大冒险
+    .desc = 一支吸起来凉得过头的浸泡香烟。
 
 ent-CigaretteCapsaicinOil = 冰爽P
+    .desc = 一支又辣又冲的浸泡香烟，体验相当矛盾。
 
-ent-CigaretteRadium = X光射线
+ent-CigaretteRadium = X射线
+    .desc = 一支名字就不太让人放心的浸泡香烟。
 
 ent-CigaretteHaloperidol = 温热牛提取物
+    .desc = 一支令人困惑且毫无食欲的浸泡香烟。
 
 ent-CigaretteLaughter = 小丑邻近加成
+    .desc = 一支让人怀疑自己是不是正在接近小丑的浸泡香烟。
 
 ent-CigaretteLipolicide = 80年代健身操
+    .desc = 一支充满复古塑料感的浸泡香烟。
 
 ent-CigaretteSodiumPolyacrylate = 不良嗜好
+    .desc = 一支从名字到口感都像坏主意的浸泡香烟。
 
 ent-CigaretteMold = 水槽底体验
+    .desc = 一支带着潮湿霉味的浸泡香烟。
 
 ent-CigaretteLicoxide = 叫醒服务
+    .desc = 一支刺激得仿佛能把人当场叫醒的浸泡香烟。
 
 ent-CigaretteWeldingFuel = 等离子酱
+    .desc = 一支闻起来像工地事故的浸泡香烟。
 
 ent-CigaretteRobustHarvest = 嬉皮言情小说
+    .desc = 一支带着青草与廉价浪漫气息的浸泡香烟。
 
 ent-CigarettePhlogiston = 巨龙恋爱模拟
+    .desc = 一支热情得近乎危险的浸泡香烟。
 
 ent-CigaretteBanana = Pun Pun的热带假期
+    .desc = 一支带着香蕉甜味的滑稽浸泡香烟。
 
 ent-CigaretteBlackPepper = 英伦香料
+    .desc = 一支辛辣呛鼻的浸泡香烟。
 
 ## joints.yml
 
@@ -1425,8 +1496,10 @@ ent-BluntRainbow = 雪茄烟卷
 ## packs.yml
 
 ent-CigPackBase = 香烟包
+    .desc = 一包香烟。
 
 ent-CigPackMixedBase = 浸湿的香烟包
+    .desc = 一包被各种可疑化学物质浸泡过的香烟。
 
 ent-CigPackGreen = 斯佩斯曼香烟包
     .desc = 包装上的标签写着：“难道慢慢死去不也是一种改变吗？”

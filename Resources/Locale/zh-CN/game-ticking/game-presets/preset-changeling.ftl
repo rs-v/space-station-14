@@ -11,3 +11,6 @@ changeling-briefing =
 objective-issuer-changeling = [color=#FA2A55]蜂巢思维[/color]
 
 changeling-round-end-agent-name = 变形者
+
+ent-ChangelingSurviveObjective = 生存。
+    .desc = 我们必须不惜一切代价活下去。

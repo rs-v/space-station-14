@@ -112,11 +112,11 @@ ent-ShelfChemistry = 化学货架
 
 ## switch_autolink.yml
 
-ent-SignalButtonExt1 = 外部按钮 1
+ent-SignalButtonExt1 = 外部按钮1
 
-ent-SignalButtonExt2 = 外部按钮 2
+ent-SignalButtonExt2 = 外部按钮2
 
-ent-SignalButtonExt3 = 外部按钮 3
+ent-SignalButtonExt3 = 外部按钮3
 
 ent-SignalButtonBridge = 舰桥窗户按钮
 

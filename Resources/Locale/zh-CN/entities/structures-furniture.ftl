@@ -6,6 +6,7 @@ ent-TableBase = 桌子
     .desc = 一块方形金属板，由四条金属腿支撑。
 
 ent-CounterBase = 柜台
+    .desc = 一张用于隔开顾客与工作人员的柜台。
 
 ## operating_table.yml
 
@@ -68,46 +69,73 @@ ent-TableCounterWood = 木制柜台
 ent-TableCounterMetal = 金属柜台
     .desc = 看起来是个放饮料的好地方。
 
+## memorial.yml
+
+ent-Memorial = 纪念碑
+    .desc = 纪念某些事物。
+ent-SS13Memorial = 无名员工之墓
+    .desc = 此处安息着一位无名员工
+        不知其名，不知其职
+        其功绩将永不被遗忘
+
 ## altar.yml
 
 ent-AltarBase = 祭坛
     .desc = 诸神之祭坛。
 
 ent-AltarNanotrasen = 纳米千能祭坛
+    .desc = 供奉纳米千能的祭坛。
 
 ent-AltarChaos = 混沌祭坛
+    .desc = 供奉混沌之力的祭坛。
 
 ent-AltarDruid = 德鲁伊祭坛
+    .desc = 供奉自然之灵的祭坛。
 
 ent-AltarToolbox = 工具箱祭坛
+    .desc = 一座向工具箱致敬的祭坛。
 
 ent-AltarSpaceChristian = 太空基督教祭坛
+    .desc = 供奉太空基督教信仰的祭坛。
 
 ent-AltarSatana = 撒旦祭坛
+    .desc = 供奉撒旦的黑暗祭坛。
 
 ent-AltarTechnology = 科技祭坛
+    .desc = 供奉科技之力的祭坛。
 
 ent-AltarConvertFestival = 节日祭坛
+    .desc = 一座装点着节庆风格的转化祭坛。
 
 ent-AltarConvertMaint = 维修祭坛
+    .desc = 一座带有维修区风格的转化祭坛。
 
 ent-AltarConvertBlue = 蓝色祭坛
+    .desc = 一座蓝色的转化祭坛。
 
 ent-AltarConvertBurden = 负担祭坛
+    .desc = 一座象征负担的转化祭坛。
 
 ent-AltarConvert = 转化祭坛
+    .desc = 一座用于转化仪式的祭坛。
 
 ent-AltarConvertOrange = 橙色祭坛
+    .desc = 一座橙色的转化祭坛。
 
 ent-AltarConvertRed = 红色祭坛
+    .desc = 一座红色的转化祭坛。
 
 ent-AltarConvertWhite = 白色祭坛
+    .desc = 一座白色的转化祭坛。
 
 ent-AltarConvertYellow = 黄色祭坛
+    .desc = 一座黄色的转化祭坛。
 
 ent-AltarHeaven = 天堂祭坛
+    .desc = 一座散发神圣气息的祭坛。
 
 ent-AltarFangs = 獠牙祭坛
+    .desc = 一座饰有獠牙的祭坛。
 
 ent-AltarBananium = 鸣笛之母祭坛
     .desc = 一座由香蕉素制成、献给鸣笛之母的祭坛。
@@ -134,35 +162,46 @@ ent-CarpetBase = 地毯
 
 ent-Carpet = 地毯
     .suffix = 红色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetBlack = 地毯
     .suffix = 黑色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetPink = 地毯
     .suffix = 粉色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetBlue = 地毯
     .suffix = 蓝色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetGreen = 地毯
     .suffix = 绿色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetOrange = 地毯
     .suffix = 橙色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetSBlue = 地毯
     .suffix = 天蓝色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetPurple = 地毯
     .suffix = 紫色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetCyan = 地毯
     .suffix = 青色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetWhite = 地毯
     .suffix = 白色
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetChapel = 礼拜堂地毯
+    .desc = 看起来很高级的步行表面。
 
 ent-CarpetCard = 纸板“地毯”
     .desc = 连油毡都比这强。
@@ -173,27 +212,37 @@ ent-SeatBase = 椅子
     .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-UnanchoredChairBase = 椅子
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-ChairBase = 椅子
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-OfficeChairBase = 椅子
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-StoolBase = 凳子
+    .desc = 请安放您的臀部。
 
 ent-Chair = 椅子
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-ChairGreyscale = 椅子
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-Stool = 凳子
     .desc = 请安放您的臀部。
 
 ent-StoolBar = 吧台凳
+    .desc = 请安放您的臀部。
 
 ent-ChairBrass = 黄铜椅
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-ChairOfficeLight = 白色办公椅
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-ChairOfficeDark = 深色办公椅
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-ComfyChair = 舒适椅
     .desc = 看起来很舒服。
@@ -202,6 +251,7 @@ ent-ChairPilotSeat = 驾驶座
     .desc = 豪华舰船的专属驾驶座。
 
 ent-ChairWood = 木椅
+    .desc = 你可以坐在上面。无论是自愿还是被迫。
 
 ent-ChairRitual = 仪式椅
     .desc = 看起来不太舒服。
@@ -235,7 +285,9 @@ ent-Memorial = 纪念碑
     .desc = 用于纪念某些事物。
 
 ent-SS13Memorial = 无名员工之墓
-    .desc = |
+    .desc = 此处安息着一位无名员工
+        不知其名，不知其职
+        其功绩将永不被遗忘
 
 ## potted_plants.yml
 
@@ -293,6 +345,7 @@ ent-PottedPlant24 = 盆栽
 ent-PottedPlant26 = 盆栽
     .desc = 装在花盆里的一小片自然。
 ent-PottedPlant28 = 塑料盆栽
+    .desc = 一棵看起来廉价劣质的假塑料树。非常适合那些“碰啥死啥”的植物杀手。
 
 ent-PottedPlantBioluminscent = 荧光盆栽
     .desc = 它能发光！
@@ -315,12 +368,16 @@ ent-SinkEmpty = 水槽
     .desc = 水龙头已拧至最大扭矩，但依然会滴水。
 
 ent-Sink = 水槽
+    .desc = 一个用于洗手和清洗物品的水槽。
 
 ent-SinkWide = 宽水槽
+    .desc = 一个更宽大的水槽，用于洗手和清洗物品。
 
 ent-SinkStemless = 水槽
+    .desc = 一个用于洗手和清洗物品的水槽。
 
 ent-SinkStemlessWater = 水槽
+    .desc = 一个用于洗手和清洗物品的注水水槽。
 
 
 ## janicart.yml
@@ -330,6 +387,7 @@ ent-MopBucket = 拖把桶
 
 ent-MopBucketFull = 拖把桶
     .suffix = 装满
+    .desc = 装满了水和清洁工的泪水。
 
 ent-JanitorialTrolley = 清洁工推车
     .desc = 这是卫生工作的起点与终点。

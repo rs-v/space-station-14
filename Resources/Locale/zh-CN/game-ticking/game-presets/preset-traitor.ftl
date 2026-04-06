@@ -45,3 +45,21 @@ traitor-role-codewords-short =
     {$codewords}。
 traitor-role-uplink-code-short = 你的暗号装置代码为 {$code}。将其设为你的PDA铃声以访问暗号装置。
 traitor-role-uplink-implant-short = 你的暗号装置已植入。可从动作菜单访问。
+
+ent-EscapeShuttleObjective = 乘逃生穿梭机活着且不受束缚地逃往中央指挥部。
+    .desc = 我们的一名卧底特工会在你抵达后为你做汇报。别戴着手铐出现。
+
+ent-DieObjective = 光荣赴死
+    .desc = 去死。
+
+ent-KillRandomPersonObjective = 阻止目标撤离
+    .desc = 随你用什么手段，总之别让他们离开空间站。
+
+ent-KillRandomHeadObjective = 除掉目标主管
+    .desc = 我们需要这个主管消失，而你大概知道原因。别让他们抵达中央指挥部，就算是尸体也不行。祝你好运，特工。
+
+ent-RandomTraitorAliveObjective = 确保另一名叛徒存活
+    .desc = 是否表明身份由你自己决定。我们只需要他们活着。
+
+ent-RandomTraitorProgressObjective = 确保另一名叛徒完成目标
+    .desc = 是否表明身份由你自己决定。我们只需要他们成功。

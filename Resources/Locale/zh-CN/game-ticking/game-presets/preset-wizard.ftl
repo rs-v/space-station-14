@@ -47,4 +47,10 @@ wizard-role-greeting =
 
 wizard-round-end-name = 法师
 
+ent-WizardSurviveObjective = 生存
+    .desc = 太空巫师联合会希望你活下去！
+
+ent-WizardDemonstrateObjective = 制造混乱
+    .desc = 给那些空间站小崽子一点教训，让他们再也不敢对巫师不敬！
+
 ## TODO：法师学徒（将在法师发布后某个时间推出）

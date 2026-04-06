@@ -73,6 +73,7 @@ ent-ClothingMaskClownBase = 小丑假发与面具
     .desc = 恶作剧大师的专属面部行头。少了假发与面具，小丑便是不完整的。
 
 ent-ClothingMaskClownBanana = 香蕉小丑假发与面具
+    .desc = 恶作剧大师的专属面部行头。少了假发与面具，小丑便是不完整的。
 
 ent-ClothingMaskClownSecurity = 安保小丑假发与面具
     .desc = 看似矛盾却具备防护功能的面具与假发。
@@ -92,8 +93,8 @@ ent-ClothingMaskMuzzle = 嘴套
 ent-ClothingMaskPlague = 瘟疫医生面具
     .desc = 不祥之兆。
 
-ent-ClothingMaskCluwne = Cluwne面部与头发
-    .desc = 受诅咒的Cluwne面部与头发。
+ent-ClothingMaskCluwne = 克卢恩面部与头发
+    .desc = 受诅咒的克卢恩面部与头发。
 
 ent-ClothingMaskGasSwat = 特警防毒面具
     .desc = 安保精英制式防毒面具。
@@ -132,6 +133,7 @@ ent-ClothingMaskNeckGaiter = 脖套
     .desc = 时尚的脖套，专为你的脖子设计，能抵御宇宙风吗？……
 
 ent-ClothingMaskNeckGaiterRed = 红色脖套
+    .desc = 时尚的脖套，专为你的脖子设计，能抵御宇宙风吗？……
 
 ent-ClothingMaskBlushingClown = 脸红小丑面具
     .desc = 给脸红小丑戴的面具。
@@ -162,6 +164,6 @@ ent-ClothingMaskWeldingGas = 焊接防毒面具
 ent-ClothingMaskGasChameleon = 防毒面具
     .desc = 一种覆盖面部的面具，可连接至供气系统。
 
-ent-ClothingMaskGoldenCursed = golden mask
-    .desc = Previously used in strange pantomimes, after one of the actors went mad on stage these masks have avoided use. You swear its face contorts when you're not looking.
+ent-ClothingMaskGoldenCursed = 金色面具
+    .desc = 这种面具过去常用于诡异的默剧表演。在其中一名演员于舞台上发疯后，它们便再未被使用。你发誓，只要你一移开视线，它的表情就会扭曲变形。
 

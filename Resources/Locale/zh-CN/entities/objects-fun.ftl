@@ -172,40 +172,40 @@ ent-ToyAi = AI玩具
 ## mech_figurines.yml
 
 ent-ToyRipley = 里普利玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 1/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号1/12”。
 
 ent-ToyFireRipley = 烈焰里普利玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 2/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号2/12”。
 
 ent-ToyDeathRipley = 死亡里普利玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 3/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号3/12”。
 
 ent-ToyGygax = 吉加克斯玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 4/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号4/12”。
 
 ent-ToyDurand = 杜兰德玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 5/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号5/12”。
 
 ent-ToyHonk = H.O.N.K.玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 6/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号6/12”。
 
 ent-ToyMarauder = 掠夺者玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 7/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号7/12”。
 
 ent-ToySeraph = 炽天使玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 8/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号8/12”。
 
 ent-ToyMauler = 撕裂者玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 9/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号9/12”。
 
 ent-ToyOdysseus = 奥德修斯玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 10/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号10/12”。
 
 ent-ToyPhazon = 菲佐恩玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 11/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号11/12”。
 
 ent-ToyReticence = 缄默玩具
-    .desc = 迷你机甲可动人偶！背面印有“机甲 No. 12/12”。
+    .desc = 迷你机甲可动人偶！背面印有“机甲编号12/12”。
 
 ## base_instruments.yml
 
@@ -316,7 +316,7 @@ ent-ViolaInstrument = 中提琴
     .desc = 就像小提琴，只不过更逊。
 
 ent-CelloInstrument = 大提琴
-    .desc = 书呆子们管这叫 violoncello。
+    .desc = 书呆子们管这叫“维奥隆切洛”。
 
 ## instruments_structures.yml
 
@@ -609,7 +609,7 @@ ent-PlushieMoth = 飞蛾玩偶
 ent-PlushieVulp = 狐兔玩偶
     .desc = 一个可爱的毛绒玩具，外形酷似狐兔。叽！汪！
 
-ent-ToyIan = Ian 玩具
+ent-ToyIan = Ian玩具
     .desc = 虽然不能吃，但和真的一样毛茸茸！
 
 ent-ToyAmongPequeno = 迷你内鬼
@@ -913,10 +913,10 @@ ent-PlasticBanana = 香蕉
     .desc = 一根塑料香蕉。
 
 ent-CrazyGlue = 疯狂胶水
-    .desc = 一瓶由 Honk! Co. 生产的疯狂胶水。
+    .desc = 一瓶由Honk! Co.生产的疯狂胶水。
 
 ent-CrazyLube = 疯狂润滑油
-    .desc = 一瓶由 Honk! Co. 生产的超级滑溜的润滑油。
+    .desc = 一瓶由Honk! Co.生产的超级滑溜的润滑油。
 
 ent-MrChips = 薯片先生
     .desc = 这是个假人，笨蛋！

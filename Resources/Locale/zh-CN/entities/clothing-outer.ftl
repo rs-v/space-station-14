@@ -71,10 +71,13 @@ ent-CardArmour = 纸板护甲
 ## base_clothingouter.yml
 
 ent-ClothingOuterHardsuitBase = 基础硬宇航服
+    .desc = 一种特殊防护服，可抵御危险的低气压环境。
 
 ent-ClothingOuterEVASuitBase = 基础EVA服
+    .desc = 一款轻型太空服，可在恶劣的真空环境中提供基础防护。
 
 ent-ClothingOuterBaseToggleable = 带兜帽的连帽衫
+    .desc = 一件带可切换兜帽的连帽衫。
 
 ## bio.yml
 
@@ -123,41 +126,49 @@ ent-ClothingOuterCoatLab = 实验服
     .desc = 一件能防护轻微化学品泼溅的服装。
 
 ent-ClothingOuterCoatLabOpened = 实验服
+    .desc = 一件能防护轻微化学品泼溅的服装。
 
 ent-ClothingOuterCoatLabChem = 化学家实验服
     .desc = 一件能防护轻微化学品泼溅的服装。肩部带有橙色条纹。
 
 ent-ClothingOuterCoatLabChemOpened = 化学家实验服
+    .desc = 一件能防护轻微化学品泼溅的服装。肩部带有橙色条纹。
 
 ent-ClothingOuterCoatLabViro = 病毒学家实验服
     .desc = 一件能防护细菌和病毒的服装。肩部带有绿色条纹。
 
 ent-ClothingOuterCoatLabViroOpened = 病毒学家实验服
+    .desc = 一件能防护细菌和病毒的服装。肩部带有绿色条纹。
 
 ent-ClothingOuterCoatLabGene = 遗传学家实验服
     .desc = 一件能防护轻微化学品泼溅的服装。肩部带有蓝色条纹。
 
 ent-ClothingOuterCoatLabGeneOpened = 遗传学家实验服
+    .desc = 一件能防护轻微化学品泼溅的服装。肩部带有蓝色条纹。
 
 ent-ClothingOuterCoatLabCmo = 首席医疗官实验服
     .desc = 专为首席医疗官定制的蓝色实验服，提供针对化学品泼溅和轻微割伤的强化防护。
 
 ent-ClothingOuterCoatLabCmoOpened = 首席医疗官实验服
+    .desc = 专为首席医疗官定制的蓝色实验服，提供针对化学品泼溅和轻微割伤的强化防护。
 
 ent-ClothingOuterCoatRnd = 科学家实验服
     .desc = 一件能防护轻微化学品泼溅的服装。肩部带有紫色条纹。
 
 ent-ClothingOuterCoatRndOpened = 科学家实验服
+    .desc = 一件能防护轻微化学品泼溅的服装。肩部带有紫色条纹。
 
 ent-ClothingOuterCoatRobo = 机械师实验服
     .desc = 与其说是实验服，不如说是一件风格怪诞的大衣。能帮你把血迹完美伪装成设计的一部分。附带红色肩垫。
 
 ent-ClothingOuterCoatRoboOpened = 机器人学家实验服
+    .desc = 与其说是实验服，不如说是一件风格怪诞的大衣。能帮你把血迹完美伪装成设计的一部分。附带红色肩垫。
 
 ent-ClothingOuterCoatRD = 研究主任实验服
     .desc = 采用尖端技术编织而成，这件实验服能像实验型宇航服一样提供辐射防护。
 
 ent-ClothingOuterCoatRDOpened = 研究主任实验服
+    .desc = 采用尖端技术编织而成，这件实验服能像实验型宇航服一样提供辐射防护。
 
 ent-ClothingOuterCoatPirate = 海盗装
     .desc = 呀哈。
@@ -190,11 +201,13 @@ ent-ClothingOuterCoatLabSeniorResearcher = 高级研究员实验服
     .desc = 可防护轻微化学品泼溅的实验服。带有紫色衣领和袖口镶边。
 
 ent-ClothingOuterCoatLabSeniorResearcherOpened = 高级研究员实验服
+    .desc = 可防护轻微化学品泼溅的实验服。带有紫色衣领和袖口镶边。
 
 ent-ClothingOuterCoatLabSeniorPhysician = 高级医师实验服
     .desc = 可防护轻微化学品泼溅的实验服。带有浅蓝色袖子和橙色腰部镶边。
 
 ent-ClothingOuterCoatLabSeniorPhysicianOpened = 高级医师实验服
+    .desc = 可防护轻微化学品泼溅的实验服。带有浅蓝色袖子和橙色腰部镶边。
 
 ent-ClothingOuterCoatSpaceAsshole = 太空混蛋大衣
     .desc = 他就站在那里……
@@ -203,6 +216,7 @@ ent-ClothingOuterCoatExpensive = 昂贵大衣
     .desc = 非常蓬松的粉色大衣，由极其昂贵的毛皮制成（显而易见）。
 
 ent-ClothingOuterCoatExpensiveOpened = 昂贵大衣
+    .desc = 非常蓬松的粉色大衣，由极其昂贵的毛皮制成（显而易见）。
 
 ## hardsuits.yml
 
@@ -488,33 +502,46 @@ ent-ClothingOuterWinterCoat = 冬季大衣
     .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCoatToggleable = 连帽冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterAtmos = 大气部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterBar = 酒保冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCap = 船长冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCargo = 货运部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCE = 首席工程师冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCentcom = 中央指挥部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterChef = 厨师冷库大衣
     .desc = 专为冷库作业设计的大衣，冷血蜥蜴厨师们对此急需。
 
 ent-ClothingOuterWinterChem = 化学部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCMO = 首席医疗官冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterClown = 小丑冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterEngi = 工程部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterGen = 遗传学部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterHoP = 人事主任冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterHoS = 安保主任装甲冬季大衣
     .desc = 一件坚固实用的冬季大衣，专为保护安保主任设计，既能抵御押往禁闭室的威胁，也能应对失温状况。
@@ -523,30 +550,43 @@ ent-ClothingOuterWinterHoSUnarmored = 安保主任冬季大衣
     .desc = 是一件坚固的大衣，也是一件保暖的大衣，但绝不是装甲大衣。
 
 ent-ClothingOuterWinterHydro = 水培部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterJani = 清洁部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterMed = 医疗部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterMime = 哑剧演员冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterMiner = 矿工冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterPara = 急救员冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterQM = 物资主任冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterRD = 研究主任冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterRobo = 机器人部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterSci = 科学部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterSec = 安保冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterViro = 病毒学部冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterWarden = 典狱官装甲冬季大衣
+    .desc = 一件坚固实用的冬季大衣，专为保护典狱官抵御任何押往禁闭室的威胁及失温状况而设计。
     .desc = 一件坚固实用的冬季大衣，专为保护典狱官抵御任何押往禁闭室的威胁及失温状况而设计。
 
 ent-ClothingOuterWinterWardenUnarmored = 典狱官冬季大衣
@@ -568,26 +608,37 @@ ent-ClothingOuterWinterWeb = 蛛网冬季大衣
     .desc = 触感宛如身处虫茧之中，不过这并不会减轻你对被裹进茧里的恐惧。
 
 ent-ClothingOuterWinterColorBlack = 黑色冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorPurple = 紫色冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorRed = 红色冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorBlue = 蓝色冬季大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorBrown = 棕色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorGray = 灰色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorGreen = 绿色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorLightBrown = 浅棕色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorOrange = 橙色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorWhite = 白色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorYellow = 黄色冬大衣
+    .desc = 一件由“合成”动物毛皮制成的厚重夹克。
 
 ## hardsuits.yml
 

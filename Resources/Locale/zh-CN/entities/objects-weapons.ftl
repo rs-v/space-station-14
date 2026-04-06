@@ -19,23 +19,23 @@ ent-SpeedLoaderCap = 响炮枪装弹器
 
 ## shotgun.yml
 
-ent-PelletShotgunSlug = .50 独头弹丸
+ent-PelletShotgunSlug = .50独头弹丸
 
-ent-PelletShotgunBeanbag = .50 豆袋弹丸
+ent-PelletShotgunBeanbag = .50豆袋弹丸
 
-ent-PelletShotgun = .50 弹丸
+ent-PelletShotgun = .50弹丸
 
-ent-PelletShotgunIncendiary = .50 燃烧弹丸
+ent-PelletShotgunIncendiary = .50燃烧弹丸
 
-ent-PelletShotgunPractice = .50 训练弹丸
+ent-PelletShotgunPractice = .50训练弹丸
 
 ent-PelletShotgunImprovised = 简易弹丸
 
-ent-PelletShotgunTranquilizer = .50 麻醉弹丸
+ent-PelletShotgunTranquilizer = .50麻醉弹丸
 
-ent-PelletShotgunFlare = .50 照明弹丸
+ent-PelletShotgunFlare = .50照明弹丸
 
-ent-PelletShotgunUranium = .50 铀弹丸
+ent-PelletShotgunUranium = .50铀弹丸
 
 ent-PelletGrapeshot = 葡萄弹丸
 
@@ -89,25 +89,25 @@ ent-BulletLightRifleUranium = .30步枪铀弹
 
 ## magnum.yml
 
-ent-BaseSpeedLoaderMagnum = 速装器（.45 马格南）
+ent-BaseSpeedLoaderMagnum = 速装器（.45马格南）
 
-ent-SpeedLoaderMagnum = 速装器（.45 马格南）
-    .desc = 专为快速将最多六发 .45 马格南子弹装入空转轮手枪而设计。用于装填通用动能弹药。
+ent-SpeedLoaderMagnum = 速装器（.45马格南）
+    .desc = 专为快速将最多六发.45马格南子弹装入空转轮手枪而设计。用于装填通用动能弹药。
 
-ent-SpeedLoaderMagnumEmpty = 速装器（.45 马格南 任意）
-    .desc = 专为快速将最多六发 .45 马格南子弹装入空转轮手枪而设计。
+ent-SpeedLoaderMagnumEmpty = 速装器（.45马格南任意）
+    .desc = 专为快速将最多六发.45马格南子弹装入空转轮手枪而设计。
 
-ent-SpeedLoaderMagnumIncendiary = 速装器（.45 马格南 燃烧弹）
-    .desc = 专为快速将最多六发 .45 马格南子弹装入空转轮手枪而设计。用于装填自燃型燃烧弹药。
+ent-SpeedLoaderMagnumIncendiary = 速装器（.45马格南燃烧弹）
+    .desc = 专为快速将最多六发.45马格南子弹装入空转轮手枪而设计。用于装填自燃型燃烧弹药。
 
-ent-SpeedLoaderMagnumPractice = 速装器（.45 马格南 训练弹）
-    .desc = 专为快速将最多六发 .45 马格南子弹装入空转轮手枪而设计。用于装填无害训练弹药。
+ent-SpeedLoaderMagnumPractice = 速装器（.45马格南训练弹）
+    .desc = 专为快速将最多六发.45马格南子弹装入空转轮手枪而设计。用于装填无害训练弹药。
 
-ent-SpeedLoaderMagnumAP = 速装器（.45 马格南 穿甲弹）
-    .desc = 专为快速将最多六发 .45 马格南子弹装入空转轮手枪而设计。用于装填特种穿甲弹药。
+ent-SpeedLoaderMagnumAP = 速装器（.45马格南穿甲弹）
+    .desc = 专为快速将最多六发.45马格南子弹装入空转轮手枪而设计。用于装填特种穿甲弹药。
 
-ent-SpeedLoaderMagnumUranium = 速装器（.45 马格南 铀芯弹）
-    .desc = 专为快速将最多六发 .45 马格南子弹装入空转轮手枪而设计。用于装填特殊铀芯弹药。
+ent-SpeedLoaderMagnumUranium = 速装器（.45马格南铀芯弹）
+    .desc = 专为快速将最多六发.45马格南子弹装入空转轮手枪而设计。用于装填特殊铀芯弹药。
 
 ## rifle.yml
 
@@ -126,11 +126,11 @@ ent-SpeedLoaderLightRifle = 快速装弹器（.30步枪）
 
 ## explosives.yml
 
-ent-CartridgeRocket = PG-7VL 榴弹
-    .desc = 专为 RPG-7 发射器设计的 1.5 型弹头。呈管状。
+ent-CartridgeRocket = PG-7VL榴弹
+    .desc = 专为RPG-7发射器设计的1.5型弹头。呈管状。
 
-ent-CartridgeRocketSlow = PG-7VL 榴弹“蜗牛火箭”
-    .desc = 专为 RPG-7 发射器设计的 1.5 型弹头。速度异常缓慢。
+ent-CartridgeRocketSlow = PG-7VL榴弹“蜗牛火箭”
+    .desc = 专为RPG-7发射器设计的1.5型弹头。速度异常缓慢。
 
 ent-BaseGrenade = 基础手榴弹
 
@@ -144,7 +144,7 @@ ent-GrenadeFrag = 破片手榴弹
 
 ent-GrenadeCleanade = 清洁手榴弹
 
-ent-GrenadeEMP = EMP 手榴弹
+ent-GrenadeEMP = EMP手榴弹
 
 ent-BaseCannonBall = 基础炮弹
 
@@ -228,6 +228,11 @@ ent-RedShuttleLaser = 穿梭机级红色激光射线
 ent-DebugLaser = 调试激光射线
 
 ent-DebugLaserGib = 调试碎尸射线
+
+ent-WeaponHitscanDebug = 呯呯命中扫描1伤害
+    .desc = 呯呯！
+
+ent-WeaponHitscanDebugGib = 呯呯命中扫描碎尸器
 
 ## magic.yml
 
@@ -381,6 +386,26 @@ ent-BulletLaserMagnum = 马格南激光弹
 
 ent-BulletLaserWindowPiercingMagnum = 马格南穿窗激光弹
 
+ent-BulletDebug = 呯，倒地子弹
+
+## debugging/debug_sweps.yml
+
+ent-WeaponPistolDebug = 呯，倒地
+    .desc = 倒地。
+
+ent-MagazinePistolDebug = 呯，倒地弹匣
+
+ent-CartridgeDebug = 呯，倒地弹药
+
+ent-MeleeDebugGib = 呯棍碎尸器
+    .desc = 狠敲一下。
+
+ent-MeleeDebug100 = 呯棍100伤害
+
+ent-MeleeDebug200 = 呯棍200伤害
+
+## revolvers.yml
+
 ent-EnergyCrossbowBolt = 能量弹
     .desc = 这会很疼的。
 
@@ -450,22 +475,22 @@ ent-CartridgeCap = 火帽枪弹
 
 ## shotgun.yml
 
-ent-ShellShotgunSlug = 霰弹 (.50 独头弹)
+ent-ShellShotgunSlug = 霰弹（.50独头弹）
     .desc = 大多数现代霰弹枪使用的标准弹药。独头弹内含单枚高密度弹丸，比普通霰弹的有效射程更远。
 
-ent-ShellShotgunFlare = 霰弹 (.50 信号弹)
+ent-ShellShotgunFlare = 霰弹（.50信号弹）
     .desc = 大多数现代霰弹枪使用的标准弹药。信号弹内含单枚高亮度燃烧弹丸，主要用于照明与信号传递，而非用于战斗。
 
-ent-ShellShotgun = 霰弹 (.50 标准弹)
+ent-ShellShotgun = 霰弹（.50标准弹）
     .desc = 大多数现代霰弹枪使用的标准弹药。标准动能弹药十分常见，适用于大多数情况。
 
-ent-ShellShotgunIncendiary = 霰弹 (.50 燃烧弹)
+ent-ShellShotgunIncendiary = 霰弹（.50燃烧弹）
     .desc = 大多数现代霰弹枪使用的标准弹药。燃烧弹内含自燃化合物，命中后可引燃目标。
 
-ent-ShellShotgunPractice = 霰弹 (.50 训练弹)
+ent-ShellShotgunPractice = 霰弹（.50训练弹）
     .desc = 大多数现代霰弹枪使用的标准弹药。训练弹内含粉笔弹丸，命中时仅有轻微刺痛感，不会造成任何实质性伤害。
 
-ent-ShellTranquilizer = 霰弹 (.50 镇静弹)
+ent-ShellTranquilizer = 霰弹（.50镇静弹）
     .desc = 大多数现代霰弹枪使用的标准弹药。镇静弹内含单枚弹道注射器，装填有强效镇静剂，可安全无害地使目标陷入沉睡。
 
 ent-ShellShotgunImprovised = 自制霰弹

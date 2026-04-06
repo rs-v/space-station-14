@@ -20,37 +20,52 @@ ent-ClothingHeadHatAnimalMonkey = 猴头帽
 ## bandanas.yml
 
 ent-ClothingHeadBandBlack = 黑色头巾
+    .desc = 一条能让你看起来很酷的黑色头巾。
 
 ent-ClothingHeadBandBlue = 蓝色头巾
+    .desc = 一条让你看起来很酷的蓝色头巾。
 
 ent-ClothingHeadBandBotany = 植物学头巾
+    .desc = 一条由天然纤维制成的植物学头巾，让你看起来酷劲十足。
 
 ent-ClothingHeadBandGold = 金色头巾
+    .desc = 一条让你看起来很酷的金色头巾。
 
 ent-ClothingHeadBandGreen = 绿色头巾
+    .desc = 一条让你看起来很酷的绿色头巾。
 
 ent-ClothingHeadBandGrey = 灰色头巾
+    .desc = 一条灰色的头巾，让你看起来很酷。
 
 ent-ClothingHeadBandRed = 红色头巾
+    .desc = 一条能让你看起来很酷的红头巾。
 
 ent-ClothingHeadBandSkull = 骷髅头巾
+    .desc = 印有骷髅图案的头巾，让你看起来更酷。
 
 ent-ClothingHeadBandMerc = 雇佣兵头巾
+    .desc = 用于保护头部免受阳光、昆虫以及高处其他危险的侵害。
 
 ent-ClothingHeadBandBrown = 棕色头巾
+    .desc = 一条让你看起来很酷的棕色头巾。
 
 ## base_clothinghead.yml
 
 ent-ClothingHeadLightBase = 基础带灯头盔
+    .desc = 一顶带有可切换照明灯的基础头盔。
 
 ent-ClothingHeadEVAHelmetBase = 基础太空头盔
+    .desc = 一顶可在危险低气压环境中提供基础防护的太空头盔。
 
 ent-ClothingHeadHardsuitBase = 基础抗压服头盔
+    .desc = 一顶专为抗压服配套设计的基础头盔。
 
 ent-ClothingHeadSuitWithLightBase = 基础带灯抗压服头盔
+    .desc = 一顶带有可切换照明灯的抗压服基础头盔。
 
 ent-ClothingHeadHatHoodWinterBase = 基础冬装兜帽
     .desc = 一顶用于头部保暖的兜帽。
+
 
 ## eva-helmets.yml
 
@@ -137,7 +152,7 @@ ent-ClothingHeadHelmetHardsuitRd = 实验研究抗压服头盔
     .desc = 轻量化抗压服头盔，不会限制头部活动。
 
 ent-ClothingHeadHelmetHardsuitSecurityRed = 安保主任抗压服头盔
-    .desc = 搭载最新绝密 NT-HUD 软件的安保抗压服头盔。安保主任专属。
+    .desc = 搭载最新绝密NT-HUD软件的安保抗压服头盔。安保主任专属。
 
 ent-ClothingHeadHelmetHardsuitLuxury = 豪华采矿抗压服头盔
     .desc = 一款翻新的采矿抗压服头盔，配有缎面软垫和一根额外的（无功能的）天线，毕竟你就是这么“浮夸”。
@@ -271,7 +286,7 @@ ent-ClothingHeadHatFedoraGrey = 灰色软呢帽
     .desc = 一顶灰色软呢帽。
 
 ent-ClothingHeadHatFedoraPress = 记者软呢帽
-    .desc = 帽带上插着一张写有“PRESS”的小纸条。简直堪比全权通行证！
+    .desc = 帽带上插着一张写有“记者”的小纸条。简直堪比全权通行证！
 
 ent-ClothingHeadHatFez = 菲斯帽
     .desc = 一顶红色的菲斯帽。
@@ -334,7 +349,7 @@ ent-ClothingHeadHatWitch = 女巫帽
     .desc = 一顶女巫帽。
 
 ent-ClothingHeadHatWizardFake = 假冒法师帽
-    .desc = 帽子上用俗气的亮片拼着“WIZZARD”的字样。还附带一条酷炫的胡子。
+    .desc = 帽子上用俗气的亮片拼着“法师”的字样。还附带一条酷炫的胡子。
 
 ent-ClothingHeadHatWizard = 法师帽
     .desc = 一顶造型奇特的蓝色帽子，毫无疑问属于某位强大的魔法使用者。
@@ -418,10 +433,13 @@ ent-ClothingHeadHatPartyRed = 红色派对帽
     .desc = 传递欢乐吧！
 
 ent-ClothingHeadHatPartyYellow = 黄色派对帽
+    .desc = 传递欢乐吧！
 
 ent-ClothingHeadHatPartyGreen = 绿色派对帽
+    .desc = 传递欢乐吧！
 
 ent-ClothingHeadHatPartyBlue = 蓝色派对帽
+    .desc = 传递欢乐吧！
 
 ent-ClothingHeadHatPartyWaterCup = 水杯派对帽
     .desc = 并没有你想象中那么能装……
@@ -436,14 +454,19 @@ ent-ClothingHeadHatCowboyBrown = 棕色牛仔帽
     .desc = “这顶帽子可容不下我们俩。”
 
 ent-ClothingHeadHatCowboyBlack = 黑色牛仔帽
+    .desc = “这顶帽子可容不下我们俩。”
 
 ent-ClothingHeadHatCowboyGrey = 灰色牛仔帽
+    .desc = “这顶帽子可容不下我们俩。”
 
 ent-ClothingHeadHatCowboyRed = 红色牛仔帽
+    .desc = “这顶帽子可容不下我们俩。”
 
 ent-ClothingHeadHatCowboyWhite = 白色牛仔帽
+    .desc = “这顶帽子可容不下我们俩。”
 
 ent-ClothingHeadHatCowboyBountyHunter = 赏金猎人牛仔帽
+    .desc = “这顶帽子可容不下我们俩。”
 
 ent-ClothingHeadHatStrawHat = 草帽
     .desc = 炎热天气里的时髦帽子！不建议在火源附近佩戴。
@@ -582,78 +605,113 @@ ent-ClothingHeadHatHoodMoth = 飞蛾面具
     .desc = 飞蛾头部造型的面具，通常由轻质材料制成。它还原了飞蛾头部的大眼睛与长触角特征，常用于角色扮演或影视拍摄。
 
 ent-ClothingHeadHatHoodWinterDefault = 基础冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterBartender = 酒保冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCaptain = 站长冬装兜帽
     .desc = 一款价格不菲的兜帽，专为站长头部保暖设计。
 
 ent-ClothingHeadHatHoodWinterCargo = 货运冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCE = 首席工程师冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCentcom = 中央指挥部冬装兜帽
     .desc = 专为中央指挥官头部保暖设计的兜帽。
 
 ent-ClothingHeadHatHoodWinterChem = 化学家冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCMO = 首席医疗官冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterEngineer = 工程师冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterHOP = 人事主任冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterHOS = 安保主任冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterHydro = 水培员冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterJani = 清洁工冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterMed = 医疗员冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterMime = 哑剧演员冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterMiner = 矿工冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterPara = 急救员冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterQM = 物资主任冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterRD = 研究主任冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterRobo = 机器人技术员冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSci = 科学家冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSec = 安保冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSyndie = 辛迪加冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterWarden = 典狱官冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterWeb = 网络技术员冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorBlack = 黑色冬季大衣兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorPurple = 紫色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorRed = 红色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorBlue = 蓝色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorBrown = 棕色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorGray = 灰色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorGreen = 绿色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorLightBrown = 浅棕色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorOrange = 橙色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorWhite = 白色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorYellow = 黄色冬装兜帽
+    .desc = 一顶用于头部保暖的兜帽。
+
 
 ent-ClothingHeadHatHoodVoidCloak = 虚空斗篷兜帽
     .desc = 虚空斗篷的兜帽。专为那些堕入黑暗原力的人准备。
@@ -740,81 +798,97 @@ ent-ClothingHeadHatBluesoft = 蓝色棒球帽
     .desc = 一顶蓝色棒球帽。
 
 ent-ClothingHeadHatBluesoftFlipped = 蓝色棒球帽
+    .desc = 一顶蓝色棒球帽。
 
 ent-ClothingHeadHatCargosoft = 货运棒球帽
     .desc = 一顶颜色与货运部制服相配的棒球帽。
 
 ent-ClothingHeadHatCargosoftFlipped = 货运棒球帽
+    .desc = 一顶颜色与货运部制服相配的棒球帽。
 
 ent-ClothingHeadHatQMsoft = 物资主任帽
     .desc = 一顶颜色与物资主任制服相配的棒球帽。
 
 ent-ClothingHeadHatQMsoftFlipped = 物资主任帽
+    .desc = 一顶颜色与物资主任制服相配的棒球帽。
 
 ent-ClothingHeadHatCommandSoft = 指挥棒球帽
     .desc = 一顶采用指挥层标志性蓝色的棒球帽。
 
 ent-ClothingHeadHatCommandSoftFlipped = 指挥棒球帽
+    .desc = 一顶采用指挥层标志性蓝色的棒球帽。
 
 ent-ClothingHeadHatCorpsoft = 公司棒球帽
     .desc = 一顶采用公司标准配色的棒球帽。
 
 ent-ClothingHeadHatCorpsoftFlipped = 公司棒球帽
+    .desc = 一顶采用公司标准配色的棒球帽。
 
 ent-ClothingHeadHatGreensoft = 绿色棒球帽
     .desc = 一顶绿色棒球帽。
 
 ent-ClothingHeadHatGreensoftFlipped = 绿色棒球帽
+    .desc = 一顶绿色棒球帽。
 
 ent-ClothingHeadHatBlacksoft = 黑色棒球帽
     .desc = 一顶黑色棒球帽。
 
 ent-ClothingHeadHatBlacksoftFlipped = 黑色棒球帽
+    .desc = 一顶黑色棒球帽。
 
 ent-ClothingHeadHatGreysoft = 灰色棒球帽
     .desc = 一顶灰色棒球帽。
 
 ent-ClothingHeadHatGreysoftFlipped = 灰色棒球帽
+    .desc = 一顶灰色棒球帽。
 
 ent-ClothingHeadHatMimesoft = 白色棒球帽
     .desc = 一顶白色棒球帽。
 
 ent-ClothingHeadHatMimesoftFlipped = 白色棒球帽
+    .desc = 一顶白色棒球帽。
 
 ent-ClothingHeadHatOrangesoft = 橙色棒球帽
     .desc = 一顶橙色棒球帽。
 
 ent-ClothingHeadHatOrangesoftFlipped = 橙色棒球帽
+    .desc = 一顶橙色棒球帽。
 
 ent-ClothingHeadHatPurplesoft = 紫色棒球帽
     .desc = 一顶紫色的棒球帽。
 
 ent-ClothingHeadHatPurplesoftFlipped = 紫色棒球帽
+    .desc = 一顶紫色的棒球帽。
 
 ent-ClothingHeadHatRedsoft = 红色棒球帽
     .desc = 一顶红色的棒球帽。
 
 ent-ClothingHeadHatRedsoftFlipped = 红色棒球帽
+    .desc = 一顶红色的棒球帽。
 
 ent-ClothingHeadHatSecsoft = 安保棒球帽
     .desc = 一顶配色与安保制服相匹配的棒球帽。
 
 ent-ClothingHeadHatSecsoftFlipped = 安保棒球帽
+    .desc = 一顶配色与安保制服相匹配的棒球帽。
 
 ent-ClothingHeadHatYellowsoft = 黄色棒球帽
     .desc = 一顶黄色的棒球帽。
 
 ent-ClothingHeadHatYellowsoftFlipped = 黄色棒球帽
+    .desc = 一顶黄色的棒球帽。
 
 ent-ClothingHeadHatBizarreSoft = 捣蛋鬼棒球帽
     .desc = 一件真正……古怪的配饰。
 
 ent-ClothingHeadHatBizarreSoftFlipped = 捣蛋鬼棒球帽
+    .desc = 一件真正……古怪的配饰。
 
 ent-ClothingHeadHatParamedicsoft = 急救员棒球帽
     .desc = 一顶正面带有十字标志的蓝色棒球帽。
 
 ent-ClothingHeadHatParamedicsoftFlipped = 急救员棒球帽
+    .desc = 一顶正面带有十字标志的蓝色棒球帽。
 
 ## specific.yml
 
@@ -827,6 +901,7 @@ ent-ClothingHeadHatDetGadget = Go-Go帽
 ## welding.yml
 
 ent-WeldingMaskBase = 焊接面罩
+    .desc = 一款头戴式面部护具，旨在完全保护佩戴者免受太空弧光眼的伤害。
 
 ent-ClothingHeadHatWelding = 焊接面罩
     .desc = 一款头戴式面部护具，旨在完全保护佩戴者免受太空弧光眼的伤害。

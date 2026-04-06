@@ -45,6 +45,11 @@ ent-Shovel = 铲子
 ent-RollingPin = 擀面杖
     .desc = 用于擀制和压平面团的工具。
 
+## Debugging/spanisharmyknife.yml
+
+ent-ToolDebug = 西班牙军刀
+    .desc = 用这东西的痛苦几乎令人难以承受。
+
 ## welders.yml
 
 ent-Welder = 焊枪
@@ -112,6 +117,20 @@ ent-ToolboxSyndicate = 可疑工具箱
 ent-ToolboxGolden = 黄金工具箱
     .desc = 一个纯金工具箱。说唱歌手见了都会红眼。
 
+ent-ToolboxEmergencyFilled = 应急工具箱
+
+ent-ToolboxElectricalFilled = 电气工具箱
+
+ent-ToolboxElectricalTurretFilled = 电气工具箱
+
+ent-ToolboxArtisticFilled = 艺术工具箱
+
+ent-ToolboxMechanicalFilled = 机械工具箱
+
+ent-ToolboxMechanicalFilledAllTools = 机械工具箱
+
+ent-ToolboxGoldFilled = 黄金工具箱
+
 ent-Foolbox = 愚人工具箱
     .desc = 为傻瓜准备的工具箱，内置各种小丑装备。
 
@@ -152,6 +171,12 @@ ent-NitrousOxideTank = 氧化亚氮罐
 
 ent-PlasmaTank = 等离子罐
     .desc = 内含危险等离子体，切勿吸入，极易燃烧。容量5升。
+
+ent-NitrogenTankFilled = 氮气罐
+
+ent-NitrousOxideTankFilled = 氧化亚氮罐
+
+ent-PlasmaTankFilled = 等离子罐
 
 ## cable_coils.yml
 
