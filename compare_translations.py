@@ -25,6 +25,22 @@ class TranslationComparator:
         self.zh_ftl_entries: Dict[str, str] = {}  # key -> file_path
         self.yml_translatable_entries: List[Tuple[str, str, str, str]] = []  # (file, entity_id, field, value)
 
+        # 设置 YAML 自定义加载器
+        self._setup_yaml_loader()
+
+    def _setup_yaml_loader(self):
+        """设置自定义 YAML 加载器以处理未知标签"""
+        def unknown_constructor(loader, tag_suffix, node):
+            if isinstance(node, yaml.MappingNode):
+                return loader.construct_mapping(node)
+            elif isinstance(node, yaml.SequenceNode):
+                return loader.construct_sequence(node)
+            else:
+                return loader.construct_scalar(node)
+
+        # 添加多标签处理器，忽略所有未知标签
+        yaml.add_multi_constructor('!type:', unknown_constructor, Loader=yaml.SafeLoader)
+
     def parse_ftl_file(self, ftl_path: Path) -> Dict[str, str]:
         """解析 FTL 文件，提取所有翻译 key"""
         entries = {}
@@ -65,30 +81,43 @@ class TranslationComparator:
 
         try:
             with open(yml_path, 'r', encoding='utf-8') as f:
-                content = yaml.safe_load_all(f)
+                docs = list(yaml.safe_load_all(f))
 
-                for doc in content:
-                    if not doc or not isinstance(doc, dict):
+                for doc in docs:
+                    if not doc:
                         continue
 
-                    # 只处理 entity 类型
-                    if doc.get('type') == 'entity':
-                        entity_id = doc.get('id', 'unknown')
+                    # 处理列表类型的文档（大多数原型文件是这样的）
+                    items_to_process = []
+                    if isinstance(doc, list):
+                        items_to_process = doc
+                    elif isinstance(doc, dict):
+                        items_to_process = [doc]
 
-                        # 检查 name 字段
-                        if 'name' in doc:
-                            name_value = doc['name']
-                            if isinstance(name_value, str) and name_value.strip():
-                                entries.append((str(yml_path), entity_id, 'name', name_value))
+                    # 处理每个项目
+                    for item in items_to_process:
+                        if not isinstance(item, dict):
+                            continue
 
-                        # 检查 description 字段
-                        if 'description' in doc:
-                            desc_value = doc['description']
-                            if isinstance(desc_value, str) and desc_value.strip():
-                                entries.append((str(yml_path), entity_id, 'description', desc_value))
+                        # 只处理 entity 类型
+                        if item.get('type') == 'entity':
+                            entity_id = item.get('id', 'unknown')
+
+                            # 检查 name 字段
+                            if 'name' in item:
+                                name_value = item['name']
+                                if isinstance(name_value, str) and name_value.strip():
+                                    entries.append((str(yml_path), entity_id, 'name', name_value))
+
+                            # 检查 description 字段
+                            if 'description' in item:
+                                desc_value = item['description']
+                                if isinstance(desc_value, str) and desc_value.strip():
+                                    entries.append((str(yml_path), entity_id, 'description', desc_value))
 
         except Exception as e:
-            print(f"警告: 无法解析 YAML 文件 {yml_path}: {e}")
+            # 静默处理错误，只在需要时输出
+            pass
 
         return entries
 
@@ -215,7 +244,7 @@ class TranslationComparator:
         print(f"\n正在生成详细报告到 {output_csv}...")
 
         with open(output_csv, 'w', newline='', encoding='utf-8-sig') as csvfile:
-            fieldnames = ['类型', '键名/实体ID', '字段', '英文文件路径', '中文文件路径', '状态', '原文内容']
+            fieldnames = ['类型', '键名/实体ID', '字段', 'YAML文件路径', '中文FTL文件路径', '状态', '原文内容']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
             writer.writeheader()
@@ -237,29 +266,72 @@ class TranslationComparator:
                     '类型': 'FTL条目',
                     '键名/实体ID': key,
                     '字段': '',
-                    '英文文件路径': en_file,
-                    '中文文件路径': zh_file,
+                    'YAML文件路径': en_file,
+                    '中文FTL文件路径': zh_file,
                     '状态': status,
                     '原文内容': ''
                 })
 
+            # 2. YAML 原型条目比较
+            yml_missing_count = 0
+            yml_translated_count = 0
+
+            for yml_file, entity_id, field, original_text in self.yml_translatable_entries:
+                # 根据字段类型生成对应的 FTL key
+                if field == 'name':
+                    ftl_key = f"ent-{entity_id}"
+                elif field == 'description':
+                    ftl_key = f"ent-{entity_id}.desc"
+                else:
+                    continue
+
+                # 检查中文 FTL 中是否存在对应的翻译
+                if ftl_key in self.zh_ftl_entries:
+                    status = '已翻译'
+                    zh_file = self.zh_ftl_entries[ftl_key]
+                    yml_translated_count += 1
+                else:
+                    status = 'YAML硬编码-缺少中文翻译'
+                    zh_file = ''
+                    yml_missing_count += 1
+
+                writer.writerow({
+                    '类型': 'YAML原型',
+                    '键名/实体ID': entity_id,
+                    '字段': field,
+                    'YAML文件路径': yml_file,
+                    '中文FTL文件路径': zh_file,
+                    '状态': status,
+                    '原文内容': original_text[:100] if len(original_text) > 100 else original_text
+                })
+
         # 打印统计
         print("\n=== 详细翻译统计 ===")
+        print("\n【FTL 文件对比】")
         en_count = len(self.en_ftl_entries)
         zh_count = len(self.zh_ftl_entries)
         both_count = len(set(self.en_ftl_entries.keys()) & set(self.zh_ftl_entries.keys()))
         missing_zh = len(set(self.en_ftl_entries.keys()) - set(self.zh_ftl_entries.keys()))
         extra_zh = len(set(self.zh_ftl_entries.keys()) - set(self.en_ftl_entries.keys()))
 
-        print(f"英文 FTL 条目总数: {en_count}")
-        print(f"中文 FTL 条目总数: {zh_count}")
-        print(f"已翻译条目: {both_count}")
-        print(f"缺失中文翻译: {missing_zh}")
-        print(f"多余中文翻译(英文中不存在): {extra_zh}")
+        print(f"  英文 FTL 条目总数: {en_count}")
+        print(f"  中文 FTL 条目总数: {zh_count}")
+        print(f"  已翻译条目: {both_count}")
+        print(f"  缺失中文翻译: {missing_zh}")
+        print(f"  多余中文翻译(英文中不存在): {extra_zh}")
 
         if en_count > 0:
             coverage = (both_count / en_count) * 100
-            print(f"翻译覆盖率: {coverage:.2f}%")
+            print(f"  FTL 翻译覆盖率: {coverage:.2f}%")
+
+        print("\n【YAML 原型文件对比】")
+        print(f"  YAML 可翻译条目总数: {len(self.yml_translatable_entries)}")
+        print(f"  已有中文翻译: {yml_translated_count}")
+        print(f"  缺少中文翻译: {yml_missing_count}")
+
+        if len(self.yml_translatable_entries) > 0:
+            yml_coverage = (yml_translated_count / len(self.yml_translatable_entries)) * 100
+            print(f"  YAML 翻译覆盖率: {yml_coverage:.2f}%")
 
         print(f"\n详细报告已保存到: {output_csv}")
 
