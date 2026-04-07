@@ -80,9 +80,6 @@ ent-MaterialHideBear = 熊皮
 ent-MaterialHideCorgi = 柯基皮
     .desc = 仅用于最顶级时装的奢华毛皮。据说这是在柯基被送去那个美好农场时才能得到的东西。
 
-ent-WallRockAndesite = 安山岩
-    .desc = 一堵未经开采的安山岩墙。
-
 ent-MaterialDiamond = 精制钻石
     .desc = 一种原材料。
 

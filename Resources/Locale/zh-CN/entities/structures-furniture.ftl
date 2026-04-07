@@ -279,16 +279,6 @@ ent-WoodenBench = 木长椅
 ent-Dresser = 梳妆台
     .desc = 木制梳妆台，内部可存放物品。非常适合存放内衣，或者……别人的肾？……
 
-## memorial.yml
-
-ent-Memorial = 纪念碑
-    .desc = 用于纪念某些事物。
-
-ent-SS13Memorial = 无名员工之墓
-    .desc = 此处安息着一位无名员工
-        不知其名，不知其职
-        其功绩将永不被遗忘
-
 ## potted_plants.yml
 
 ent-PottedPlantBase = 盆栽
@@ -352,7 +342,7 @@ ent-PottedPlantBioluminscent = 荧光盆栽
 
 ent-PottedPlantRD = 研究主任的盆栽
     .desc = 这是园艺部员工在研究主任调职后赠送的礼物。上面挂着一个标签，写着：“有空常回来看看，听见没？”
-它看起来不太健康……
+        它看起来不太健康……
 
 ent-PottedPlant27 = 塑料盆栽
     .desc = 一棵看起来廉价劣质的假塑料树。非常适合那些“碰啥死啥”的植物杀手。

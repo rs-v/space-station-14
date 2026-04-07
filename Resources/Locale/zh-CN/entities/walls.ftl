@@ -111,14 +111,6 @@ ent-FenceWoodSmallGate = 小木围栏门
 ent-BaseRailing = 栏杆
     .desc = 基础栏杆，防止像你这样的笨蛋掉下去。
 
-## asteroid.yml
-
-ent-WallRockBasalt = 玄武岩
-ent-WallRockSnow = 积雪
-ent-WallRockSand = 砂岩
-ent-WallRockChromite = 铬铁矿
-ent-WallRockAndesite = 安山岩
-
 ## inflatable_wall.yml
 
 ent-InflatableWall = 充气路障
