@@ -1,6 +1,9 @@
 lobby-state-background-warden-title = 典狱长
 lobby-state-background-warden-artist = Solbusaur
 
+lobby-state-background-invisiblewall-title = 无形之墙
+lobby-state-background-invisiblewall-artist = Vandersloot
+
 lobby-state-background-pharmacy-title = 药房
 lobby-state-background-pharmacy-artist = Solbusaur
 

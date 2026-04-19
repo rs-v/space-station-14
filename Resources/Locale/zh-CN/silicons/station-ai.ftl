@@ -8,6 +8,7 @@ station-ai-has-no-power-for-upload = 上传失败——AI 核心未通电。
 station-ai-is-too-damaged-for-upload = 上传失败——AI 核心必须先修复。
 station-ai-core-losing-power = 你的 AI 核心现在正在使用备用电池供电。
 station-ai-core-critical-power = 你的 AI 核心电量严重不足。必须重新建立外部电源，否则可能发生严重数据损坏！
+station-ai-core-taking-damage = 你的 AI 核心正在承受物理损伤。
 
 # 幽灵角色
 station-ai-ghost-role-name = 站点 AI
