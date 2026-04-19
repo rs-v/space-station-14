@@ -31,8 +31,12 @@ lathe-category-faux-tile = 仿制砖
 lathe-category-maints-tile = 维修通道砖
 lathe-category-marble = 大理石
 lathe-category-steel-tile = 钢铁砖
+lathe-category-shuttle-tile = 穿梭机砖
 lathe-category-white-tile = 白色砖
 lathe-category-wood-tile = 木质砖
+lathe-category-plastic-tile = 塑料砖
+lathe-category-precious-tile = 贵重砖
+lathe-category-industrial-tile = 工业砖
 
 # 科学
 lathe-category-mechs = 机甲
