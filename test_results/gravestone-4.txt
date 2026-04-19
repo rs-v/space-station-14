@@ -1,0 +1,29 @@
+Test pair initialized.
+#1: Guidebook.GuideEntryPrototypeTests.Validate("Foods") (started at 5180308160 bytes allocated.)
+#2: Guidebook.GuideEntryPrototypeTests.Validate("Special") (started at 5322852176 bytes allocated.)
+#3: Guidebook.GuideEntryPrototypeTests.Validate("Others") (started at 5656405640 bytes allocated.)
+Test pair killed.
+   at System.Environment.get_StackTrace()
+   at Robust.UnitTesting.Pool.TestPair`2.Kill() in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/Pool/TestPair.cs:line 127
+   at Robust.UnitTesting.Pool.TestPair`2.OnCleanDispose() in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/Pool/TestPair.Recycle.cs:line 107
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at Robust.UnitTesting.Pool.TestPair`2.ReallyBeIdle(Int32 runTicks) in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/Pool/TestPair.Helpers.cs:line 246
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at Robust.UnitTesting.RobustIntegrationTest.IntegrationInstance.WaitRunTicks(Int32 ticks) in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/RobustIntegrationTest.cs:line 571
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at Robust.UnitTesting.RobustIntegrationTest.IntegrationInstance.WaitIdleImplAsync(Boolean throwOnUnhandled, CancellationToken cancellationToken) in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/RobustIntegrationTest.cs:line 506
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadPool.<>c.<.cctor>b__48_0(Object state)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+   at System.Threading.Thread.StartCallback()

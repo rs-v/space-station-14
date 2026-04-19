@@ -1,0 +1,36 @@
+Test pair initialized.
+#1: Guidebook.GuideEntryPrototypeTests.Validate("Biological") (started at 6939457640 bytes allocated.)
+#2: Guidebook.GuideEntryPrototypeTests.Validate("CargoBounties") (started at 7047108704 bytes allocated.)
+#3: Guidebook.GuideEntryPrototypeTests.Validate("Salvage") (started at 7170618136 bytes allocated.)
+#4: Guidebook.GuideEntryPrototypeTests.Validate("Medical") (started at 7207777144 bytes allocated.)
+#5: Guidebook.GuideEntryPrototypeTests.Validate("MedicalDoctor") (started at 7210785360 bytes allocated.)
+#6: Guidebook.GuideEntryPrototypeTests.Validate("Cloning") (started at 7215846392 bytes allocated.)
+#7: Guidebook.GuideEntryPrototypeTests.Validate("Cryogenics") (started at 7222935232 bytes allocated.)
+#8: Guidebook.GuideEntryPrototypeTests.Validate("Chemist") (started at 7229930552 bytes allocated.)
+#9: Guidebook.GuideEntryPrototypeTests.Validate("Medicine") (started at 7242209848 bytes allocated.)
+#10: Guidebook.GuideEntryPrototypeTests.Validate("Botanicals") (started at 7262774744 bytes allocated.)
+Test pair killed.
+   at System.Environment.get_StackTrace()
+   at Robust.UnitTesting.Pool.TestPair`2.Kill() in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/Pool/TestPair.cs:line 127
+   at Robust.UnitTesting.Pool.TestPair`2.OnCleanDispose() in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/Pool/TestPair.Recycle.cs:line 107
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at Robust.UnitTesting.Pool.TestPair`2.ReallyBeIdle(Int32 runTicks) in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/Pool/TestPair.Helpers.cs:line 246
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at Robust.UnitTesting.RobustIntegrationTest.IntegrationInstance.WaitRunTicks(Int32 ticks) in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/RobustIntegrationTest.cs:line 571
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at Robust.UnitTesting.RobustIntegrationTest.IntegrationInstance.WaitIdleImplAsync(Boolean throwOnUnhandled, CancellationToken cancellationToken) in /home/runner/work/space-station-14-zh/space-station-14-zh/RobustToolbox/Robust.UnitTesting/RobustIntegrationTest.cs:line 506
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadPool.<>c.<.cctor>b__48_0(Object state)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+   at System.Threading.Thread.StartCallback()
